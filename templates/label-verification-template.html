@@ -1,0 +1,357 @@
+<meta content="width=device-width,initial-scale=1" name="viewport" /><script>
+
+    function hideInstr() {
+        var instr = document.getElementById("instr");
+        var hideTab = document.getElementById("hide-panel");
+        var showTab = document.getElementById("show-panel");
+        instr.style.display = 'none';
+        hideTab.style.display = 'none';
+        showTab.style.display = 'block';
+    }
+
+    function showInstr() {
+        var instr = document.getElementById("instr");
+        var hideTab = document.getElementById("hide-panel");
+        var showTab = document.getElementById("show-panel");
+        hideTab.style.display = 'block';
+        showTab.style.display = 'none';
+        instr.style.display = 'block';
+    }
+</script>
+<style type="text/css">#feedback {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    width: 50%;
+}
+h3 {
+    margin-top: 0;
+}
+
+crowd-card {
+    width: 100%;
+}
+
+.card {
+    margin: 10px;
+}
+
+.left {
+    width: 70%;
+    margin-right: 10px;
+    display: inline-block;
+    height: 200px;
+}
+
+.right {
+    width: 20%;
+    height: 200px;
+    display: inline-block;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+.hypothesis {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.hypo-card {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    background-color: #f5f5f5;
+}
+.input-table {
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.input-table tr :hover {
+    background-color: #bfe6ff;
+}
+#instructionBody {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 20px;
+}
+.container {
+    width: 70%;
+    padding: 10px;
+}
+#instructionHeader {
+    margin-bottom: 20px;
+    margin-left: 0 !important;
+    background-color: #45b6fe;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 50px;
+    padding-top: 10px;
+}
+.main-table {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+.unclickable {
+    pointer-events: none;
+}
+td {
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100em;
+}
+.reasoning {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.feedback {
+    margin-top: 50px;
+}
+.panel-heading {
+    color: #fff;
+}
+.panel-body {
+    border: 1px solid #45b6fe;
+    margin: 20px;
+    border-radius: 10px;
+}
+.panel-body-body {
+    padding: 20px;
+}
+.subtable tr th {
+    width: 200px;
+}
+.table-heading {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.table-heading th {
+    border: 0;
+}
+.mod {
+    background-color: #D3D3D3;
+    width: 200px;
+    margin-left: 20px;
+}
+.relevant {
+    background-color: #FFFCBB;
+}
+</style>
+<div class="panel-body" id="show-panel" onclick="showInstr()">
+<div class="panel panel-primary" id="instructionHeader"><!-- WARNING: the ids "collapseTrigger" and "instructionBody" are being used to enable expand/collapse feature --><a class="panel-heading" href="javascript:void(0);" onclick="hideInstr()"><strong>Click to Show Instructions</strong> </a></div>
+
+<div class="panel-body-body">
+<h6>If you are visiting this task for the first time, please click to expand instructions.</h6>
+</div>
+</div>
+
+<div class="panel-body" id="instr" style="display: none;">
+<div class="panel panel-primary" id="instructionHeader"><!-- WARNING: the ids "collapseTrigger" and "instructionBody" are being used to enable expand/collapse feature --><a class="panel-heading" href="javascript:void(0);" id="hide-panel" onclick="hideInstr()"><strong>Table Comprehension Instructions</strong> (Click to Hide) </a></div>
+
+<div class="panel-body-body">
+<p>In this task, we will ask you to make inferences about the information presented in a tabular form.</p>
+
+<p>We will show you a table and three statements. Using only the table and <u>what <i>you</i> believe most people know</u> about the world, you should choose one of the following options for each statement:</p>
+
+<ol>
+    <li>Based on the information in the table and what is commonly known, the statement is <b>definitely true</b>.</li>
+    <li>Based on the information in the table and what is commonly known, the statement is <b>definitely false</b>.</li>
+    <li>The statement <b>could be true, but could also be false</b>. We need additional information that is neither commonly known, nor explicitly mentioned in the table comes to a conclusion.</li>
+</ol>
+
+<p><strong>[Important]</strong>&nbsp;Avoid using information that you may know if you believe that it is not generally known.</p>
+
+<div>The table below and the following examples clarify the instructions. Please go over these examples carefully.</div>
+&nbsp;
+
+<table align="center" border="1">
+    <caption><strong>New York Stock Exchange</strong></caption>
+    <tbody>
+        <tr>
+            <th scope="row" style="text-align: left;">Type</th>
+            <td style="text-align: left;">Stock exchange</td>
+        </tr>
+        <tr>
+            <th scope="row" style="text-align: left;">Location</th>
+            <td style="text-align: left;">New York City, New York, U.S.</td>
+        </tr>
+        <tr>
+            <th scope="row" style="text-align: left;">Founded</th>
+            <td style="text-align: left;">May&nbsp;17, 1792<span>; 226 years ago</span><span style="display:none">&nbsp;(<span>1792-05-17</span>)</span></td>
+        </tr>
+        <tr>
+            <th scope="row" style="text-align: left;">Owner</th>
+            <td style="text-align: left;">Intercontinental Exchange</td>
+        </tr>
+        <tr>
+            <th scope="row" style="text-align: left;">Key&nbsp;people</th>
+            <td>
+            <div>
+            <ul>
+                <li style="text-align: left;">Jeffrey Sprecher&nbsp;<span style="font-size:85%;">(Chairman)</span></li>
+                <li style="text-align: left;">Betty Liu&nbsp;<span style="font-size:85%;">(Executive Vice Chairman)</span></li>
+                <li style="text-align: left;">Stacey Cunningham&nbsp;<span style="font-size:85%;">(President)</span></li>
+            </ul>
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row" style="text-align: left;">Currency</th>
+            <td style="text-align: left;">United States dollar</td>
+        </tr>
+        <tr>
+            <th scope="row" style="text-align: left;">No. of&nbsp;listings</th>
+            <td style="text-align: left;">2,400</td>
+        </tr>
+        <tr>
+            <th scope="row" style="text-align: left;">Market cap</th>
+            <td style="text-align: left;">US$23.2 trillion</td>
+        </tr>
+        <tr>
+            <th scope="row" style="text-align: left;">Volume</th>
+            <td style="text-align: left;">US$20.161 trillion (2011)</td>
+        </tr>
+        <tr>
+            <th scope="row" style="text-align: left;">Indices</th>
+            <td>
+            <div>
+            <ul>
+                <li style="text-align: left;">Dow Jones Industrial Average</li>
+                <li style="text-align: left;">S&amp;P 500</li>
+                <li style="text-align: left;">NYSE Composite</li>
+            </ul>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br />
+<style type="text/css">.example { background: #f1f1f9;/* rgb(251, 194, 175); */ font-size:15px; padding: 30px; border-style: dotted; text-align: left; } li { margin-bottom: 5px; margin-top: 5px; margin-left: 10px; } .good { color: #22CC22; } .bad { color: #FF0000; }
+</style>
+<ul class="example">
+    <li><b>Example 1</b><br />
+    <i>Statement:</i> NYSE has fewer than 3,000 stocks listed.<br />
+    &nbsp;
+    <ol>
+        <li><span class="good">✔ Based on the information in the table and what is commonly known, the statement is <b>definitely true</b>.</span></li>
+        <li><span class="bad">✘ Based on the information in the table and what is commonly known, the statement is <b>definitely false</b>.</span></li>
+        <li><span class="bad">✘ The statement <b>could be true, but could also be false</b>. We need additional information that is neither commonly known, nor explicitly mentioned in the table come to a conclusion.​</span></li>
+    </ol>
+    <u><i>Reasons:</i></u> The table says that the number of listings on the New York Stock Exchange is 2,400. Given the context, we know that NYSE is the short form of the New York Stock Exchange and 2,400 is less than 3,000. So the statement is <b>definitely true</b>.</li>
+    <li><b>Example 2</b><br />
+    <i>Statement:</i> Over 2,500 stocks are listed in the NYSE.<br />
+    &nbsp;
+    <ol>
+        <li><span class="bad">✘ Based on the information in the table and what is commonly known, the statement is <b>definitely true</b>.</span></li>
+        <li><span class="good">✔ Based on the information in the table and what is commonly known, the statement is <b>definitely false</b>.</span></li>
+        <li><span class="bad">✘ The statement <b>could be true, but could also be false</b>. We need additional information that is neither commonly known, nor explicitly mentioned in the table come to a conclusion.</span></li>
+    </ol>
+    <u><i>Reasons:</i></u> The table tells us that the number of listings on NYSE is 2,400, not 2,500. So the statement is <b>definitely false</b>.</li>
+    <li><b>Example 3</b><br />
+    <i>Statement:</i> NYSE has an office outside of NYC.<br />
+    &nbsp;
+    <ol>
+        <li><span class="bad">✘ Based on the information in the table and what is commonly known, the statement is <b>definitely true</b>.</span></li>
+        <li><span class="bad">✘ Based on the information in the table and what is commonly known, the statement is <b>definitely false</b>.</span></li>
+        <li><span class="good">✔ The statement <b>could be true, but could also be false</b>. We need additional information that is neither commonly known, nor explicitly mentioned in the table come to a conclusion.</span></li>
+    </ol>
+    <u><i>Reasons:</i></u> From the context, we know NYC is the short form of New York City. We know from the table that NYSE has an office in NYC. However, there is no explicit information on the location of the other offices of NYSE, so we cannot be sure about the statement. Without further information (that may not be commonly known), it is possible that the statement is true, but it is also possible that the statement is false.</li>
+</ul>
+</div>
+</div>
+<!-------------------------------------------------------- >
+    </div>
+    <!-- end of example --><!-- End Instructions --><!-- Survey Link Layout --><!-- End Content for Worker --><!-- Input from Worker -->
+
+<div class="container">
+<div class="row" id="workContent">
+<div class="col-xs-8 col-sm-8 fields">
+<div class="panel panel-default">
+<div class="panel-body">
+<p>Given the <b>table</b> and the <b>statement below</b>, choose the best option.</p>
+
+<div class="inlineblock example">
+<p class="tweet">${hypothesis_mod_1}</p>
+
+<div class="input-table">${table_mod_1}</div>
+</div>
+
+<div class="inlineblock annotation"><!-- informtion need -->
+<div class="btn-group-vertical"><label class="btn btn-default" for="aq0" style="white-space:normal; text-align: left;"><input id="aq0" name="hypothesis1" required="required" style="margin-right: 5" type="radio" value="E" /> <span> Based on the information in the table and what is commonly known, the statement is <b>definitely true</b>. </span> </label> <label class="btn btn-default" for="weakaq0" style="white-space:normal; text-align: left;"> <input id="weakaq0" name="hypothesis1" required="required" style="margin-right: 5" type="radio" value="C" /> <span> Based on the information in the table and what is commonly known, the statement is <b>definitely false</b>. </span> </label> <label class="btn btn-default" for="weakrq0" style="white-space:normal; text-align: left;"> <input id="weakrq0" name="hypothesis1" required="required" style="margin-right: 5" type="radio" value="N" /> <span> The statement <b>could be true, but could also be false</b>. We need additional information that is neither commonly known, nor explicitly mentioned in the table come to a conclusion. </span> </label></div>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-body">
+<p>Given the <b>table</b> and the <b>statement below</b>, choose the best option.</p>
+
+<div class="inlineblock example">
+<p class="question">${hypothesis_mod_2}</p>
+
+<div class="input-table">${table_mod_2}</div>
+</div>
+
+<div class="inlineblock annotation"><!-- informtion need -->
+<div class="btn-group-vertical"><label class="btn btn-default" for="aq1" style="white-space:normal; text-align: left;"><input id="aq1" name="hypothesis2" required="required" style="margin-right: 5" type="radio" value="E" /> <span> Based on the information in the table and what is commonly known, the statement is <b>definitely true</b>. </span> </label> <label class="btn btn-default" for="weakaq1" style="white-space:normal; text-align: left;"> <input id="weakaq1" name="hypothesis2" required="required" style="margin-right: 5" type="radio" value="C" /> <span> Based on the information in the table and what is commonly known, the statement is <b>definitely false</b>. </span> </label> <label class="btn btn-default" for="weakrq1" style="white-space:normal; text-align: left;"> <input id="weakrq1" name="hypothesis2" required="required" style="margin-right: 5" type="radio" value="N" /> <span> The statement <b>could be true, but could also be false</b>. We need additional information that is neither commonly known, nor explicitly mentioned in the table come to a conclusion. </span> </label></div>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-body">
+<p>Given the <b>table</b> and the <b>statement below</b>, choose the best option.</p>
+
+<div class="inlineblock example">
+<p class="question">${hypothesis_mod_3}</p>
+
+<div class="input-table">${table_mod_3}</div>
+</div>
+
+<div class="inlineblock annotation"><!-- informtion need -->
+<div class="btn-group-vertical"><label class="btn btn-default" for="aq2" style="white-space:normal; text-align: left;"><input id="aq2" name="hypothesis3" required="required" style="margin-right: 5" type="radio" value="E" /> <span> Based on the information in the table and what is commonly known, the statement is <b>definitely true</b>. </span> </label> <label class="btn btn-default" for="weakaq2" style="white-space:normal; text-align: left;"> <input id="weakaq2" name="hypothesis3" required="required" style="margin-right:5" type="radio" value="C" /> <span> Based on the information in the table and what is commonly known, the statement is <b>definitely false</b>. </span> </label> <label class="btn btn-default" for="weakrq2" style="white-space:normal; text-align: left;"> <input id="weakrq2" name="hypothesis3" required="required" style="margin-right: 5" type="radio" value="N" /> <span> The statement <b>could be true, but could also be false</b>. We need additional information that is neither commonly known, nor explicitly mentioned in the table come to a conclusion. </span> </label></div>
+</div>
+</div>
+</div>
+
+<h5>To provide your feedback on the task, please use the following <a href="https://goo.gl/forms/b3xwuoBWAYKEfgYM2">link</a>. <!-- END OF EXAMPLE BODY --></h5>
+</div>
+</div>
+</div>
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" integrity="sha384-IS73LIqjtYesmURkDE9MXKbXqYA8rvKEp/ghicjem7Vc3mGRdQRptJSz60tvrB6+" rel="stylesheet" />
+<style type="text/css">#collapseTrigger{ color:#fff; display: block; text-decoration: none; } #submitButton{ white-space: normal; } .image{ margin-bottom: 15px; } /* CSS for breaking long words/urls */ .dont-break-out { overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto; }
+</style>

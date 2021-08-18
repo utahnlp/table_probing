@@ -1,0 +1,1128 @@
+s.no	worker_id	original_tableid	original_hypothesis	original_label	modified_tableid	modified_hypothesis	modified_label
+0	IA0	T745	The men's 50 kilometre freestyle at the XXII Olympic Winter Games had more than 50 competitors.	E	T745_mod_1	The men's 50 kilometre freestyle at the XXII Olympic Winter Games had more than 50 competitors.	C
+0	IA1	T787	Republic of Cuba is a multi-ethnic, mono-lingual nation.	E	T787_mod_1	Republic of Cuba is a multi-ethnic, mono-lingual nation.	C
+0	IA0	T787	The Republic of Cuba practices a capitalist system.	C	T787_mod_2	The Republic of Cuba practices a capitalist system.	E
+0	IA0	T940	Bruges is a city with over 100,000 in population.	E	T940_mod_1	Bruges is a city with over 100,000 in population.	C
+0	IA1	T1182	Jennifer Esposito and Irina Shayk have both been married to Bradley Cooper.	C	T1182_mod_1	Jennifer Esposito and Irina Shayk have both been married to Bradley Cooper.	E
+0	IA1	T1390	The horse Cape Cross made over a million dollars.	C	T1390_mod_1	The horse Cape Cross made over a million dollars.	E
+0	IA1	T1443	Karachi is in Pakistan.	E	T1443_mod_1	Karachi is in Pakistan.	C
+0	IA0	T1443	Karachi has a half dozen districts.	E	T1443_mod_2	Karachi has a half dozen districts.	C
+0	IA0	T1443	The second decade of the 21st century is when Karachi was made a Metropolitan Corporation.	C	T1443_mod_3	The second decade of the 21st century is when Karachi was made a Metropolitan Corporation.	E
+0	IA1	T1518	Jurassic Park runs for less than two hours.	C	T1518_mod_1	Jurassic Park runs for less than two hours.	E
+0	IA0	T29	Bullet for My Valentine has been active for more than 25 years as a band.	C	T29_mod_1	Bullet for My Valentine has been active for more than 25 years as a band.	E
+0	IA1	T1586	Kappa Coronae Borealis b has an apparent magnitude over 5.	C	T1586_mod_1	Kappa Coronae Borealis b has an apparent magnitude over 5.	E
+0	IA0	T29	Bullet for My Valentine is a band that has been playing since the late 1990s.	E	T29_mod_2	Bullet for My Valentine is a band that has been playing since the late 1990s.	C
+0	IA1	T1586	Kappa Coronae Borealis b is over 100 light years away.	E	T1586_mod_2	Kappa Coronae Borealis b is over 100 light years away.	C
+0	IA0	T1688	John Cyril Porte lived in two different centuries.	E	T1688_mod_1	John Cyril Porte lived in two different centuries.	C
+0	IA0	T154	Charlie Sheen does not use his original surname.	E	T154_mod_1	Charlie Sheen does not use his original surname.	C
+0	IA0	T1875	There was only one issue of Identity Crisis.	C	T1875_mod_1	There was only one issue of Identity Crisis.	E
+0	IA0	T294	Fast & Furious is an American film.	E	T294_mod_1	Fast & Furious is an American film.	C
+0	IA0	T294	Fast & Furious was not a profitable movie.	C	T294_mod_2	Fast & Furious was not a profitable movie.	E
+0	IA0	T68	The band Jet was formed in Australia.	E	T68_mod_1	The band Jet was formed in Australia.	C
+0	IA0	T405	Republic of Burundi is a multi-lingual, multi-ethnic country.	E	T405_mod_1	Republic of Burundi is a multi-lingual, multi-ethnic country.	C
+0	IA0	T68	Jet has made music for 5 or more record companies.	C	T68_mod_2	Jet has made music for 5 or more record companies.	E
+0	IA0	T68	Jet quit performing over five years ago.	C	T68_mod_3	Jet quit performing over five years ago.	E
+0	IA1	T405	The Republic of Burundi's capital is not the largest city in the country.	E	T405_mod_2	The Republic of Burundi's capital is not the largest city in the country.	C
+0	IA0	T447	The Proclamation of the People's Republic preceded the People's Republic declaration.	C	T447_mod_1	The Proclamation of the People's Republic preceded the People's Republic declaration.	E
+0	IA0	T447	China's constitution came before the People's Republic was proclaimed.	C	T447_mod_2	China's constitution came before the People's Republic was proclaimed.	E
+0	IA0	T207	Burn Energy comes in many different flavors.	E	T207_mod_1	Burn Energy comes in many different flavors.	C
+0	IA0	T554	Danehill's owner and trainer were the same man.	C	T554_mod_1	Danehill's owner and trainer were the same man.	E
+0	IA1	T361	Joaquin Phoenix was born in the United States.	C	T361_mod_1	Joaquin Phoenix was born in the United States.	E
+0	IA0	T734	David Cook is an American game designer.	E	T734_mod_1	David Cook is an American game designer.	C
+0	IA0	T899	Chengdu's lowest elevation is sea level.	C	T899_mod_1	Chengdu's lowest elevation is sea level.	E
+0	IA0	T491	Cory Monteith is born on May 11, 1982	E	T491_mod_1	Cory Monteith is born on May 11, 1982	C
+0	IA0	T1002	Catalonia has 50% of the deputies in the Congress of Deputies.	C	T1002_mod_1	Catalonia has 50% of the deputies in the Congress of Deputies.	E
+0	IA0	T578	Close Encounters of the Third Kind was produced and distributed by the same company.	C	T578_mod_1	Close Encounters of the Third Kind was produced and distributed by the same company.	E
+0	IA0	T1002	Catalonia is a constitutional monarchy with congressional deputies and senators.	E	T1002_mod_2	Catalonia is a constitutional monarchy with congressional deputies and senators.	C
+0	IA0	T1164	The first Romanian Footballer of the Year award was handed out in 1966.	E	T1164_mod_1	The first Romanian Footballer of the Year award was handed out in 1966.	C
+0	IA1	T578	Close Encounters of the Third Kind was a failure at the box office.	C	T578_mod_2	Close Encounters of the Third Kind was a failure at the box office.	E
+0	IA0	T709	Crack-Up has recorded at several studios only on the east coast.	C	T709_mod_1	Crack-Up has recorded at several studios only on the east coast.	E
+0	IA0	T741	David Duchovny was once married to Tea Leona for about over 15 years.	E	T741_mod_1	David Duchovny was once married to Tea Leona for about over 15 years.	C
+0	IA0	T1164	The Romanian Footballer of the Year award has been given out over fifty times.	E	T1164_mod_2	The Romanian Footballer of the Year award has been given out over fifty times.	C
+0	IA1	T741	David Duchovny lives in the western U.S.	E	T741_mod_2	David Duchovny lives in the western U.S.	C
+0	IA1	T1164	The Romanian Footballer of the Year has never had a repeat winner.	C	T1164_mod_3	The Romanian Footballer of the Year has never had a repeat winner.	E
+0	IA1	T785	Ctrl began recording three years before it was released.	E	T785_mod_1	Ctrl began recording three years before it was released.	C
+0	IA0	T1287	American Automobile Association is a not-for-profit organization specializing in roadside assistance.	E	T1287_mod_1	American Automobile Association is a not-for-profit organization specializing in roadside assistance.	C
+0	IA1	T799	Colin Kaepernick has rushed over 2000 yards.	E	T799_mod_1	Colin Kaepernick has rushed over 2000 yards.	C
+0	IA0	T1287	American Automobile Association is a publicly funded government entity.	C	T1287_mod_2	American Automobile Association is a publicly funded government entity.	E
+0	IA1	T928	Charlie and the Chocolate Factory is a film adaptation of a novel.	E	T928_mod_1	Charlie and the Chocolate Factory is a film adaptation of a novel.	C
+0	IA1	T1457	Jimmy Fallon attended college.	E	T1457_mod_1	Jimmy Fallon attended college.	C
+0	IA0	T1457	Jimmy Fallon's career has been going on for more than two decades.	E	T1457_mod_2	Jimmy Fallon's career has been going on for more than two decades.	C
+0	IA0	T1440	Keeping Up with the Joneses lost money at the box office compared to it's budget.	E	T1440_mod_1	Keeping Up with the Joneses lost money at the box office compared to it's budget.	C
+0	IA1	T1516	Justice League Dark runs for over an hour.	E	T1516_mod_1	Justice League Dark runs for over an hour.	C
+0	IA0	T1508	Josta was still being made in the 21st century.	C	T1508_mod_1	Josta was still being made in the 21st century.	E
+0	IA0	T1516	Justice League Dark was released in the 1990s.	C	T1516_mod_2	Justice League Dark was released in the 1990s.	E
+0	IA0	T1557	The Gihon Spring settlement (Jerusalem) lasted for over 225 years.	C	T1557_mod_1	The Gihon Spring settlement (Jerusalem) lasted for over 225 years.	E
+0	IA1	T1618	Jupiter and Io took half a decade to paint.	C	T1618_mod_1	Jupiter and Io took half a decade to paint.	E
+0	IA0	T1557	The East-West Jerusalem division occurred in Jerusalem near the turn of the 20th century.	E	T1557_mod_2	The East-West Jerusalem division occurred in Jerusalem near the turn of the 20th century.	C
+0	IA1	T1612	Johann Nikolaus von Dreyse died in the Summer of 1867.	C	T1612_mod_1	Johann Nikolaus von Dreyse died in the Summer of 1867.	E
+0	IA0	T1819	Hugo is based on The Invention of Hugo Cabret	E	T1819_mod_1	Hugo is based on The Invention of Hugo Cabret	C
+0	IA1	T1819	Hugo stars a largely unknown cast.	C	T1819_mod_2	Hugo stars a largely unknown cast.	E
+0	IA0	T13	Fearless' recording spanned across two years.	E	T13_mod_1	Fearless' recording spanned across two years.	C
+0	IA0	T104	The E Street Band has been active as a band for over 50 years.	C	T104_mod_1	The E Street Band has been active as a band for over 50 years.	E
+0	IA1	T1618	The painting, Jupiter and lo, is a fine example of watercolors.	C	T1618_mod_2	The painting, Jupiter and lo, is a fine example of watercolors.	E
+0	IA0	T272	Chesney Henry Baker was born in the Netherlands.	C	T272_mod_1	Chesney Henry Baker was born in the Netherlands.	E
+0	IA0	T319	The Czech Republic has only one official language.	C	T319_mod_1	The Czech Republic has only one official language.	E
+0	IA1	T1677	Johannes Gutenberg was born about the turn of the 15th century.	E	T1677_mod_1	Johannes Gutenberg was born about the turn of the 15th century.	C
+0	IA0	T372	Florence Lawrence divorced the majority of her husbands.	E	T372_mod_1	Florence Lawrence divorced the majority of her husbands.	C
+0	IA0	T1728	Kaput and Zšsky: The Ultimate Obliterators had only one production company.	C	T1728_mod_1	Kaput and Zšsky: The Ultimate Obliterators had only one production company.	E
+0	IA1	T1728	Kaput and Zšsky: The Ultimate Obliterators was produced by two people.	E	T1728_mod_2	Kaput and Zšsky: The Ultimate Obliterators was produced by two people.	C
+0	IA0	T422	Jerry Lee Lewis is from the Pacific Northwest region of the United States.	C	T422_mod_1	Jerry Lee Lewis is from the Pacific Northwest region of the United States.	E
+0	IA0	T720	David Bowie was recorded in just a week in January of 1967.	C	T720_mod_1	David Bowie was recorded in just a week in January of 1967.	E
+0	IA0	T720	The album David Bowie was recorded in the UK.	E	T720_mod_2	The album David Bowie was recorded in the UK.	C
+0	IA0	T20	Flatbush Zombies are named, in part, after the city they are from.	E	T20_mod_1	Flatbush Zombies are named, in part, after the city they are from.	C
+0	IA1	T746	The Cross-country skiing event at the XXIII Olympics ran at the Alpensia Cross-Country Centre	E	T746_mod_1	The Cross-country skiing event at the XXIII Olympics ran at the Alpensia Cross-Country Centre	C
+0	IA0	T152	Jane Austen died in the Summer of 1817.	E	T152_mod_1	Jane Austen died in the Summer of 1817.	C
+0	IA1	T790	The Republic of Cuba has had its current constitution for 20 years.	C	T790_mod_1	The Republic of Cuba has had its current constitution for 20 years.	E
+0	IA0	T286	Fan Bingbing's career spans four decades.	C	T286_mod_1	Fan Bingbing's career spans four decades.	E
+0	IA1	T790	The Cuban Revolution lasted for less than five years.	C	T790_mod_2	The Cuban Revolution lasted for less than five years.	E
+0	IA1	T286	Fˆn B_ngb_ng is married.	C	T286_mod_2	Fˆn B_ngb_ng is married.	E
+0	IA1	T947	Tswana people are the largest ethnic group in Botswana.	E	T947_mod_1	Tswana people are the largest ethnic group in Botswana.	C
+0	IA1	T332	Jay Park began his career in his teenage years.	C	T332_mod_1	Jay Park began his career in his teenage years.	E
+0	IA0	T947	The Republic of Botswana is a majority Christian country.	E	T947_mod_2	The Republic of Botswana is a majority Christian country.	C
+0	IA0	T1047	Changsha's metro area includes an extra million people more than the urban population.	C	T1047_mod_1	Changsha's metro area includes an extra million people more than the urban population.	E
+0	IA0	T403	John Harrison was awarded a medal after he died.	C	T403_mod_1	John Harrison was awarded a medal after he died.	E
+0	IA0	T403	John Harrison was born and died in the same city.	C	T403_mod_2	John Harrison was born and died in the same city.	E
+0	IA1	T1212	Glacier National Park had more that 2 million visitors in the year 2018.	E	T1212_mod_1	Glacier National Park had more that 2 million visitors in the year 2018.	C
+0	IA0	T1212	Glacier National Park was designated a park less than a century ago.	C	T1212_mod_2	Glacier National Park was designated a park less than a century ago.	E
+0	IA0	T440	The Republic of Chile primarily has a white population.	E	T440_mod_1	The Republic of Chile primarily has a white population.	C
+0	IA0	T1212	Glacier National Park is comprised of one county, Flathead County, in Montana.	C	T1212_mod_3	Glacier National Park is comprised of one county, Flathead County, in Montana.	E
+0	IA1	T544	Despicable Me 3 first made its box offie run starring in the summer of 2016.	C	T544_mod_1	Despicable Me 3 first made its box offie run starring in the summer of 2016.	E
+0	IA0	T1395	The pre-grouping and post-grouping of Broadgreen remained the same.	C	T1395_mod_1	The pre-grouping and post-grouping of Broadgreen remained the same.	E
+0	IA0	T680	CKY has worked with only a few labels throughout its career.	C	T680_mod_1	CKY has worked with only a few labels throughout its career.	E
+0	IA1	T1395	The Broadgreen station opened in the Fall of 1830.	E	T1395_mod_2	The Broadgreen station opened in the Fall of 1830.	C
+0	IA0	T733	Coca-Cola with Lime/Diet Coke with Citrus Zest is only made in the United States.	C	T733_mod_1	Coca-Cola with Lime/Diet Coke with Citrus Zest is only made in the United States.	E
+0	IA1	T1491	Judith and the Head of Holofernes was painted on a massive canvas.	C	T1491_mod_1	Judith and the Head of Holofernes was painted on a massive canvas.	E
+0	IA0	T761	David Cross is a pop group from Pennsylvania.	C	T761_mod_1	David Cross is a pop group from Pennsylvania.	E
+0	IA0	T761	Code Orange got their start in the 21st century.	E	T761_mod_2	Code Orange got their start in the 21st century.	C
+0	IA1	T1534	Joe Rogan has been married for close to 15 years.	C	T1534_mod_1	Joe Rogan has been married for close to 15 years.	E
+0	IA1	T793	Tommy Farrell has no nephews.	C	T793_mod_1	Tommy Farrell has no nephews.	E
+0	IA0	T1534	Joe Rogan went to college on the west coast.	C	T1534_mod_2	Joe Rogan went to college on the west coast.	E
+0	IA1	T828	The musician Common was born named Lonnie.	E	T828_mod_1	The musician Common was born named Lonnie.	C
+0	IA0	T1534	Joe Rogan got married when he was in his 40s.	E	T1534_mod_3	Joe Rogan got married when he was in his 40s.	C
+0	IA0	T1148	Britney Spears married Kevin Federline the same year she divorced Jason Alexander.	E	T1148_mod_1	Britney Spears married Kevin Federline the same year she divorced Jason Alexander.	C
+0	IA0	T1148	Britney Spears has been active for more than 30 years.	C	T1148_mod_2	Britney Spears has been active for more than 30 years.	E
+0	IA1	T1592	Joy was able to net a profit at the box office.	E	T1592_mod_1	Joy was able to net a profit at the box office.	C
+0	IA1	T1267	Brandon Richard Flowers was born in Nevada.	E	T1267_mod_1	Brandon Richard Flowers was born in Nevada.	C
+0	IA0	T1592	Joy was produced by John Davis, Megan Ellison, Jonathan Gordon, Ken Mok, and David O. Russell.	E	T1592_mod_2	Joy was produced by John Davis, Megan Ellison, Jonathan Gordon, Ken Mok, and David O. Russell.	C
+0	IA0	T1267	Brandon Richard Flowers has more associated acts than labels he has been on.	C	T1267_mod_2	Brandon Richard Flowers has more associated acts than labels he has been on.	E
+0	IA0	T1690	Jinder Mahal made his debut in the 1990s.	C	T1690_mod_1	Jinder Mahal made his debut in the 1990s.	E
+0	IA1	T1768	Iced Earth has been signed with their current label for over a decade.	C	T1768_mod_1	Iced Earth has been signed with their current label for over a decade.	E
+0	IA1	T1768	Iced Earth's style has been characterized as more than one genre.	E	T1768_mod_2	Iced Earth's style has been characterized as more than one genre.	C
+0	IA0	T1456	Jupiter takes over 10 years to orbit the sun.	E	T1456_mod_1	Jupiter takes over 10 years to orbit the sun.	C
+0	IA1	T68	Jet took a four year hiatus from performing.	E	T68_mod_4	Jet took a four year hiatus from performing.	C
+0	IA1	T1503	Jim Belushi has worked as an entertainer.	E	T1503_mod_1	Jim Belushi has worked as an entertainer.	C
+0	IA0	T207	Burn Energy was introduced relatively close to the Millenium.	E	T207_mod_2	Burn Energy was introduced relatively close to the Millenium.	C
+0	IA0	T413	Justus von Liebig never won any awards for their works.	C	T413_mod_1	Justus von Liebig never won any awards for their works.	E
+0	IA0	T413	Justus von Liebig was born in 1803 and died aged 69.	E	T413_mod_2	Justus von Liebig was born in 1803 and died aged 69.	C
+0	IA0	T709	Crack-Up was produced by Barry Gordy and recorded in 2003.	C	T709_mod_2	Crack-Up was produced by Barry Gordy and recorded in 2003.	E
+0	IA0	T1550	J?rgen Skafte Rasmussen had four children.	E	T1550_mod_1	J?rgen Skafte Rasmussen had four children.	C
+0	IA0	T799	Colin Kaepernick has more rushing yards than rushing touchdowns.	E	T799_mod_2	Colin Kaepernick has more rushing yards than rushing touchdowns.	C
+0	IA1	T1550	J?rgen Skafte Rasmussen was married to Theresie Liebe.	C	T1550_mod_2	J?rgen Skafte Rasmussen was married to Theresie Liebe.	E
+0	IA0	T839	DC Comics Presents lasted over 8 years.	E	T839_mod_1	DC Comics Presents lasted over 8 years.	C
+0	IA1	T1664	Jessie J was born in the Summer of 1988.	C	T1664_mod_1	Jessie J was born in the Summer of 1988.	E
+0	IA0	T928	The narrator and editor of Charlie and the Chocolate Factory have the same first name.	C	T928_mod_2	The narrator and editor of Charlie and the Chocolate Factory have the same first name.	E
+0	IA0	T1664	Jessie J only performs pop music.	C	T1664_mod_2	Jessie J only performs pop music.	E
+0	IA0	T1179	Brigadier Gerard was foaled in the early part of the 20th century.	C	T1179_mod_1	Brigadier Gerard was foaled in the early part of the 20th century.	E
+0	IA0	T1369	Florida State University was established in 1851 and its president is John E. Thrasher.	E	T1369_mod_1	Florida State University was established in 1851 and its president is John E. Thrasher.	C
+0	IA0	T1369	Florida State University was founded in the 20th century.	C	T1369_mod_2	Florida State University was founded in the 20th century.	E
+0	IA1	T1702	Kas was introduced within 10 years of the turn of the 20th century.	E	T1702_mod_1	Kas was introduced within 10 years of the turn of the 20th century.	C
+0	IA0	T1440	Keeping Up with the Joneses lasts less than two hours.	E	T1440_mod_2	Keeping Up with the Joneses lasts less than two hours.	C
+0	IA0	T1702	Kas came out over 60 years ago.	C	T1702_mod_2	Kas came out over 60 years ago.	E
+0	IA0	T1440	Keeping Up with the Joneses took in less money than it cost to produce.	E	T1440_mod_3	Keeping Up with the Joneses took in less money than it cost to produce.	C
+0	IA1	T1791	Huddersfield Ben was born in the 18th century.	C	T1791_mod_1	Huddersfield Ben was born in the 18th century.	E
+0	IA0	T1516	Justice League Dark has a run time that is under 1.5 hours long.	E	T1516_mod_3	Justice League Dark has a run time that is under 1.5 hours long.	C
+0	IA1	T1580	Kate Hudson is in her thirties.	E	T1580_mod_1	Kate Hudson is in her thirties.	C
+0	IA0	T29	Bullet for My Valentine was known as Jeff Killed John earlier in time.	E	T29_mod_3	Bullet for My Valentine was known as Jeff Killed John earlier in time.	C
+0	IA1	T1677	Johannes Gutenberg died in the Fall of 1468.	C	T1677_mod_2	Johannes Gutenberg died in the Fall of 1468.	E
+0	IA1	T154	Charlie Sheen was born in the Fall of 1965.	E	T154_mod_2	Charlie Sheen was born in the Fall of 1965.	C
+0	IA0	T1677	Johannes Gutenberg lived in the 14th century.	C	T1677_mod_3	Johannes Gutenberg lived in the 14th century.	E
+0	IA0	T154	Charlie Sheen is still married to Brooke Mueller.	C	T154_mod_3	Charlie Sheen is still married to Brooke Mueller.	E
+0	IA0	T1728	Kaput and Zšsky: The Ultimate Obliterators takes about a half an hour to watch.	E	T1728_mod_3	Kaput and Zšsky: The Ultimate Obliterators takes about a half an hour to watch.	C
+0	IA0	T1861	Iceland was settled over a thousand years ago.	E	T1861_mod_1	Iceland was settled over a thousand years ago.	C
+0	IA1	T294	Fast & Furious was released to the general public in the United States before it was shown at Universal CityWalk.	C	T294_mod_3	Fast & Furious was released to the general public in the United States before it was shown at Universal CityWalk.	E
+0	IA0	T1861	Iceland became a republic over a hundred years ago.	C	T1861_mod_2	Iceland became a republic over a hundred years ago.	E
+0	IA1	T405	There are more Tutsis than Hutus living in Burundi.	C	T405_mod_3	There are more Tutsis than Hutus living in Burundi.	E
+0	IA0	T447	The People's Republic of China has had the same ruling families for over 1000 years.	C	T447_mod_3	The People's Republic of China has had the same ruling families for over 1000 years.	E
+0	IA0	T2032	Joko Widodo is the president of Republic of Indonesia.	E	T2032_mod_1	Joko Widodo is the president of Republic of Indonesia.	C
+0	IA1	T447	The People's Republic of China had their current constitution written in the 1980s.	E	T447_mod_4	The People's Republic of China had their current constitution written in the 1980s.	C
+0	IA0	T68	Jet has been a band for over 10 years.	E	T68_mod_5	Jet has been a band for over 10 years.	C
+0	IA1	T68	After breaking up in 2012 Jet never came back together.	C	T68_mod_6	After breaking up in 2012 Jet never came back together.	E
+0	IA0	T207	Burn Energy comes in over ten varieties or flavors.	C	T207_mod_3	Burn Energy comes in over ten varieties or flavors.	E
+0	IA1	T361	Joaquin Rafael Bottom resides in the city he was born in.	C	T361_mod_2	Joaquin Rafael Bottom resides in the city he was born in.	E
+0	IA0	T413	Justus von Liebig received the Albert Medal posthumously.	C	T413_mod_3	Justus von Liebig received the Albert Medal posthumously.	E
+0	IA1	T578	Close Encounters of the Third Kind grossed over a quarter billion dollars at the box office over it's budget.	E	T578_mod_3	Close Encounters of the Third Kind grossed over a quarter billion dollars at the box office over it's budget.	C
+0	IA1	T554	Danehill's sire was Danzig and its grandsire was Northern Dancer.	E	T554_mod_2	Danehill's sire was Danzig and its grandsire was Northern Dancer.	C
+0	IA1	T785	The album Ctrl is over an hour long.	C	T785_mod_2	The album Ctrl is over an hour long.	E
+0	IA0	T785	The album Ctrl took three years to record.	E	T785_mod_3	The album Ctrl took three years to record.	C
+0	IA0	T688	Dennis Gabor won his awards in successive years starting from 1967.	C	T688_mod_1	Dennis Gabor won his awards in successive years starting from 1967.	E
+0	IA1	T799	Colin Kaepernick is currently playing for a team.	C	T799_mod_3	Colin Kaepernick is currently playing for a team.	E
+0	IA1	T799	Anyone with over 12,000 passing yards is contracted to a particular team.	C	T799_mod_4	Anyone with over 12,000 passing yards is contracted to a particular team.	E
+0	IA1	T777	David Packouz had to go to prison.	C	T777_mod_1	David Packouz had to go to prison.	E
+0	IA0	T839	DC Comics presents was active for over 20 years before publishing its last issue.	C	T839_mod_2	DC Comics presents was active for over 20 years before publishing its last issue.	E
+0	IA0	T794	David with the Head of Goliath is the size of a postage stamp.	C	T794_mod_1	David with the Head of Goliath is the size of a postage stamp.	E
+0	IA0	T928	Charlie and the Chocolate Factory earned more than triple its budget at the box office.	E	T928_mod_3	Charlie and the Chocolate Factory earned more than triple its budget at the box office.	C
+0	IA1	T794	David with the Head of Goliath was completed in the 17th Century.	E	T794_mod_2	David with the Head of Goliath was completed in the 17th Century.	C
+0	IA0	T1017	Casablanca was produced and directed by the same person.	C	T1017_mod_1	Casablanca was produced and directed by the same person.	E
+0	IA0	T1287	The American Automobile Association is headquartered in Chicago.	C	T1287_mod_3	The American Automobile Association is headquartered in Chicago.	E
+0	IA1	T1369	Florida State University has more postgraduates than undergraduates in fall 2017.	C	T1369_mod_3	Florida State University has more postgraduates than undergraduates in fall 2017.	E
+0	IA1	T1435	Kapil Sharma is old enough to collect social security.	C	T1435_mod_1	Kapil Sharma is old enough to collect social security.	E
+0	IA0	T1435	Kapil Sharma is a newlywed.	E	T1435_mod_2	Kapil Sharma is a newlywed.	C
+0	IA0	T1440	Keeping Up with the Joneses made twice as much money in the box office as it was budgeted.	C	T1440_mod_4	Keeping Up with the Joneses made twice as much money in the box office as it was budgeted.	E
+0	IA0	T1440	Keeping Up with the Joneses takes over two hours to watch.	C	T1440_mod_5	Keeping Up with the Joneses takes over two hours to watch.	E
+0	IA1	T1457	Jimmy fallon has been performing for over twenty years.	E	T1457_mod_3	Jimmy fallon has been performing for over twenty years.	C
+0	IA1	T1473	Jimson Weed is wider than it is tall.	C	T1473_mod_1	Jimson Weed is wider than it is tall.	E
+0	IA0	T1508	Josta lasted less than five years before being discontinued.	E	T1508_mod_2	Josta lasted less than five years before being discontinued.	C
+0	IA1	T1557	Jerusalem's Old City walls were built after its Reunification.	C	T1557_mod_3	Jerusalem's Old City walls were built after its Reunification.	E
+0	IA0	T1516	Justice League Dark had a story and screenplay by the same person.	E	T1516_mod_4	Justice League Dark had a story and screenplay by the same person.	C
+0	IA1	T1557	East and West Jerusalem came back together less than a quarter century after it split.	E	T1557_mod_4	East and West Jerusalem came back together less than a quarter century after it split.	C
+0	IA0	T1612	Johann Nikolaus von Dreyse was born in the last couple of decades of the 18th century.	E	T1612_mod_2	Johann Nikolaus von Dreyse was born in the last couple of decades of the 18th century.	C
+0	IA0	T1516	Justice League Dark was first released in the Summer of 2017.	C	T1516_mod_5	Justice League Dark was first released in the Summer of 2017.	E
+0	IA0	T1580	Kate Hudson's marriage lasted longer than a decade.	C	T1580_mod_2	Kate Hudson's marriage lasted longer than a decade.	E
+0	IA0	T1706	The Birthday of Jeff Lynne falls in the Summer.	C	T1706_mod_1	The Birthday of Jeff Lynne falls in the Summer.	E
+0	IA0	T1580	The Spring of 1979 was when Kate Hudson was born.	E	T1580_mod_3	The Spring of 1979 was when Kate Hudson was born.	C
+0	IA0	T1819	Hugo was a big flop	C	T1819_mod_3	Hugo was a big flop	E
+0	IA1	T1618	At it's widest point, Jupiter and Io was more than five feet long.	E	T1618_mod_3	At it's widest point, Jupiter and Io was more than five feet long.	C
+0	IA0	T1942	Jacques Charles was born and died in different countries.	C	T1942_mod_1	Jacques Charles was born and died in different countries.	E
+0	IA0	T1728	Kaput and Zšsky: The Ultimate Obliterators had a handful of distributors.	C	T1728_mod_4	Kaput and Zšsky: The Ultimate Obliterators had a handful of distributors.	E
+0	IA0	T29	The band Bullet for My Valentine is known for playing pop music.	C	T29_mod_4	The band Bullet for My Valentine is known for playing pop music.	E
+0	IA1	T1728	Kaput and Zšsky: The Ultimate Obliterators is produced and distributed by the same company.	C	T1728_mod_5	Kaput and Zšsky: The Ultimate Obliterators is produced and distributed by the same company.	E
+0	IA0	T154	Charlie Sheen has five children.	E	T154_mod_4	Charlie Sheen has five children.	C
+0	IA1	T1861	Iceland became a republic in 1954.	C	T1861_mod_3	Iceland became a republic in 1954.	E
+0	IA0	T154	Charlie Sheen has divorced four times.	C	T154_mod_5	Charlie Sheen has divorced four times.	E
+0	IA1	T340	Jennifer Love Hewitt resides in a state different than the one she was born.	E	T340_mod_1	Jennifer Love Hewitt resides in a state different than the one she was born.	C
+0	IA0	T2032	The upper and lower house of the Republic of Indonesia belong to the same party.	C	T2032_mod_2	The upper and lower house of the Republic of Indonesia belong to the same party.	E
+0	IA1	T2032	Republic of Indonesia is a constitutional monarchy.	C	T2032_mod_3	Republic of Indonesia is a constitutional monarchy.	E
+0	IA0	T405	The Republic of Burundi has more South Asians than Europeans.	C	T405_mod_4	The Republic of Burundi has more South Asians than Europeans.	E
+0	IA0	T12	The monarch of the Faroe Islands is Margethe II	E	T12_mod_1	The monarch of the Faroe Islands is Margethe II	C
+0	IA1	T447	People's Republic of China was declared ahead of the Proclamation.	E	T447_mod_5	People's Republic of China was declared ahead of the Proclamation.	C
+0	IA0	T74	Katharine McPhee is from the west coast of the U.S.	E	T74_mod_1	Katharine McPhee is from the west coast of the U.S.	C
+0	IA1	T734	David Cook has more than one child.	C	T734_mod_2	David Cook has more than one child.	E
+0	IA1	T74	Katharine McPhee was born on the west coast of the United States.	E	T74_mod_2	Katharine McPhee was born on the west coast of the United States.	C
+0	IA1	T734	David Cook is a lifelong bachelor.	C	T734_mod_3	David Cook is a lifelong bachelor.	E
+0	IA0	T261	The Jin never moved their capital.	C	T261_mod_1	The Jin never moved their capital.	E
+0	IA0	T794	David with the Head of Goliath was painted in the 17th century.	E	T794_mod_3	David with the Head of Goliath was painted in the 17th century.	C
+0	IA0	T370	Everclear has been active for more than a quarter of a century.	E	T370_mod_1	Everclear has been active for more than a quarter of a century.	C
+0	IA0	T416	Johnny Depp is an actor, producer, musician, and auto mechanic.	C	T416_mod_1	Johnny Depp is an actor, producer, musician, and auto mechanic.	E
+0	IA0	T794	David with the Head of Goliath is an oil painting by the artist Caravaggio.	E	T794_mod_4	David with the Head of Goliath is an oil painting by the artist Caravaggio.	C
+0	IA1	T534	C?OC is sold in less than a dozen flavors.	C	T534_mod_1	C?OC is sold in less than a dozen flavors.	E
+0	IA0	T829	The Tydings?cDuffie Act was enacted more than a decade before the Treaty of Manila.	E	T829_mod_1	The Tydings?cDuffie Act was enacted more than a decade before the Treaty of Manila.	C
+0	IA1	T581	Polmos Krak—w is the manufacturer Cracovia	E	T581_mod_1	Polmos Krak—w is the manufacturer Cracovia	C
+0	IA0	T1435	Kapil Sharma was wed in the 21st century.	E	T1435_mod_3	Kapil Sharma was wed in the 21st century.	C
+0	IA0	T719	Cristiano Ronaldo is a famous forward in his 30's.	E	T719_mod_1	Cristiano Ronaldo is a famous forward in his 30's.	C
+0	IA1	T1435	Kapil Sharma has been married for several years.	C	T1435_mod_4	Kapil Sharma has been married for several years.	E
+0	IA0	T1435	Kapil Sharma has been active since his teens.	C	T1435_mod_5	Kapil Sharma has been active since his teens.	E
+0	IA0	T745	The Men's 50 kilometre freestyle at the XXII Olympic Winter Games ran for one day in February.	E	T745_mod_2	The Men's 50 kilometre freestyle at the XXII Olympic Winter Games ran for one day in February.	C
+0	IA0	T1457	Jimmy Fallon has been married for over twenty years.	C	T1457_mod_4	Jimmy Fallon has been married for over twenty years.	E
+0	IA1	T805	The album, Culture is just shy of an hour long.	E	T805_mod_1	The album, Culture is just shy of an hour long.	C
+0	IA0	T1457	Jimmy Fallon was birthed in the Summer of 1974.	C	T1457_mod_5	Jimmy Fallon was birthed in the Summer of 1974.	E
+0	IA1	T1182	Bradley Cooper was married for a year.	E	T1182_mod_2	Bradley Cooper was married for a year.	C
+0	IA0	T1390	Cape Cross' sire was Green Desert and his grandsire was Danzig.	E	T1390_mod_2	Cape Cross' sire was Green Desert and his grandsire was Danzig.	C
+0	IA0	T1612	Johann Nikolaus von Dreyse was born and died in the same city.	E	T1612_mod_3	Johann Nikolaus von Dreyse was born and died in the same city.	C
+0	IA0	T1390	The horse Cape Cross was a male horse.	E	T1390_mod_3	The horse Cape Cross was a male horse.	C
+0	IA1	T1612	Johann Nikolaus von Dreyse died in his city of birth.	E	T1612_mod_4	Johann Nikolaus von Dreyse died in his city of birth.	C
+0	IA0	T1518	Jurassic Park was based on a book.	E	T1518_mod_2	Jurassic Park was based on a book.	C
+0	IA0	T1665	The career of Julian Assange has been going for more than three decades.	C	T1665_mod_1	The career of Julian Assange has been going for more than three decades.	E
+0	IA0	T1665	Julian Assange was married for over a decade in his first marriage.	E	T1665_mod_2	Julian Assange was married for over a decade in his first marriage.	C
+0	IA0	T1586	The distance to Kappa Coronae Borealis b is over 100 light years.	E	T1586_mod_3	The distance to Kappa Coronae Borealis b is over 100 light years.	C
+0	IA0	T1665	Julian Assange won more awards in 2015 than he did in 2008.	E	T1665_mod_3	Julian Assange won more awards in 2015 than he did in 2008.	C
+0	IA1	T1706	Jeff Lynne has stayed with Sony BMG their whole career.	C	T1706_mod_2	Jeff Lynne has stayed with Sony BMG their whole career.	E
+0	IA0	T1688	John Cyril Porte died in a different country than where he was born.	E	T1688_mod_2	John Cyril Porte died in a different country than where he was born.	C
+0	IA1	T1819	Hugo has a running time of 126 minutes.	E	T1819_mod_4	Hugo has a running time of 126 minutes.	C
+0	IA1	T1875	Identity Crisis was released by Marvel comics.	C	T1875_mod_2	Identity Crisis was released by Marvel comics.	E
+0	IA0	T203	Over half of the people in Japan practice Folk Shinto as a religion or have no religion.	E	T203_mod_1	Over half of the people in Japan practice Folk Shinto as a religion or have no religion.	C
+0	IA1	T1875	Identity Crisis was published by DC Comics.	E	T1875_mod_3	Identity Crisis was published by DC Comics.	C
+0	IA0	T306	Europe has been active off and on since the 70s.	E	T306_mod_1	Europe has been active off and on since the 70s.	C
+0	IA0	T348	Christina Aguilera has always lived in the city where she was born.	C	T348_mod_1	Christina Aguilera has always lived in the city where she was born.	E
+0	IA0	T14	Flatliners was a film that was able to net money at the box office.	E	T14_mod_1	Flatliners was a film that was able to net money at the box office.	C
+0	IA1	T14	Flatliners was a movie that was over two hours long.	C	T14_mod_2	Flatliners was a movie that was over two hours long.	E
+0	IA0	T408	Karen Gillan was born in 1987.	E	T408_mod_1	Karen Gillan was born in 1987.	C
+0	IA1	T137	Hawkwind was always the band's name.	C	T137_mod_1	Hawkwind was always the band's name.	E
+0	IA0	T408	Karen Gilan went to a performing arts school.	E	T408_mod_2	Karen Gilan went to a performing arts school.	C
+0	IA0	T323	Kingdom of Bohemia was esatablished before the Duchy of Bohemia.	C	T323_mod_1	Kingdom of Bohemia was esatablished before the Duchy of Bohemia.	E
+0	IA1	T433	Concussion made more at the box office than its budget.	C	T433_mod_1	Concussion made more at the box office than its budget.	E
+0	IA0	T458	Bridge is a trick-taking game.	E	T458_mod_1	Bridge is a trick-taking game.	C
+0	IA0	T557	Club is a Carbonated soft drink Manufactured by Britvic Ireland	E	T557_mod_1	Club is a Carbonated soft drink Manufactured by Britvic Ireland	C
+0	IA1	T816	The Curling at the XXIII Olympic Winter Games happened in february.	E	T816_mod_1	The Curling at the XXIII Olympic Winter Games happened in february.	C
+0	IA1	T557	Club is an Irish soft drink.	E	T557_mod_2	Club is an Irish soft drink.	C
+0	IA0	T974	The square mileage of the city of Chicago is larger than the square mileage of land.	E	T974_mod_1	The square mileage of the city of Chicago is larger than the square mileage of land.	C
+0	IA0	T1131	The dominant colors of George Mason University are red and violet.	C	T1131_mod_1	The dominant colors of George Mason University are red and violet.	E
+0	IA0	T738	The Cockerel FabergŽ egg is made up of several different precious gems.	E	T738_mod_1	The Cockerel FabergŽ egg is made up of several different precious gems.	C
+0	IA0	T1131	George Mason University is a public university established in 1949.	E	T1131_mod_2	George Mason University is a public university established in 1949.	C
+0	IA0	T738	The Cockerel FabergŽ egg is a gold and diamond infused object about half a foot tall.	E	T738_mod_2	The Cockerel FabergŽ egg is a gold and diamond infused object about half a foot tall.	C
+0	IA0	T1404	Kaya Scodelario's career has spanned more a decade and a half.	C	T1404_mod_1	Kaya Scodelario's career has spanned more a decade and a half.	E
+0	IA1	T1446	Jennifer Aniston resides in a different state from where she was born.	C	T1446_mod_1	Jennifer Aniston resides in a different state from where she was born.	E
+0	IA1	T797	The horse Cue Card was from the United States.	C	T797_mod_1	The horse Cue Card was from the United States.	E
+0	IA0	T1500	The birth of John Napier happened right at the mid point of the 16th century.	E	T1500_mod_1	The birth of John Napier happened right at the mid point of the 16th century.	C
+0	IA0	T1656	Karen Gillan has been in the business for over ten years.	E	T1656_mod_1	Karen Gillan has been in the business for over ten years.	C
+0	IA0	T831	Union of the Comoros has been independent for 50 years.	C	T831_mod_1	Union of the Comoros has been independent for 50 years.	E
+0	IA0	T1784	Interior was completed in the 18th century.	E	T1784_mod_1	Interior was completed in the 18th century.	C
+0	IA0	T1888	Huntinyon Beach council has seven members.	E	T1888_mod_1	Huntinyon Beach council has seven members.	C
+0	IA1	T1311	Royal Society of Edinburgh has over 1600 fellow members.	E	T1311_mod_1	Royal Society of Edinburgh has over 1600 fellow members.	C
+0	IA0	T1888	Robin Estanislau is the city clerk in Huntington Beach, California.	E	T1888_mod_2	Robin Estanislau is the city clerk in Huntington Beach, California.	C
+0	IA1	T1436	Kate Micucci got married when they were 38 years old.	E	T1436_mod_1	Kate Micucci got married when they were 38 years old.	C
+0	IA0	T20	The rappers Flatbush Zombies got their start on the east coast.	E	T20_mod_2	The rappers Flatbush Zombies got their start on the east coast.	C
+0	IA0	T1436	Kate Micucci has been performing since she was in her teens.	C	T1436_mod_2	Kate Micucci has been performing since she was in her teens.	E
+0	IA0	T20	Flatbush Zombies have made music for over five years now.	E	T20_mod_3	Flatbush Zombies have made music for over five years now.	C
+0	IA0	T1464	John James Rickard Macleod, FRS faced death in the Spring of 1935.	E	T1464_mod_1	John James Rickard Macleod, FRS faced death in the Spring of 1935.	C
+0	IA0	T152	Jane Austen had a college degree.	C	T152_mod_2	Jane Austen had a college degree.	E
+0	IA1	T1562	The Summer of 2018 is when Jun-ichi Nishizawa died.	C	T1562_mod_1	The Summer of 2018 is when Jun-ichi Nishizawa died.	E
+0	IA0	T403	John Harrison was born and died in the same country.	E	T403_mod_3	John Harrison was born and died in the same country.	C
+0	IA0	T1562	Jun-ichi Nishizawa worked at various universities.	E	T1562_mod_2	Jun-ichi Nishizawa worked at various universities.	C
+0	IA1	T440	Sebasti‡n Pi–era is suboordinate to Maya Fern‡ndez.	C	T440_mod_2	Sebasti‡n Pi–era is suboordinate to Maya Fern‡ndez.	E
+0	IA0	T1713	John Cho was born in the 20th century.	E	T1713_mod_1	John Cho was born in the 20th century.	C
+0	IA1	T440	The Republic of Chile speaks English as their native language.	C	T440_mod_3	The Republic of Chile speaks English as their native language.	E
+0	IA0	T1847	Jack Antonoff was born in the spring.	E	T1847_mod_1	Jack Antonoff was born in the spring.	C
+0	IA0	T544	Despicable Me 3 was shown at Annecy two weeks before it's nationwide release.	E	T544_mod_2	Despicable Me 3 was shown at Annecy two weeks before it's nationwide release.	C
+0	IA0	T2028	Simon Pegg wrote, directed and starred in Hot Fuzz.	C	T2028_mod_1	Simon Pegg wrote, directed and starred in Hot Fuzz.	E
+0	IA0	T13	The album Fearless was over an hour in length.	C	T13_mod_2	The album Fearless was over an hour in length.	E
+0	IA1	T680	Camp Kill Yourself is from West Chester, Pennsylvania.	E	T680_mod_2	Camp Kill Yourself is from West Chester, Pennsylvania.	C
+0	IA0	T761	Code Orange has been performing for a decade.	C	T761_mod_3	Code Orange has been performing for a decade.	E
+0	IA0	T13	Fearless is over 50 minutes in length.	E	T13_mod_3	Fearless is over 50 minutes in length.	C
+0	IA0	T983	Camilla Rosemary Shand has been married twice.	E	T983_mod_1	Camilla Rosemary Shand has been married twice.	C
+0	IA0	T983	Camilla committed polygamy when marrying Charles, Prince of Wales.	C	T983_mod_2	Camilla committed polygamy when marrying Charles, Prince of Wales.	E
+0	IA1	T104	The E Street Band is from the west coast of U.S..	E	T104_mod_2	The E Street Band is from the west coast of U.S..	C
+0	IA1	T983	Camilla Rosemary Shand married Prince Charles after her divorce from Andrew Parker Bowles.	E	T983_mod_3	Camilla Rosemary Shand married Prince Charles after her divorce from Andrew Parker Bowles.	C
+0	IA1	T104	The E Street Band was formed on the East Coast.	E	T104_mod_3	The E Street Band was formed on the East Coast.	C
+0	IA0	T1267	Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.	E	T1267_mod_3	Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.	C
+0	IA0	T1267	Brandon Flowers can not play any instruments and is associated with Vertigo label only.	C	T1267_mod_4	Brandon Flowers can not play any instruments and is associated with Vertigo label only.	E
+0	IA0	T720	David Bowie is an album that was recorded in London.	E	T720_mod_3	David Bowie is an album that was recorded in London.	C
+0	IA1	T1412	Johnny the Homicidal Maniac was produced in the 90s.	E	T1412_mod_1	Johnny the Homicidal Maniac was produced in the 90s.	C
+0	IA0	T720	David Bowie's self-titled album was recorded during two different years.	E	T720_mod_4	David Bowie's self-titled album was recorded during two different years.	C
+0	IA0	T1503	Jim Belushi started his career in his teens.	C	T1503_mod_2	Jim Belushi started his career in his teens.	E
+0	IA0	T1550	J?rgen Skafte Rasmussen was born and died in the same country.	E	T1550_mod_3	J?rgen Skafte Rasmussen was born and died in the same country.	C
+0	IA0	T1550	J?rgen Skafte Rasmussen only worked as an Engineer.	C	T1550_mod_4	J?rgen Skafte Rasmussen only worked as an Engineer.	E
+0	IA0	T1601	Jimmy Eat World is from the state of Arizona.	E	T1601_mod_1	Jimmy Eat World is from the state of Arizona.	C
+0	IA0	T1601	Emo pop group, Jimmy Eat World is from the southwest United States.	E	T1601_mod_2	Emo pop group, Jimmy Eat World is from the southwest United States.	C
+0	IA0	T1664	Jessie J started her career in her twenties.	C	T1664_mod_3	Jessie J started her career in her twenties.	E
+0	IA0	T746	There are more male cross-country skiing events held than women's at the Olympic games.	C	T746_mod_2	There are more male cross-country skiing events held than women's at the Olympic games.	E
+0	IA1	T1664	Jessie J has been performing for over ten years.	E	T1664_mod_4	Jessie J has been performing for over ten years.	C
+0	IA1	T1791	Huddersfield Ben is a type of terrier.	E	T1791_mod_2	Huddersfield Ben is a type of terrier.	C
+0	IA0	T947	Christians make up the smallest religious group in Botswana.	C	T947_mod_3	Christians make up the smallest religious group in Botswana.	E
+0	IA0	T947	Republic of Botswana, run under a unitary parliament, has a president and a vice-president.	E	T947_mod_4	Republic of Botswana, run under a unitary parliament, has a president and a vice-president.	C
+0	IA1	T1791	Huddersfield Ben was a labrador retriever.	C	T1791_mod_3	Huddersfield Ben was a labrador retriever.	E
+0	IA0	T1212	Glacier National Park has more acres than 2018 visitors.	C	T1212_mod_4	Glacier National Park has more acres than 2018 visitors.	E
+0	IA1	T1444	Kasabian has been performing for over twenty years.	E	T1444_mod_1	Kasabian has been performing for over twenty years.	C
+0	IA1	T1918	Hypatia died in the spring time.	E	T1918_mod_1	Hypatia died in the spring time.	C
+0	IA0	T1444	Kasabian is known for playing jazz music.	C	T1444_mod_2	Kasabian is known for playing jazz music.	E
+0	IA0	T1491	Judith and the Head of Holofernes is less than a foot and a half wide at it's narrower point.	E	T1491_mod_2	Judith and the Head of Holofernes is less than a foot and a half wide at it's narrower point.	C
+0	IA0	T64	Equestrian Portrait of Charles I is less than 100 inches wide.	C	T64_mod_1	Equestrian Portrait of Charles I is less than 100 inches wide.	E
+0	IA0	T1491	Judith and the Head of Holofernes was painted at the end of the 19th century.	C	T1491_mod_3	Judith and the Head of Holofernes was painted at the end of the 19th century.	E
+0	IA0	T64	Equestrian Portrait of Charles I was painted in the 17th century.	E	T64_mod_2	Equestrian Portrait of Charles I was painted in the 17th century.	C
+0	IA0	T1592	The film was not profitable for 20th Century Fox	C	T1592_mod_3	The film was not profitable for 20th Century Fox	E
+0	IA0	T1635	The Spring of 2015 is when Kauto Star died.	C	T1635_mod_1	The Spring of 2015 is when Kauto Star died.	E
+0	IA0	T1690	Jinder Mahal has been professionally wrestling for over fifteen years.	E	T1690_mod_2	Jinder Mahal has been professionally wrestling for over fifteen years.	C
+0	IA0	T203	Japan is made up of between 90 and 95% Japanese people.	C	T203_mod_2	Japan is made up of between 90 and 95% Japanese people.	E
+0	IA1	T1768	Iced Earth is a power metal band.	E	T1768_mod_3	Iced Earth is a power metal band.	C
+0	IA1	T203	The capital of Japan is located in Tokyo.	E	T203_mod_3	The capital of Japan is located in Tokyo.	C
+0	IA0	T1882	Jack of Fables is published on a monthly schedule.	E	T1882_mod_1	Jack of Fables is published on a monthly schedule.	C
+0	IA0	T306	Europe is originally from a northern European country.	E	T306_mod_2	Europe is originally from a northern European country.	C
+0	IA0	T348	Jordan Bratman divorced Christina Aguilera after two years together.	C	T348_mod_2	Jordan Bratman divorced Christina Aguilera after two years together.	E
+0	IA0	T12	Faroe Islands only has one official language.	C	T12_mod_2	Faroe Islands only has one official language.	E
+0	IA0	T408	Karen Gilan has been performing since she was a five years old.	C	T408_mod_3	Karen Gilan has been performing since she was a five years old.	E
+0	IA0	T12	Aksel V. Johannesen serves in the Faroe Islands government.	E	T12_mod_3	Aksel V. Johannesen serves in the Faroe Islands government.	C
+0	IA1	T458	The game Contract bridge is often played in a group of people.	E	T458_mod_2	The game Contract bridge is often played in a group of people.	C
+0	IA0	T370	Everclear's music can only be categorized into a single genre.	C	T370_mod_2	Everclear's music can only be categorized into a single genre.	E
+0	IA0	T702	The Romans settled London several years after the Wessex's.	C	T702_mod_1	The Romans settled London several years after the Wessex's.	E
+0	IA0	T370	Everclear are from the Pacific Northwest region of the United States.	E	T370_mod_3	Everclear are from the Pacific Northwest region of the United States.	C
+0	IA1	T738	The Cockerel FabergŽ egg is over a foot tall.	C	T738_mod_3	The Cockerel FabergŽ egg is over a foot tall.	E
+0	IA0	T534	C?OC has been on the market for over fifteen years.	E	T534_mod_2	C?OC has been on the market for over fifteen years.	C
+0	IA1	T797	The horse Cue Card made over a million pounds at races.	E	T797_mod_2	The horse Cue Card made over a million pounds at races.	C
+0	IA0	T797	Cue Card made just under £1,000,000 in earnings in the horse's racing career.	C	T797_mod_3	Cue Card made just under £1,000,000 in earnings in the horse's racing career.	E
+0	IA0	T745	The winner of the Men's 50 kilometre freestyle at the XXII Olympic Winter Games finished with a time just over 2 minutes.	C	T745_mod_3	The winner of the Men's 50 kilometre freestyle at the XXII Olympic Winter Games finished with a time just over 2 minutes.	E
+0	IA0	T787	Cuba is mostly Black with White people making up the 2nd largest ethnic group.	C	T787_mod_3	Cuba is mostly Black with White people making up the 2nd largest ethnic group.	E
+0	IA0	T787	The Republic of Cuba has only a single official language.	E	T787_mod_4	The Republic of Cuba has only a single official language.	C
+0	IA0	T831	The Union of the Comoros adopted a constitution in 2009.	E	T831_mod_2	The Union of the Comoros adopted a constitution in 2009.	C
+0	IA0	T940	Bruges has more area codes than postal codes.	C	T940_mod_2	Bruges has more area codes than postal codes.	E
+0	IA0	T910	Catania has over 325,000 people in it.	C	T910_mod_1	Catania has over 325,000 people in it.	E
+0	IA0	T940	Bruges has four postal codes.	E	T940_mod_3	Bruges has four postal codes.	C
+0	IA0	T910	Catania is a city of several hundred thousand people.	E	T910_mod_2	Catania is a city of several hundred thousand people.	C
+0	IA1	T1010	Caravaggio's Boy Peeling Fruit is over three feet wide.	C	T1010_mod_1	Caravaggio's Boy Peeling Fruit is over three feet wide.	E
+0	IA0	T1477	The Summer of 1977 is when Kanye West was born.	E	T1477_mod_1	The Summer of 1977 is when Kanye West was born.	C
+0	IA1	T1477	Kanye West is worth more than a third of a billion dollars.	C	T1477_mod_2	Kanye West is worth more than a third of a billion dollars.	E
+0	IA0	T1518	Jurassic Park's run time is less than two hours.	C	T1518_mod_3	Jurassic Park's run time is less than two hours.	E
+0	IA1	T1311	Royal Society of Edinburgh has focus only on Science and technology.	C	T1311_mod_2	Royal Society of Edinburgh has focus only on Science and technology.	E
+0	IA0	T1518	The Summer of 1993 is when Jurassic Park first made it's premiere.	E	T1518_mod_4	The Summer of 1993 is when Jurassic Park first made it's premiere.	C
+0	IA1	T1730	Jon Hamm graduated from the University of his home state.	E	T1730_mod_1	Jon Hamm graduated from the University of his home state.	C
+0	IA0	T1311	The Royal Society of Edinburgh has more founders than focuses.	C	T1311_mod_3	The Royal Society of Edinburgh has more founders than focuses.	E
+0	IA0	T1436	Kate Micucci got married when she was in her 30s.	E	T1436_mod_3	Kate Micucci got married when she was in her 30s.	C
+0	IA0	T1730	Jon Hamm has been active for more than 25 years.	C	T1730_mod_2	Jon Hamm has been active for more than 25 years.	E
+0	IA0	T1562	The  IEEE Edison Medal was awarded to Jun-ichi Nishizawa in his 70s.	E	T1562_mod_3	The  IEEE Edison Medal was awarded to Jun-ichi Nishizawa in his 70s.	C
+0	IA1	T20	Flatbush Zombies have been active as a band for over 10 years.	C	T20_mod_4	Flatbush Zombies have been active as a band for over 10 years.	E
+0	IA1	T1614	John Paul Getty III was kidnapped during his lifetime.	E	T1614_mod_1	John Paul Getty III was kidnapped during his lifetime.	C
+0	IA1	T152	Jane Austen was born in England.	E	T152_mod_3	Jane Austen was born in England.	C
+0	IA1	T332	Park Jae-beom practices more genres than the number of labels he has been on.	C	T332_mod_2	Park Jae-beom practices more genres than the number of labels he has been on.	E
+0	IA0	T1713	John Cho has been active since his teens.	C	T1713_mod_2	John Cho has been active since his teens.	E
+0	IA0	T332	Park Jae-beom was born in Edmonds, Washington.	E	T332_mod_3	Park Jae-beom was born in Edmonds, Washington.	C
+0	IA0	T1847	Jack Antonoff has been active since his teens.	E	T1847_mod_2	Jack Antonoff has been active since his teens.	C
+0	IA1	T1847	Jack Antonoff was born in NJ	E	T1847_mod_3	Jack Antonoff was born in NJ	C
+0	IA0	T12	The Faroe Islands has more than one official language.	E	T12_mod_4	The Faroe Islands has more than one official language.	C
+0	IA1	T403	John Harrison was born in England's capital.	C	T403_mod_4	John Harrison was born in England's capital.	E
+0	IA0	T440	The Republic of Chile President is a woman.	C	T440_mod_4	The Republic of Chile President is a woman.	E
+0	IA0	T74	Katharine McPhee has been with over 7 record labels.	C	T74_mod_3	Katharine McPhee has been with over 7 record labels.	E
+0	IA0	T261	The Jin dynasty capital moved around to different cities.	E	T261_mod_2	The Jin dynasty capital moved around to different cities.	C
+0	IA1	T761	Code Orange is an American punk and metalcore band.	E	T761_mod_4	Code Orange is an American punk and metalcore band.	C
+0	IA0	T310	Christchurch is made up of wards and governed by a council.	E	T310_mod_1	Christchurch is made up of wards and governed by a council.	C
+0	IA0	T416	Johnny Depp has been married twice.	E	T416_mod_2	Johnny Depp has been married twice.	C
+0	IA0	T885	Caracas' metro area is more than ten times its city size.	E	T885_mod_1	Caracas' metro area is more than ten times its city size.	C
+0	IA0	T534	C?OC is a two-decade old brand.	C	T534_mod_3	C?OC is a two-decade old brand.	E
+0	IA0	T1148	Britney Spears was born and raised in the midwest.	C	T1148_mod_3	Britney Spears was born and raised in the midwest.	E
+0	IA0	T1456	The orbital speed of Jupiter is less than 5 km/s.	C	T1456_mod_2	The orbital speed of Jupiter is less than 5 km/s.	E
+0	IA0	T534	CIRCO HAD MORE THAN TWENTY FIVE VARIANTS	C	T534_mod_4	CIRCO HAD MORE THAN TWENTY FIVE VARIANTS	E
+0	IA1	T1456	Jupiter has more than a dozen known satellites.	E	T1456_mod_3	Jupiter has more than a dozen known satellites.	C
+0	IA1	T719	Cristiano Ronaldo is shorter than 6 feet tall.	C	T719_mod_2	Cristiano Ronaldo is shorter than 6 feet tall.	E
+0	IA1	T1456	The inclination of Jupiter to the Sun's equator is greater than half a dozen degrees.	E	T1456_mod_4	The inclination of Jupiter to the Sun's equator is greater than half a dozen degrees.	C
+0	IA0	T1503	Jim Belushi has had three wives.	E	T1503_mod_3	Jim Belushi has had three wives.	C
+0	IA0	T719	Cristiano Ronaldo plays an offensive position rather than defensive.	E	T719_mod_3	Cristiano Ronaldo plays an offensive position rather than defensive.	C
+0	IA1	T1503	Jim Belushi is an entertainer.	E	T1503_mod_4	Jim Belushi is an entertainer.	C
+0	IA1	T719	Cristiano Ronaldo is a British Millenial.	C	T719_mod_4	Cristiano Ronaldo is a British Millenial.	E
+0	IA0	T1550	J?rgen Skafte Rasmussen had the same nationality of where he was born.	E	T1550_mod_5	J?rgen Skafte Rasmussen had the same nationality of where he was born.	C
+0	IA0	T1601	Jimmy Eat World has been making music for more than 25 years.	E	T1601_mod_3	Jimmy Eat World has been making music for more than 25 years.	C
+0	IA0	T1601	Jimmy Eat World was started in the South Eastern part of the US.	C	T1601_mod_4	Jimmy Eat World was started in the South Eastern part of the US.	E
+0	IA0	T1664	Jessie J has had an active career for over a decade.	E	T1664_mod_5	Jessie J has had an active career for over a decade.	C
+0	IA1	T1791	Huddersfield Ben was alive for six years.	E	T1791_mod_4	Huddersfield Ben was alive for six years.	C
+0	IA1	T1791	Huddersfield Ben was a Yorkshire Terrier.	E	T1791_mod_5	Huddersfield Ben was a Yorkshire Terrier.	C
+0	IA1	T1918	Hypatia was born and died in Europe.	C	T1918_mod_2	Hypatia was born and died in Europe.	E
+0	IA1	T14	Flatliners is pretty close to two hours long.	E	T14_mod_3	Flatliners is pretty close to two hours long.	C
+0	IA0	T433	Concussion is an American film.	E	T433_mod_2	Concussion is an American film.	C
+0	IA0	T536	Denver, Colorado was founded and incorporated within a decade of each other	C	T536_mod_1	Denver, Colorado was founded and incorporated within a decade of each other	E
+0	IA1	T662	Detroit's urban area is bigger than the metro area.	C	T662_mod_1	Detroit's urban area is bigger than the metro area.	E
+0	IA1	T749	The comic Crossed was published for under two years.	E	T749_mod_1	The comic Crossed was published for under two years.	C
+0	IA0	T791	The fire in Club Colectiv suspects list contain at least one politician.	E	T791_mod_1	The fire in Club Colectiv suspects list contain at least one politician.	C
+0	IA1	T1784	Interior is a 19th century work of art.	E	T1784_mod_2	Interior is a 19th century work of art.	C
+0	IA0	T777	David Packouz never owned a business.	C	T777_mod_2	David Packouz never owned a business.	E
+0	IA1	T1449	Kareem Abdul-Jabbar played basketball professionally in the same state he went to high school.	C	T1449_mod_1	Kareem Abdul-Jabbar played basketball professionally in the same state he went to high school.	E
+0	IA1	T1406	Kazakh Khanate was disestablished at the turn of the 19th century.	E	T1406_mod_1	Kazakh Khanate was disestablished at the turn of the 19th century.	C
+0	IA0	T536	Denver was founded by a local group of miners in 1848.	C	T536_mod_2	Denver was founded by a local group of miners in 1848.	E
+0	IA0	T1456	The orbital period of Jupiter is more than 12 times as long as Earth's.	C	T1456_mod_5	The orbital period of Jupiter is more than 12 times as long as Earth's.	E
+0	IA1	T885	Caracas' city is at sea level.	C	T885_mod_2	Caracas' city is at sea level.	E
+0	IA0	T983	Camilla Rosemary Shand has had more marriages than children.	C	T983_mod_4	Camilla Rosemary Shand has had more marriages than children.	E
+0	IA0	T440	Spanish is the national language in Santiago.	E	T440_mod_5	Spanish is the national language in Santiago.	C
+0	IA0	T1544	Johnny Cash was in his seventies when he died.	E	T1544_mod_1	Johnny Cash was in his seventies when he died.	C
+0	IA1	T1512	John McCain had his first political victory in the 90s.	E	T1512_mod_1	John McCain had his first political victory in the 90s.	C
+0	IA0	T64	The Equestrian Portrait of Charles I was completed by Anthony van Dyck.	E	T64_mod_3	The Equestrian Portrait of Charles I was completed by Anthony van Dyck.	C
+0	IA0	T544	Despicable Me 3 was a box office disappointment.	C	T544_mod_3	Despicable Me 3 was a box office disappointment.	E
+0	IA0	T733	Coca-Cola with Lime/Diet Coke with Citrus Zest contained an actual wedge of lime.	C	T733_mod_2	Coca-Cola with Lime/Diet Coke with Citrus Zest contained an actual wedge of lime.	E
+0	IA1	T947	There are more who practice the African traditional religion than the Christian religion in the Republic of Botswana.	C	T947_mod_5	There are more who practice the African traditional religion than the Christian religion in the Republic of Botswana.	E
+0	IA0	T1508	Josta is a drink that was popular in the 1990s.	E	T1508_mod_3	Josta is a drink that was popular in the 1990s.	C
+0	IA1	T1702	PepsiCo has stuck to its original formula for Kas with no changes.	C	T1702_mod_3	PepsiCo has stuck to its original formula for Kas with no changes.	E
+0	IA1	T1412	Johnny the Homicidal Maniac came out once a month.	E	T1412_mod_2	Johnny the Homicidal Maniac came out once a month.	C
+0	IA1	T1241	Atari 2600 was sold only domestically.	C	T1241_mod_1	Atari 2600 was sold only domestically.	E
+0	IA1	T1010	Boy Peeling Fruit  is a mural painted on the ceiling of a church.	C	T1010_mod_2	Boy Peeling Fruit  is a mural painted on the ceiling of a church.	E
+0	IA1	T554	Danehill is a famous racehorse from the United States.	E	T554_mod_3	Danehill is a famous racehorse from the United States.	C
+0	IA1	T1847	Jack Antonoff has been performing for over twenty years.	C	T1847_mod_4	Jack Antonoff has been performing for over twenty years.	E
+0	IA0	T787	The Republic of Cuba is a country located in the Northern Hemisphere.	E	T787_mod_5	The Republic of Cuba is a country located in the Northern Hemisphere.	C
+0	IA1	T1545	Jim Mattis served over fifty years in the military.	C	T1545_mod_1	Jim Mattis served over fifty years in the military.	E
+0	IA0	T1031	Case Closed was a long-running Japanese comic serial.	C	T1031_mod_1	Case Closed was a long-running Japanese comic serial.	E
+0	IA0	T1788	Issa Album was a collaborative effort between multiple hip-hop producers.	E	T1788_mod_1	Issa Album was a collaborative effort between multiple hip-hop producers.	C
+0	IA1	T680	Camp Kill Yourself has been signed to Universal and Paramount.	C	T680_mod_3	Camp Kill Yourself has been signed to Universal and Paramount.	E
+0	IA0	T885	Caracas is a a capital city a few thousand feet above sea level.	E	T885_mod_3	Caracas is a a capital city a few thousand feet above sea level.	C
+0	IA1	T2028	Working Title Films was made in German.	C	T2028_mod_2	Working Title Films was made in German.	E
+0	IA0	T1942	Jacques Charles was known for his work in science.	E	T1942_mod_2	Jacques Charles was known for his work in science.	C
+0	IA1	T1177	Norwegian Air Shuttle is focused out of Queens, New York.	E	T1177_mod_1	Norwegian Air Shuttle is focused out of Queens, New York.	C
+0	IA1	T1449	Kareem Abdul-Jabbar played basketball for over four decades.	C	T1449_mod_2	Kareem Abdul-Jabbar played basketball for over four decades.	E
+0	IA0	T899	Chengdu is a provincial city that sits around 1,600 feet in the air.	E	T899_mod_2	Chengdu is a provincial city that sits around 1,600 feet in the air.	C
+0	IA0	T1861	Iceland got sovereignty in 1904.	E	T1861_mod_4	Iceland got sovereignty in 1904.	C
+0	IA1	T413	Justus von Liebig studied and taught chemistry in their life.	E	T413_mod_4	Justus von Liebig studied and taught chemistry in their life.	C
+0	IA1	T1017	Casablanca was edited and written by Humphrey Bogart.	C	T1017_mod_2	Casablanca was edited and written by Humphrey Bogart.	E
+0	IA0	T1888	Huntington Beach, California has no city manager.	C	T1888_mod_3	Huntington Beach, California has no city manager.	E
+0	IA1	T272	The musician Chet Baker primarily played Jazz music.	E	T272_mod_2	The musician Chet Baker primarily played Jazz music.	C
+0	IA0	T1656	Karen Gillan is a performer in her late 30s.	C	T1656_mod_2	Karen Gillan is a performer in her late 30s.	E
+0	IA0	T2028	Working Title Films was released in the United Kingdom before anywhere else.	E	T2028_mod_3	Working Title Films was released in the United Kingdom before anywhere else.	C
+0	IA0	T839	DC Comics Presents was an American comic book series.	E	T839_mod_3	DC Comics Presents was an American comic book series.	C
+0	IA1	T1390	Godolphin Racing has been the owner of Cape Cross since 1994.	C	T1390_mod_4	Godolphin Racing has been the owner of Cape Cross since 1994.	E
+0	IA0	T688	Dennis Gabor is a famous Hungarian/British scientist.	E	T688_mod_2	Dennis Gabor is a famous Hungarian/British scientist.	C
+0	IA1	T596	Ciara Princess Harris married  Nayvadious Wilburn	C	T596_mod_1	Ciara Princess Harris married  Nayvadious Wilburn	E
+0	IA1	T12	The Faroe Islands are led by Lene Moyell Johnansen.	C	T12_mod_5	The Faroe Islands are led by Lene Moyell Johnansen.	E
+0	IA1	T1179	Trainer of Brigadier Gerard is Mr & Mrs. John L. Hislop.	C	T1179_mod_2	Trainer of Brigadier Gerard is Mr & Mrs. John L. Hislop.	E
+0	IA0	T340	Jennifer Love Hewitt has been singing professionally since she was a toddler.	C	T340_mod_2	Jennifer Love Hewitt has been singing professionally since she was a toddler.	E
+0	IA0	T272	The musician Chet Baker started playing music professionally at 10 years old.	C	T272_mod_3	The musician Chet Baker started playing music professionally at 10 years old.	E
+0	IA1	T940	Bruges is a xenophobic area with no wish for outside visitors.	C	T940_mod_4	Bruges is a xenophobic area with no wish for outside visitors.	E
+0	IA1	T745	Men's 50 kilometre freestyle at the XXII Olympic Winter Games was held in America.	C	T745_mod_4	Men's 50 kilometre freestyle at the XXII Olympic Winter Games was held in America.	E
+0	IA0	T1784	Interior was painted in the last fifty years.	C	T1784_mod_3	Interior was painted in the last fifty years.	E
+0	IA1	T543	India v. Pakistan at Eden Gardens in 1999 drew more than India's total 2017 season.	C	T543_mod_1	India v. Pakistan at Eden Gardens in 1999 drew more than India's total 2017 season.	E
+0	IA1	T104	E Street band is from the capital of New Jersey.	C	T104_mod_4	E Street band is from the capital of New Jersey.	E
+0	IA1	T709	Crack-Up was primarily recorded in Washington state.	C	T709_mod_3	Crack-Up was primarily recorded in Washington state.	E
+0	IA1	T792	David Ronald de Mey Warren is an Australian scientist from Melbourne.	E	T792_mod_1	David Ronald de Mey Warren is an Australian scientist from Melbourne.	C
+0	IA1	T1395	National Rail began in Liverpool England.	E	T1395_mod_3	National Rail began in Liverpool England.	C
+0	IA0	T277	Mar’a del Rosario Mercedes Pilar Mart’nez Molina Baeza began an active career in 1963.	E	T277_mod_1	Mar’a del Rosario Mercedes Pilar Mart’nez Molina Baeza began an active career in 1963.	C
+0	IA0	T1446	Jennifer Aniston has been active since her early twenties.	C	T1446_mod_2	Jennifer Aniston has been active since her early twenties.	E
+0	IA1	T274	Fawad Khan did a record with Jay Z that was very popular.	C	T274_mod_1	Fawad Khan did a record with Jay Z that was very popular.	E
+0	IA0	T536	Denver City is located in the deep south region of the United States.	C	T536_mod_3	Denver City is located in the deep south region of the United States.	E
+0	IA0	T2032	Jakarta is the where the government in Republic of Indonesia is.	E	T2032_mod_4	Jakarta is the where the government in Republic of Indonesia is.	C
+0	IA0	T435	Children of Bodom went by a different name their first four years of performing.	E	T435_mod_1	Children of Bodom went by a different name their first four years of performing.	C
+0	IA1	T1668	Jerusalem is close to two thirds Jewish in population.	E	T1668_mod_1	Jerusalem is close to two thirds Jewish in population.	C
+0	IA1	T17	Bryce Dallas Howard has been acting for about 30 years.	E	T17_mod_1	Bryce Dallas Howard has been acting for about 30 years.	C
+0	IA0	T777	David Packouz is a former arms dealer who was sentenced to house arrest in the United States.	E	T777_mod_3	David Packouz is a former arms dealer who was sentenced to house arrest in the United States.	C
+0	IA0	T1688	John Cyril Porte served more than once in the military.	E	T1688_mod_3	John Cyril Porte served more than once in the military.	C
+0	IA1	T203	Japan's House of Councillors is higher than the house of representatives.	E	T203_mod_4	Japan's House of Councillors is higher than the house of representatives.	C
+0	IA0	T1164	Romanian Footballer of the Year has been awarded every year since 1966.	E	T1164_mod_4	Romanian Footballer of the Year has been awarded every year since 1966.	C
+0	IA1	T1690	Jinder Mahal is a neophyte in the ring.	C	T1690_mod_3	Jinder Mahal is a neophyte in the ring.	E
+0	IA1	T797	Cue Card is a race horse foaled in Great Britain.	E	T797_mod_4	Cue Card is a race horse foaled in Great Britain.	C
+0	IA0	T104	The E Street Band broke up in 1999.	C	T104_mod_5	The E Street Band broke up in 1999.	E
+0	IA1	T1545	Jim Mattis was the head of the Joint Chiefs of Staff.	C	T1545_mod_2	Jim Mattis was the head of the Joint Chiefs of Staff.	E
+0	IA0	T408	Karen Gillan has been an actress since childhood.	C	T408_mod_4	Karen Gillan has been an actress since childhood.	E
+0	IA1	T382	Jeff Hardy is a wrestler and a musician.	E	T382_mod_1	Jeff Hardy is a wrestler and a musician.	C
+0	IA1	T982	Republic of Chile is on the west coast of South America.	E	T982_mod_1	Republic of Chile is on the west coast of South America.	C
+0	IA0	T400	Jordan Peele began acting professionally at 23 years old.	E	T400_mod_1	Jordan Peele began acting professionally at 23 years old.	C
+0	IA0	T688	Dennis Gabor was a 20th century Nobel Price winning Physicist..	E	T688_mod_3	Dennis Gabor was a 20th century Nobel Price winning Physicist..	C
+0	IA0	T734	David Cook has never had a child with his spouse, Helen.	C	T734_mod_4	David Cook has never had a child with his spouse, Helen.	E
+0	IA0	T1179	Brigadier Gerard has a perfect career win-loss record	C	T1179_mod_3	Brigadier Gerard has a perfect career win-loss record	E
+0	IA1	T1212	Glacier National Park is in two counties near Columbia Falls.	E	T1212_mod_5	Glacier National Park is in two counties near Columbia Falls.	C
+0	IA0	T372	Florence Lawrence died before her third husband.	C	T372_mod_2	Florence Lawrence died before her third husband.	E
+0	IA0	T152	Jane Austen was buried in her home country.	E	T152_mod_4	Jane Austen was buried in her home country.	C
+0	IA0	T1917	Republic of Iraq is USA territory	C	T1917_mod_1	Republic of Iraq is USA territory	E
+0	IA0	T1464	John James Rickard Macleod was in his fifties when he died.	E	T1464_mod_2	John James Rickard Macleod was in his fifties when he died.	C
+0	IA1	T1002	Catalonia have no voice or representational governance in place.	C	T1002_mod_3	Catalonia have no voice or representational governance in place.	E
+0	IA1	T1861	Iceland has been inhabited for over a millenia.	E	T1861_mod_5	Iceland has been inhabited for over a millenia.	C
+0	IA0	T382	Jeff Hardy first wrestled professionally in 1990.	C	T382_mod_2	Jeff Hardy first wrestled professionally in 1990.	E
+0	IA1	T1659	Jungle was filmed on two continents.	E	T1659_mod_1	Jungle was filmed on two continents.	C
+0	IA0	T1473	Jimson Weed is a 19th century work of art.	C	T1473_mod_2	Jimson Weed is a 19th century work of art.	E
+0	IA1	T702	City of London is Roman land.	C	T702_mod_2	City of London is Roman land.	E
+0	IA0	T749	Crossed is a post-apocalyptic series published after the turn of the century.	E	T749_mod_2	Crossed is a post-apocalyptic series published after the turn of the century.	C
+0	IA0	T1614	John Paul Getty III was born in the early part of the 1900s.	C	T1614_mod_2	John Paul Getty III was born in the early part of the 1900s.	E
+0	IA0	T1031	The same publisher of 'Case Closed' also provided the English translation.	C	T1031_mod_2	The same publisher of 'Case Closed' also provided the English translation.	E
+0	IA1	T2028	Hot Fuzz was a multi-national film production	E	T2028_mod_4	Hot Fuzz was a multi-national film production	C
+0	IA1	T1508	PepsiCo has never tried to make an energy soft drink.	C	T1508_mod_4	PepsiCo has never tried to make an energy soft drink.	E
+0	IA0	T308	K?lm?n Tihanyi received his schooling in Italy.	C	T308_mod_1	K?lm?n Tihanyi received his schooling in Italy.	E
+0	IA1	T413	Justus von Liebig was a European scientist.	E	T413_mod_5	Justus von Liebig was a European scientist.	C
+0	IA1	T310	Christchurch is over 200 years old.	C	T310_mod_2	Christchurch is over 200 years old.	E
+0	IA0	T778	Crystal Head Vodka was released in the USA.	E	T778_mod_1	Crystal Head Vodka was released in the USA.	C
+0	IA1	T20	Flatbush Zombies are signed to RCA records.	C	T20_mod_5	Flatbush Zombies are signed to RCA records.	E
+0	IA1	T733	Coca-Cola with Lime/Diet Coke with Citrus Zest is a British-American beverage.	E	T733_mod_3	Coca-Cola with Lime/Diet Coke with Citrus Zest is a British-American beverage.	C
+0	IA1	T1404	Kaya Scodelario was born with a different last name.	E	T1404_mod_2	Kaya Scodelario was born with a different last name.	C
+0	IA0	T581	Cracovia is a weak alcoholic drink	C	T581_mod_2	Cracovia is a weak alcoholic drink	E
+0	IA0	T1614	John Paul Getty III was known for being taken away from his family.	E	T1614_mod_3	John Paul Getty III was known for being taken away from his family.	C
+0	IA1	T846	Dean Martin has been active in the music industry for over 60 years.	C	T846_mod_1	Dean Martin has been active in the music industry for over 60 years.	E
+0	IA1	T1177	John F. Kennedy International Airport is used solely for airplanes.	C	T1177_mod_2	John F. Kennedy International Airport is used solely for airplanes.	E
+0	IA0	T1179	There was only one race that Brigadier Gerard ran that wasn't won by the horse.	E	T1179_mod_4	There was only one race that Brigadier Gerard ran that wasn't won by the horse.	C
+0	IA0	T340	Jennifer Love Hewitt is an actress who had a singing career in Pop music.	E	T340_mod_3	Jennifer Love Hewitt is an actress who had a singing career in Pop music.	C
+0	IA1	T940	Bruges has a single post code representing the entire city.	C	T940_mod_5	Bruges has a single post code representing the entire city.	E
+0	IA0	T207	All Burn Energy drinks are sugar free.	C	T207_mod_4	All Burn Energy drinks are sugar free.	E
+0	IA0	T1656	Karen Gillan is a female UK actress.	E	T1656_mod_3	Karen Gillan is a female UK actress.	C
+0	IA1	T491	Cory Monteith was a Canadian entertainer that died less than a decade ago.	E	T491_mod_2	Cory Monteith was a Canadian entertainer that died less than a decade ago.	C
+0	IA0	T17	Bryce Dallas Howard has been acting for more than 20 years.	E	T17_mod_2	Bryce Dallas Howard has been acting for more than 20 years.	C
+0	IA0	T1918	Hypatia studied the teachings of well-known philosophers.	E	T1918_mod_3	Hypatia studied the teachings of well-known philosophers.	C
+0	IA0	T829	Commonwealth of the Philippines was a independent Sovereign nation.	C	T829_mod_2	Commonwealth of the Philippines was a independent Sovereign nation.	E
+0	IA1	T727	Dick Van Dyke is not yet a grandfather.	C	T727_mod_1	Dick Van Dyke is not yet a grandfather.	E
+0	IA1	T382	Jeff Hardy began wrestling professionally when they were only 16 years old.	E	T382_mod_3	Jeff Hardy began wrestling professionally when they were only 16 years old.	C
+0	IA1	T792	David Ronald de Mey Warren was a flight recorder since the early 1920's.	C	T792_mod_2	David Ronald de Mey Warren was a flight recorder since the early 1920's.	E
+0	IA1	T403	John Harrison is an award-winning English Horologist.	E	T403_mod_5	John Harrison is an award-winning English Horologist.	C
+0	IA0	T323	The Czech Republic was part of the European Union before independence.	C	T323_mod_2	The Czech Republic was part of the European Union before independence.	E
+0	IA0	T286	Fan Bingbing is the head of their own Label.	E	T286_mod_3	Fan Bingbing is the head of their own Label.	C
+0	IA1	T727	Dick Van Dyke is an actor and comedian from Malibu.	E	T727_mod_2	Dick Van Dyke is an actor and comedian from Malibu.	C
+0	IA0	T1882	Jack of Fables was a monthly comic book series.	E	T1882_mod_2	Jack of Fables was a monthly comic book series.	C
+0	IA1	T1503	Jim Belushi was active in his listed occupations in the early 1970's.	C	T1503_mod_5	Jim Belushi was active in his listed occupations in the early 1970's.	E
+0	IA0	T1713	John Cho was born in the Summer of 1972.	E	T1713_mod_3	John Cho was born in the Summer of 1972.	C
+0	IA1	T308	K?lm?n Tihanyi was an educated European.	E	T308_mod_2	K?lm?n Tihanyi was an educated European.	C
+0	IA1	T816	The XXIII Olympic Winter Games took place in 2018.	E	T816_mod_2	The XXIII Olympic Winter Games took place in 2018.	C
+0	IA1	T790	Cuba's War of Independence was waged nearly three decades after its Declaration of Independence.	E	T790_mod_3	Cuba's War of Independence was waged nearly three decades after its Declaration of Independence.	C
+0	IA0	T458	Contract bridge is purely luck based.	C	T458_mod_3	Contract bridge is purely luck based.	E
+0	IA0	T1656	Karen Gillan has been active since her twenties.	C	T1656_mod_4	Karen Gillan has been active since her twenties.	E
+0	IA0	T1677	Johannes Gutenberg made it easier for people to print things.	E	T1677_mod_4	Johannes Gutenberg made it easier for people to print things.	C
+0	IA0	T543	Cricket is an unpopular sport in India.	C	T543_mod_2	Cricket is an unpopular sport in India.	E
+0	IA1	T839	DC Comics presents was ongoing comic series that ran over 100 issues while active.	E	T839_mod_4	DC Comics presents was ongoing comic series that ran over 100 issues while active.	C
+0	IA1	T829	The Philippines have had a nation assembly government for their entire history.	C	T829_mod_3	The Philippines have had a nation assembly government for their entire history.	E
+0	IA1	T261	There were monarchs in three different capitals in Jin's history..	E	T261_mod_3	There were monarchs in three different capitals in Jin's history..	C
+0	IA0	T596	Ciara is an American R&B singer and dancer.	E	T596_mod_2	Ciara is an American R&B singer and dancer.	C
+0	IA1	T974	The urban square mileage of Chicago is larger than the metro square mileage.	C	T974_mod_2	The urban square mileage of Chicago is larger than the metro square mileage.	E
+0	IA1	T1464	John James Rickard Macleod, FRS was a British Nobel Prize winner.	E	T1464_mod_3	John James Rickard Macleod, FRS was a British Nobel Prize winner.	C
+0	IA1	T361	Joaquin Rafael Bottom has been known as Leaf Phoenix.	E	T361_mod_3	Joaquin Rafael Bottom has been known as Leaf Phoenix.	C
+0	IA0	T741	David Duchovny made his big screen debut at the age of 24.	C	T741_mod_3	David Duchovny made his big screen debut at the age of 24.	E
+0	IA1	T1600	K?roly Zipernowsky was born in 19th century Vienna.	E	T1600_mod_1	K?roly Zipernowsky was born in 19th century Vienna.	C
+0	IA0	T1017	Casablanca is a classic American Hollywood film.	E	T1017_mod_3	Casablanca is a classic American Hollywood film.	C
+0	IA1	T1002	Catalonia is governed by elected officials and overseen by a monarchy.	E	T1002_mod_4	Catalonia is governed by elected officials and overseen by a monarchy.	C
+0	IA0	T1241	Consoles with 128 bytes of RAM are not compatible with joysticks.	C	T1241_mod_2	Consoles with 128 bytes of RAM are not compatible with joysticks.	E
+0	IA1	T1412	You can get a new issue of Johnny the Homicidal Maniac next month.	C	T1412_mod_3	You can get a new issue of Johnny the Homicidal Maniac next month.	E
+0	IA1	T1791	Huddersfield Ben is a name for a mut.	C	T1791_mod_6	Huddersfield Ben is a name for a mut.	E
+0	IA1	T581	Cracovia was originally a beer and transformed into 40 Proof Vodka.	C	T581_mod_3	Cracovia was originally a beer and transformed into 40 Proof Vodka.	E
+0	IA0	T811	Collision Course is a multi-disc rap/rock mash up released in 2004.	E	T811_mod_1	Collision Course is a multi-disc rap/rock mash up released in 2004.	C
+0	IA0	T310	Christchurch is located on the southern island of New Zealand.	E	T310_mod_3	Christchurch is located on the southern island of New Zealand.	C
+0	IA1	T727	Dick Van Dyke's middle initial is found near the end of the English alphabet.	E	T727_mod_3	Dick Van Dyke's middle initial is found near the end of the English alphabet.	C
+0	IA1	T829	Sergio Osme?a never served in more than one elected office.	C	T829_mod_4	Sergio Osme?a never served in more than one elected office.	E
+0	IA1	T536	Denver is a city in Colorado in the United States named for James Denver.	E	T536_mod_4	Denver is a city in Colorado in the United States named for James Denver.	C
+0	IA1	T839	The DC Comics Presents only came out annually.	C	T839_mod_5	The DC Comics Presents only came out annually.	E
+0	IA1	T416	Johnny Depp died in car accident in early 2015.	C	T416_mod_3	Johnny Depp died in car accident in early 2015.	E
+0	IA0	T1131	George Mason University's mascot is the whale.	C	T1131_mod_3	George Mason University's mascot is the whale.	E
+0	IA1	T793	Colin Farrell began singing when they were 21 years old.	E	T793_mod_2	Colin Farrell began singing when they were 21 years old.	C
+0	IA0	T1618	Jupiter and Io is a 16th century work of art.	E	T1618_mod_4	Jupiter and Io is a 16th century work of art.	C
+0	IA1	T1668	Jerusalem is comprised of mainly Jewish people.	E	T1668_mod_2	Jerusalem is comprised of mainly Jewish people.	C
+0	IA0	T361	Joaquin Phoenix is an American entertainer.	E	T361_mod_4	Joaquin Phoenix is an American entertainer.	C
+0	IA0	T1612	Johann Nikolaus von Dreyse was Prussian.	C	T1612_mod_5	Johann Nikolaus von Dreyse was Prussian.	E
+0	IA0	T1134	Caravan Palace does no marketing and has gained fame mainly thru word-of-mouth.	C	T1134_mod_1	Caravan Palace does no marketing and has gained fame mainly thru word-of-mouth.	E
+0	IA1	T1713	John Cho has been acting for more than two and a half decades.	C	T1713_mod_4	John Cho has been acting for more than two and a half decades.	E
+0	IA1	T1768	Iced Earth is not played now	C	T1768_mod_4	Iced Earth is not played now	E
+0	IA0	T2032	There are ten languages spoken in Republic of Indonesia.	C	T2032_mod_5	There are ten languages spoken in Republic of Indonesia.	E
+0	IA0	T928	Charlie and the Chocolate Factory was released in four countries.	C	T928_mod_4	Charlie and the Chocolate Factory was released in four countries.	E
+0	IA1	T816	Curling in the XXIII Olympic Winter Games took place over 2 weeks with 3 main events.	E	T816_mod_3	Curling in the XXIII Olympic Winter Games took place over 2 weeks with 3 main events.	C
+0	IA1	T1600	K?roly Zipernowsky didn't go to school to become an engineer.	C	T1600_mod_2	K?roly Zipernowsky didn't go to school to become an engineer.	E
+0	IA0	T1586	Kappa Coronae Borealis b is part of the Little Dipper constellation.	C	T1586_mod_4	Kappa Coronae Borealis b is part of the Little Dipper constellation.	E
+0	IA0	T790	The Cuban Revolution lasted about  years before finally ending peacefully.	C	T790_mod_4	The Cuban Revolution lasted about  years before finally ending peacefully.	E
+0	IA1	T323	Czech Republic gained independence in late the 20th century.	E	T323_mod_3	Czech Republic gained independence in late the 20th century.	C
+0	IA0	T554	Danehill was an American racehorse.	E	T554_mod_4	Danehill was an American racehorse.	C
+0	IA0	T294	Universal Pictures released Fast & Furious in 2009.	E	T294_mod_4	Universal Pictures released Fast & Furious in 2009.	C
+0	IA0	T1692	John Wayne Gacy died when they were 40.	C	T1692_mod_1	John Wayne Gacy died when they were 40.	E
+0	IA0	T340	Jennifer Love Hewitt is currently a singer.	C	T340_mod_4	Jennifer Love Hewitt is currently a singer.	E
+0	IA0	T12	The Faroe Islands has more than one official religion.	C	T12_mod_6	The Faroe Islands has more than one official religion.	E
+0	IA0	T727	Van Dyke served in the military for WWII for over 4 years.	C	T727_mod_4	Van Dyke served in the military for WWII for over 4 years.	E
+0	IA1	T1713	John Cho has been married for over ten years.	E	T1713_mod_5	John Cho has been married for over ten years.	C
+0	IA1	T848	Dear White People is a TV show directed and written by Justin Simien.	E	T848_mod_1	Dear White People is a TV show directed and written by Justin Simien.	C
+0	IA0	T1586	Kappa Coronae Borealis b is a few light years from Earth.	C	T1586_mod_5	Kappa Coronae Borealis b is a few light years from Earth.	E
+0	IA1	T447	China has had two republic periods.	E	T447_mod_6	China has had two republic periods.	C
+0	IA1	T435	The band Inearthed comes from Finland.	E	T435_mod_2	The band Inearthed comes from Finland.	C
+0	IA0	T828	Common is a hip hop musician from Chicago.	E	T828_mod_2	Common is a hip hop musician from Chicago.	C
+0	IA1	T261	Luoyang was the capital at the time the Eastern Jin began.	C	T261_mod_4	Luoyang was the capital at the time the Eastern Jin began.	E
+0	IA1	T1369	FSU is located in Georgia.	C	T1369_mod_4	FSU is located in Georgia.	E
+0	IA0	T982	Republic of Chile is a military dictatorship with representative parliament.	C	T982_mod_2	Republic of Chile is a military dictatorship with representative parliament.	E
+0	IA0	T261	The reunification of China preceded the establishment of Jin.	C	T261_mod_5	The reunification of China preceded the establishment of Jin.	E
+0	IA0	T1706	Jeff Lynne has been active as a musician in more than one century.	E	T1706_mod_3	Jeff Lynne has been active as a musician in more than one century.	C
+0	IA0	T982	The Republic of Chile lies north of the equator.	C	T982_mod_3	The Republic of Chile lies north of the equator.	E
+0	IA1	T1179	Brigadier Gerard is a British male racehorse.	E	T1179_mod_5	Brigadier Gerard is a British male racehorse.	C
+0	IA0	T1544	Johnny Cash was alive during two different centuries.	E	T1544_mod_2	Johnny Cash was alive during two different centuries.	C
+0	IA0	T1010	Boy Peeling Fruit is a 16th century European work of art.	E	T1010_mod_3	Boy Peeling Fruit is a 16th century European work of art.	C
+0	IA1	T535	Crisis on Infinite Earths is an old American comic book series from the 80s.	E	T535_mod_1	Crisis on Infinite Earths is an old American comic book series from the 80s.	C
+0	IA1	T543	Almost 1 million people watched cricket in India for the 2017 season.	C	T543_mod_3	Almost 1 million people watched cricket in India for the 2017 season.	E
+0	IA1	T805	Culture was the culmination of a production collaboration between the Migos and 808God, whom produced all the songs on the album.	C	T805_mod_2	Culture was the culmination of a production collaboration between the Migos and 808God, whom produced all the songs on the album.	E
+0	IA1	T1265	Brian May's scientific achievements made him famous.	C	T1265_mod_1	Brian May's scientific achievements made him famous.	E
+0	IA1	T983	Camilla is part of the British Royal family.	E	T983_mod_5	Camilla is part of the British Royal family.	C
+0	IA1	T1847	Jack Antonoff has performed with smaller acts.	C	T1847_mod_5	Jack Antonoff has performed with smaller acts.	E
+0	IA1	T1614	There are 3 males with the same name in John Paul Getty's family.	E	T1614_mod_4	There are 3 males with the same name in John Paul Getty's family.	C
+0	IA0	T286	Fan Bingbing is a Chinese entertainer.	E	T286_mod_4	Fan Bingbing is a Chinese entertainer.	C
+0	IA1	T831	The Union of the Comoros was dissolved in 2009.	C	T831_mod_3	The Union of the Comoros was dissolved in 2009.	E
+0	IA0	T749	Crossed is published in consistent intervals and is still an ongoing series.	C	T749_mod_3	Crossed is published in consistent intervals and is still an ongoing series.	E
+0	IA1	T403	John Harrison died before the Declaration of Independence was signed.	E	T403_mod_6	John Harrison died before the Declaration of Independence was signed.	C
+0	IA1	T1635	Kauto Star sired man offspring after his retirement.	C	T1635_mod_2	Kauto Star sired man offspring after his retirement.	E
+0	IA1	T13	Fearless was released in the Spring of 2008.	C	T13_mod_4	Fearless was released in the Spring of 2008.	E
+0	IA1	T1395	Station code BGE is managed by Northern	E	T1395_mod_4	Station code BGE is managed by Northern	C
+0	IA1	T319	The Czech Republic is a multi-ethnic and multi-lingual nation.	E	T319_mod_2	The Czech Republic is a multi-ethnic and multi-lingual nation.	C
+0	IA0	T1134	Caravan Palace is a French musical group.	E	T1134_mod_2	Caravan Palace is a French musical group.	C
+0	IA1	T792	David Ronald de Mey Warren never went on a plane in their life.	C	T792_mod_3	David Ronald de Mey Warren never went on a plane in their life.	E
+0	IA1	T1713	John Cho began his career right out of high school, skipping college.	C	T1713_mod_6	John Cho began his career right out of high school, skipping college.	E
+0	IA1	T1692	John Wayne Gacy was killed by the state.	E	T1692_mod_2	John Wayne Gacy was killed by the state.	C
+0	IA1	T1512	John McCain did multiple stints in office.	E	T1512_mod_2	John McCain did multiple stints in office.	C
+0	IA0	T758	The bull Code Blue was originally from the United Kingdom.	C	T758_mod_1	The bull Code Blue was originally from the United Kingdom.	E
+0	IA0	T1545	Jim Mattis served in the military for 44 years.	E	T1545_mod_3	Jim Mattis served in the military for 44 years.	C
+0	IA1	T534	C?OC is a French vodka that comes in various flavors.	E	T534_mod_5	C?OC is a French vodka that comes in various flavors.	C
+0	IA1	T1942	Jacques Charles was a European man of science.	E	T1942_mod_3	Jacques Charles was a European man of science.	C
+0	IA1	T1265	Brian May is an award-winning British rock musician	E	T1265_mod_2	Brian May is an award-winning British rock musician	C
+0	IA1	T1882	Jack of Fables is a comic series	E	T1882_mod_3	Jack of Fables is a comic series	C
+0	IA0	T811	Collision Course is a 20th century music album.	C	T811_mod_2	Collision Course is a 20th century music album.	E
+0	IA0	T1784	Interior is a painted mural.	C	T1784_mod_4	Interior is a painted mural.	E
+0	IA0	T1545	Jim Mattis served in the military for over forty years.	E	T1545_mod_4	Jim Mattis served in the military for over forty years.	C
+0	IA1	T839	DC Comics Presents is an ongoing series that has been publishing continuously since 1978.	C	T839_mod_6	DC Comics Presents is an ongoing series that has been publishing continuously since 1978.	E
+0	IA0	T947	The Republic of Botswana is located north of the equator.	C	T947_mod_6	The Republic of Botswana is located north of the equator.	E
+0	IA1	T557	Club is the most popular soft drink in the world.	C	T557_mod_3	Club is the most popular soft drink in the world.	E
+0	IA0	T416	The actor Johnny Depp began acting when they were 21 years old.	E	T416_mod_4	The actor Johnny Depp began acting when they were 21 years old.	C
+0	IA1	T1412	Slave Labor Graphics published at least one monthly series.	E	T1412_mod_4	Slave Labor Graphics published at least one monthly series.	C
+0	IA1	T308	K?lm?n Tihanyi lived in several European countries.	E	T308_mod_3	K?lm?n Tihanyi lived in several European countries.	C
+0	IA1	T729	David Byrne lived in the United Kingdom when they first became a musician.	C	T729_mod_1	David Byrne lived in the United Kingdom when they first became a musician.	E
+0	IA0	T822	The city of Columbus in Georgia was founded shortly after the Civil War began.	C	T822_mod_1	The city of Columbus in Georgia was founded shortly after the Civil War began.	E
+0	IA0	T1241	The Atari 2600 was discontinued 14 years after being released in Europe.	E	T1241_mod_3	The Atari 2600 was discontinued 14 years after being released in Europe.	C
+0	IA0	T596	Ciara is an American entertainer married to an athlete.	E	T596_mod_3	Ciara is an American entertainer married to an athlete.	C
+0	IA1	T1534	Joe Rogan began doing stand up when he was 16.	C	T1534_mod_4	Joe Rogan began doing stand up when he was 16.	E
+0	IA0	T845	Dean Kamen is an American inventor from New Hampshire.	E	T845_mod_1	Dean Kamen is an American inventor from New Hampshire.	C
+0	IA0	T1550	J?rgen Skafte Rasmussen was known for their business skills.	C	T1550_mod_6	J?rgen Skafte Rasmussen was known for their business skills.	E
+0	IA1	T1473	The art piece Jimson Weed was made two years after Georgia O'Keeffe's death.	C	T1473_mod_3	The art piece Jimson Weed was made two years after Georgia O'Keeffe's death.	E
+0	IA0	T758	Code Blue is an American Bull.	E	T758_mod_2	Code Blue is an American Bull.	C
+0	IA1	T1918	Hypatia is new.	C	T1918_mod_4	Hypatia is new.	E
+0	IA0	T578	Close Encounters of the Third Kind was a Hollywood film, written and directed by a famous director.	E	T578_mod_4	Close Encounters of the Third Kind was a Hollywood film, written and directed by a famous director.	C
+0	IA1	T840	Dead Can Dance is an Australian musical group.	E	T840_mod_1	Dead Can Dance is an Australian musical group.	C
+0	IA1	T910	Catania lies west of the prime meridian and does not recognize daily savings time.	C	T910_mod_3	Catania lies west of the prime meridian and does not recognize daily savings time.	E
+0	IA0	T332	Jay Park is an American entertainer.	E	T332_mod_4	Jay Park is an American entertainer.	C
+0	IA1	T405	Republic of Burundi lies north of the Equator.	C	T405_mod_5	Republic of Burundi lies north of the Equator.	E
+0	IA0	T1614	John Paul Getty III died within 100 miles of his birthplace.	C	T1614_mod_5	John Paul Getty III died within 100 miles of his birthplace.	E
+0	IA1	T899	Chengdu's highest elevation is over 5,000 meters.	E	T899_mod_3	Chengdu's highest elevation is over 5,000 meters.	C
+0	IA0	T719	Cristiano Ronaldo is a European athlete..	E	T719_mod_5	Cristiano Ronaldo is a European athlete..	C
+0	IA1	T1592	Joy is a film that didn't include any kind of music in it.	C	T1592_mod_4	Joy is a film that didn't include any kind of music in it.	E
+0	IA1	T1888	City council of Huntington Beach, California includes City attorney and City treasurer.	C	T1888_mod_4	City council of Huntington Beach, California includes City attorney and City treasurer.	E
+0	IA1	T1500	John Napier helped develop math concepts.	E	T1500_mod_2	John Napier helped develop math concepts.	C
+0	IA1	T1148	Jamie Lynn Spears is the daughter of Britney Spears.	C	T1148_mod_4	Jamie Lynn Spears is the daughter of Britney Spears.	E
+0	IA1	T709	Crack-Up is a music album recorded and released over a two-year period.	E	T709_mod_4	Crack-Up is a music album recorded and released over a two-year period.	C
+0	IA1	T840	deadcandance.com is the website of an Antipodean band.	E	T840_mod_2	deadcandance.com is the website of an Antipodean band.	C
+0	IA1	T1668	Population wise, is made up of about half Arab people.	C	T1668_mod_3	Population wise, is made up of about half Arab people.	E
+0	IA0	T667	Crimson Peak was released to Blu-Ray in 2014.	C	T667_mod_1	Crimson Peak was released to Blu-Ray in 2014.	E
+0	IA0	T733	Coca-Cola with Lime/Diet Coke with Citrus Zest has been introduced more than once.	E	T733_mod_4	Coca-Cola with Lime/Diet Coke with Citrus Zest has been introduced more than once.	C
+0	IA1	T332	Jay Park began their rap career in Oakland.	C	T332_mod_5	Jay Park began their rap career in Oakland.	E
+0	IA0	T1477	Kanye West is from New York City.	C	T1477_mod_3	Kanye West is from New York City.	E
+0	IA1	T1847	Jack Antonoff is not anyone special.	C	T1847_mod_6	Jack Antonoff is not anyone special.	E
+0	IA1	T543	India competes in cricket and has the Indian Premier League.	E	T543_mod_4	India competes in cricket and has the Indian Premier League.	C
+0	IA0	T348	Christina Aguilera has released pop music under the RCA label.	E	T348_mod_3	Christina Aguilera has released pop music under the RCA label.	C
+0	IA0	T535	Crisis on Infinite Earth was a DC comic that ran monthly for about a year in the 80's.	E	T535_mod_2	Crisis on Infinite Earth was a DC comic that ran monthly for about a year in the 80's.	C
+0	IA1	T1182	Bradley Cooper has lived in the United Kingdom.	C	T1182_mod_3	Bradley Cooper has lived in the United Kingdom.	E
+0	IA1	T578	Close Encounters of the Third Kind was inspired by another Spielberg Film, E.T., which was released before Close Encounters of the Third Kind in 1982.	C	T578_mod_5	Close Encounters of the Third Kind was inspired by another Spielberg Film, E.T., which was released before Close Encounters of the Third Kind in 1982.	E
+0	IA1	T746	Some nations send multiple athletes to compete in Cross-country skiing at the Olympics.	E	T746_mod_3	Some nations send multiple athletes to compete in Cross-country skiing at the Olympics.	C
+0	IA0	T1562	Jun-ichi Nishizawa graduated from multiple universities.	C	T1562_mod_4	Jun-ichi Nishizawa graduated from multiple universities.	E
+0	IA0	T1875	Identity Crisis is a monthly series with an indefinite run.	C	T1875_mod_4	Identity Crisis is a monthly series with an indefinite run.	E
+0	IA0	T792	David Ronald de Mey Warren lived in Austraila for over 90 years before finally passing away.	C	T792_mod_4	David Ronald de Mey Warren lived in Austraila for over 90 years before finally passing away.	E
+0	IA1	T1404	Kaya Scodelario has been acting for over ten years.	C	T1404_mod_3	Kaya Scodelario has been acting for over ten years.	E
+0	IA1	T758	The American Bucking Bull branded 644 has mostly dark fur.	C	T758_mod_3	The American Bucking Bull branded 644 has mostly dark fur.	E
+0	IA1	T1435	Kapil Sharma is a 21st century entertainer.	E	T1435_mod_6	Kapil Sharma is a 21st century entertainer.	C
+0	IA1	T323	The Czech Republic came out of Czechoslovakia.	E	T323_mod_4	The Czech Republic came out of Czechoslovakia.	C
+0	IA1	T1668	The majority of the population of Jerusalem consists of Jews.	E	T1668_mod_4	The majority of the population of Jerusalem consists of Jews.	C
+0	IA0	T137	The band Hawkwind started making songs in 1969.	E	T137_mod_2	The band Hawkwind started making songs in 1969.	C
+0	IA0	T727	Shane Van Dyke has no great-uncles.	C	T727_mod_5	Shane Van Dyke has no great-uncles.	E
+0	IA1	T370	Everclear disbanded and reunited multiple times.	C	T370_mod_4	Everclear disbanded and reunited multiple times.	E
+0	IA0	T702	The City of London is a major city in the United Kingdom that has existed for almost 2000 years.	E	T702_mod_3	The City of London is a major city in the United Kingdom that has existed for almost 2000 years.	C
+0	IA1	T1692	John Wayne Gacy died from natural causes.	C	T1692_mod_3	John Wayne Gacy died from natural causes.	E
+0	IA1	T536	Denver, Colorado is an American city founded in the 19th century.	E	T536_mod_5	Denver, Colorado is an American city founded in the 19th century.	C
+0	IA0	T1659	Jungle had two premieres in different locations during the same week.	C	T1659_mod_2	Jungle had two premieres in different locations during the same week.	E
+0	IA1	T785	Ctrl was not produced by anyone who has their own studio.	C	T785_mod_4	Ctrl was not produced by anyone who has their own studio.	E
+0	IA1	T544	Despicable Me 3 is a Hollywood movie.	E	T544_mod_4	Despicable Me 3 is a Hollywood movie.	C
+0	IA1	T928	Tim Burton's film adaptation of Charlie and the Chocolate Factory was a commercial success.	E	T928_mod_5	Tim Burton's film adaptation of Charlie and the Chocolate Factory was a commercial success.	C
+0	IA1	T1688	John Cyril Porte served in two World Wars.	C	T1688_mod_4	John Cyril Porte served in two World Wars.	E
+0	IA0	T286	Fan Bingbing began recording music when they were twelve years old.	C	T286_mod_5	Fan Bingbing began recording music when they were twelve years old.	E
+0	IA0	T1491	Judith and the Head of Holofernes was painted in the 1900s.	E	T1491_mod_4	Judith and the Head of Holofernes was painted in the 1900s.	C
+0	IA0	T1182	Bradley Cooper has been active since his teens.	C	T1182_mod_4	Bradley Cooper has been active since his teens.	E
+0	IA0	T1882	Jack of Fables is a limited series.	C	T1882_mod_4	Jack of Fables is a limited series.	E
+0	IA1	T74	Katharine McPhee was born on the West Coast.	E	T74_mod_4	Katharine McPhee was born on the West Coast.	C
+0	IA0	T840	The band Dead Can Dance has been on only Australian record labels.	C	T840_mod_3	The band Dead Can Dance has been on only Australian record labels.	E
+0	IA0	T361	Joaquin Phoenix got married when they were 42 years old.	E	T361_mod_5	Joaquin Phoenix got married when they were 42 years old.	C
+0	IA0	T1473	Jimson Weed is a work of art created by a woman.	E	T1473_mod_4	Jimson Weed is a work of art created by a woman.	C
+0	IA1	T1241	Atari 2600 is an American video game console.	E	T1241_mod_4	Atari 2600 is an American video game console.	C
+0	IA1	T1598	Judy was a commissioned officer while in the Royal Navy.	C	T1598_mod_1	Judy was a commissioned officer while in the Royal Navy.	E
+0	IA1	T1545	Jim Mattis was in the US military.	E	T1545_mod_5	Jim Mattis was in the US military.	C
+0	IA1	T1311	The Royal Society of Edinburgh has its origings in 1737 and is found in Scotland.	E	T1311_mod_4	The Royal Society of Edinburgh has its origings in 1737 and is found in Scotland.	C
+0	IA0	T1179	Brigadier Gerard was a British Thoroughbred racehorse and sire, foaled in 1968.	E	T1179_mod_6	Brigadier Gerard was a British Thoroughbred racehorse and sire, foaled in 1968.	C
+0	IA1	T261	Jin was a region in China for over 300 years.	E	T261_mod_6	Jin was a region in China for over 300 years.	C
+0	IA1	T840	Dead Can Dance is a defunct band from the 19th century.	C	T840_mod_4	Dead Can Dance is a defunct band from the 19th century.	E
+0	IA1	T1440	Keeping Up with the Joneses was a low-budget independent movie.	C	T1440_mod_6	Keeping Up with the Joneses was a low-budget independent movie.	E
+0	IA0	T845	Dean Kamen wound up working for a large company.	C	T845_mod_2	Dean Kamen wound up working for a large company.	E
+0	IA0	T1626	Jim Croce is a singer who lived a very short life.	E	T1626_mod_1	Jim Croce is a singer who lived a very short life.	C
+0	IA0	T1601	Jimmy Eat World have largely been loyal to their original label.	C	T1601_mod_5	Jimmy Eat World have largely been loyal to their original label.	E
+0	IA0	T1182	Bradley Cooper is an award-winning American actor.	E	T1182_mod_5	Bradley Cooper is an award-winning American actor.	C
+0	IA1	T727	Arlene Silver's husband was born in the twenties.	E	T727_mod_6	Arlene Silver's husband was born in the twenties.	C
+0	IA0	T137	The band Hawkwind is known for performing with Motley Crue.	C	T137_mod_3	The band Hawkwind is known for performing with Motley Crue.	E
+0	IA1	T2028	Hot Fuzz runs for under two years.	C	T2028_mod_5	Hot Fuzz runs for under two years.	E
+0	IA0	T1031	Case Closed is a Japanese comic serial.	E	T1031_mod_3	Case Closed is a Japanese comic serial.	C
+0	IA1	T848	The writer of Dear White People was also one of its producers.	E	T848_mod_2	The writer of Dear White People was also one of its producers.	C
+0	IA1	T729	Byrne retired from music in 1989 to work on his farm.	C	T729_mod_2	Byrne retired from music in 1989 to work on his farm.	E
+0	IA0	T1580	Kate Hudson was most recently married to Matthew.	C	T1580_mod_4	Kate Hudson was most recently married to Matthew.	E
+0	IA1	T340	Jennifer Love Hewitt is an American entertainer.	E	T340_mod_5	Jennifer Love Hewitt is an American entertainer.	C
+0	IA1	T1819	Hugo was originally in French.	C	T1819_mod_5	Hugo was originally in French.	E
+0	IA1	T910	Catania is does no marketing to potential visitors.	C	T910_mod_4	Catania is does no marketing to potential visitors.	E
+0	IA0	T733	Coca-Cola with Lime was introduced in Northern Ireland before being made in the U.K.	C	T733_mod_5	Coca-Cola with Lime was introduced in Northern Ireland before being made in the U.K.	E
+0	IA1	T29	Bullet for My Valentine has only released music for RCA records.	C	T29_mod_5	Bullet for My Valentine has only released music for RCA records.	E
+0	IA1	T910	Catania is a small sized Christian city.	E	T910_mod_5	Catania is a small sized Christian city.	C
+0	IA1	T702	City of London is a unique area of England.	E	T702_mod_4	City of London is a unique area of England.	C
+0	IA0	T544	Despicable Me 3 is an animated movie distributed by Universal Pictures in 2017.	E	T544_mod_5	Despicable Me 3 is an animated movie distributed by Universal Pictures in 2017.	C
+0	IA1	T1002	Catalonia is mostly communist in nature and does not have republic representation.	C	T1002_mod_5	Catalonia is mostly communist in nature and does not have republic representation.	E
+0	IA0	T2028	Hot Fuzz was released in three different countries in the same year.	E	T2028_mod_6	Hot Fuzz was released in three different countries in the same year.	C
+0	IA1	T1512	John McCain served multiple times in office during the 20th century.	C	T1512_mod_3	John McCain served multiple times in office during the 20th century.	E
+0	IA1	T785	Ctrl is an R&B album distributed by Top Dawg Entermtainment in 2017.	E	T785_mod_5	Ctrl is an R&B album distributed by Top Dawg Entermtainment in 2017.	C
+0	IA0	T797	Cue Card is a castrated British racehorse.	E	T797_mod_5	Cue Card is a castrated British racehorse.	C
+0	IA0	T1875	Identity Crisis was only ran in one year.	E	T1875_mod_5	Identity Crisis was only ran in one year.	C
+0	IA1	T405	The majority of people in the Republic of Burundi are Hindus.	E	T405_mod_6	The majority of people in the Republic of Burundi are Hindus.	C
+0	IA0	T1534	Joe Rogan has been performing comedy for over thirty years.	E	T1534_mod_5	Joe Rogan has been performing comedy for over thirty years.	C
+0	IA0	T791	Colectiv nightclub fire was a negligent fire in Europe that resulted in many deaths.	E	T791_mod_2	Colectiv nightclub fire was a negligent fire in Europe that resulted in many deaths.	C
+0	IA0	T1311	Royal Society of Edinburgh was formed to promote British royalty.	C	T1311_mod_5	Royal Society of Edinburgh was formed to promote British royalty.	E
+0	IA1	T1518	Jurassic Park was a novel turned Hollywood film.	E	T1518_mod_5	Jurassic Park was a novel turned Hollywood film.	C
+0	IA1	T688	Dennis Gabor received the Nobel Peace Prize while working for Oxford in 1982.	C	T688_mod_4	Dennis Gabor received the Nobel Peace Prize while working for Oxford in 1982.	E
+0	IA0	T146	Beau Bridges mother is Susan Geston.	C	T146_mod_1	Beau Bridges mother is Susan Geston.	E
+0	IA0	T845	Dean won the Hoover medal for his work on the Segway in the mid 2000's.	C	T845_mod_3	Dean won the Hoover medal for his work on the Segway in the mid 2000's.	E
+0	IA0	T741	David Duchovny has been acting since the 1960s.	C	T741_mod_4	David Duchovny has been acting since the 1960s.	E
+0	IA1	T846	Dean Martin is a musician from Ohio known for his singing and acting.	E	T846_mod_2	Dean Martin is a musician from Ohio known for his singing and acting.	C
+0	IA0	T885	Caracas is a city well above sea level.	E	T885_mod_4	Caracas is a city well above sea level.	C
+0	IA1	T1688	John Cyril Porte served over two decades in the military.	C	T1688_mod_5	John Cyril Porte served over two decades in the military.	E
+0	IA1	T667	Crimson Peak is 21st century American independent film.	E	T667_mod_2	Crimson Peak is 21st century American independent film.	C
+0	IA0	T749	The next issue of the Crossed series will be released in June 2019.	C	T749_mod_4	The next issue of the Crossed series will be released in June 2019.	E
+0	IA1	T1164	The Romanian Football of the Year award is only twenty years old.	C	T1164_mod_5	The Romanian Football of the Year award is only twenty years old.	E
+0	IA1	T382	Jeff Hardy is an American entertainer.	E	T382_mod_4	Jeff Hardy is an American entertainer.	C
+0	IA0	T1635	Kauto Star was a French male racehorse	E	T1635_mod_3	Kauto Star was a French male racehorse	C
+0	IA1	T458	Contract bridge is a multi-player card game.	E	T458_mod_4	Contract bridge is a multi-player card game.	C
+0	IA0	T738	The Cockerel FabergŽ egg has a bird inside of it.	E	T738_mod_4	The Cockerel FabergŽ egg has a bird inside of it.	C
+0	IA1	T799	Kaepernick has scored 74 total touchdowns in his NFL career.	C	T799_mod_5	Kaepernick has scored 74 total touchdowns in his NFL career.	E
+0	IA0	T1443	Karachi is a small village governed by village elders.	C	T1443_mod_4	Karachi is a small village governed by village elders.	E
+0	IA1	T1412	Johnny the Homicidal Maniac came out every week when it was produced.	C	T1412_mod_5	Johnny the Homicidal Maniac came out every week when it was produced.	E
+0	IA1	T152	Jane Austen passed away when she was 45.	C	T152_mod_5	Jane Austen passed away when she was 45.	E
+0	IA0	T20	The rappers Flatbush Zombies are known for performing with rock bands.	C	T20_mod_6	The rappers Flatbush Zombies are known for performing with rock bands.	E
+0	IA1	T272	Gerry Mulligan is associated with Chesney Henry Baker.	E	T272_mod_4	Gerry Mulligan is associated with Chesney Henry Baker.	C
+0	IA1	T1047	Changsha is a city in China.	E	T1047_mod_2	Changsha is a city in China.	C
+0	IA1	T790	The Republic of Cuba took 30 years to be recognized as independent.	E	T790_mod_5	The Republic of Cuba took 30 years to be recognized as independent.	C
+0	IA1	T1730	Jon Hamm graduated from college.	E	T1730_mod_3	Jon Hamm graduated from college.	C
+0	IA0	T319	The government in Prague's official language is German.	C	T319_mod_3	The government in Prague's official language is German.	E
+0	IA1	T535	Crisis on Infinite Earths was a novel released in the winter of 1985.	C	T535_mod_3	Crisis on Infinite Earths was a novel released in the winter of 1985.	E
+0	IA0	T1668	Christians comprise a big part of the population of Jerusalem.	C	T1668_mod_5	Christians comprise a big part of the population of Jerusalem.	E
+0	IA0	T1668	Half of the population of Jerusalem is Arab.	C	T1668_mod_6	Half of the population of Jerusalem is Arab.	E
+0	IA0	T1942	Jacques Charles was a physicist known primarily for his groundbreaking Charles's law	E	T1942_mod_4	Jacques Charles was a physicist known primarily for his groundbreaking Charles's law	C
+0	IA1	T1464	The Nobel Prize was awarded to John James Rickard Macleod, FRS while in his twenties.	C	T1464_mod_4	The Nobel Prize was awarded to John James Rickard Macleod, FRS while in his twenties.	E
+0	IA1	T974	Chicago, Illinois is a city with tiny water resources.relative to its land mass.	E	T974_mod_3	Chicago, Illinois is a city with tiny water resources.relative to its land mass.	C
+0	IA0	T805	Culture is a hip-hop album that was released in 2017.	E	T805_mod_3	Culture is a hip-hop album that was released in 2017.	C
+0	IA0	T1182	The winter of 1975 was when Bradley Cooper, the actor, was born.	E	T1182_mod_6	The winter of 1975 was when Bradley Cooper, the actor, was born.	C
+0	IA0	T1131	George Mason University has more postgraduates than undergraduates.	C	T1131_mod_4	George Mason University has more postgraduates than undergraduates.	E
+0	IA0	T680	Camp Kill Yourself has been on more labels than they have associated acts.	C	T680_mod_4	Camp Kill Yourself has been on more labels than they have associated acts.	E
+0	IA1	T761	Code Orange is an American punk band.	E	T761_mod_5	Code Orange is an American punk band.	C
+0	IA0	T1404	The last decade of the 20th century is when Kaya Scodelario was born.	E	T1404_mod_4	The last decade of the 20th century is when Kaya Scodelario was born.	C
+0	IA1	T1404	Kaya Scodelario has no children.	C	T1404_mod_5	Kaya Scodelario has no children.	E
+0	IA0	T1664	Jessie J is an English singer.	E	T1664_mod_6	Jessie J is an English singer.	C
+0	IA0	T1446	The Fall of 1969 is when Jennifer Aniston was born.	C	T1446_mod_3	The Fall of 1969 is when Jennifer Aniston was born.	E
+0	IA0	T1500	John Napier did not attend college.	C	T1500_mod_3	John Napier did not attend college.	E
+0	IA0	T1702	Kas is a Spanish soft drink.	E	T1702_mod_4	Kas is a Spanish soft drink.	C
+0	IA0	T1500	John Napier was born and died in the same country.	E	T1500_mod_4	John Napier was born and died in the same country.	C
+0	IA0	T274	Fawad Khan is a Pakistani entertainer.	E	T274_mod_2	Fawad Khan is a Pakistani entertainer.	C
+0	IA0	T1544	Johnny Cash had two wives.	E	T1544_mod_3	Johnny Cash had two wives.	C
+0	IA0	T1544	Johnny Cash uses the same name that he was born with.	C	T1544_mod_4	Johnny Cash uses the same name that he was born with.	E
+0	IA0	T816	Curling in the 2018 Winter Olympics saw under 100 men and women compete over 4 weeks.	C	T816_mod_4	Curling in the 2018 Winter Olympics saw under 100 men and women compete over 4 weeks.	E
+0	IA0	T1692	John Wayne Gacy died more than ten years after being convicted.	E	T1692_mod_4	John Wayne Gacy died more than ten years after being convicted.	C
+0	IA0	T846	Leonard Barr's nephew was active for over half a century.	E	T846_mod_3	Leonard Barr's nephew was active for over half a century.	C
+0	IA0	T1692	He got a divorce after he was convicted.	C	T1692_mod_5	He got a divorce after he was convicted.	E
+0	IA0	T1241	Atary 2600 had 64 bytes RAM and 16-bit MOS Technology 6507 @ 1.19 MHz.	C	T1241_mod_5	Atary 2600 had 64 bytes RAM and 16-bit MOS Technology 6507 @ 1.19 MHz.	E
+0	IA0	T1784	Interior is currently in an American museum.	E	T1784_mod_5	Interior is currently in an American museum.	C
+0	IA1	T1635	Kauto Star passed away when they were ten years old.	C	T1635_mod_4	Kauto Star passed away when they were ten years old.	E
+0	IA1	T1888	Huntington Beach, California's city clerk is Robin Estanislau	E	T1888_mod_5	Huntington Beach, California's city clerk is Robin Estanislau	C
+0	IA0	T790	The Republic of Cuba was a former Spanish and American colony before 1900.	E	T790_mod_6	The Republic of Cuba was a former Spanish and American colony before 1900.	C
+0	IA1	T272	Chet Baker was an American musician.	E	T272_mod_5	Chet Baker was an American musician.	C
+0	IA0	T1598	Judy was active as a ship's mascot for over a dozen years.	E	T1598_mod_2	Judy was active as a ship's mascot for over a dozen years.	C
+0	IA0	T1768	Iced Earth also had two other names.	E	T1768_mod_5	Iced Earth also had two other names.	C
+0	IA0	T1690	Jinder Mahal has been known by multiple ring names.	E	T1690_mod_4	Jinder Mahal has been known by multiple ring names.	C
+0	IA0	T1690	Jinder Mahal weighs more in kilos than his total height in centimeters.	C	T1690_mod_5	Jinder Mahal weighs more in kilos than his total height in centimeters.	E
+0	IA0	T435	The band formerly known as Inearthed has been on four labels.	C	T435_mod_3	The band formerly known as Inearthed has been on four labels.	E
+0	IA0	T1882	it is still being produced today	C	T1882_mod_5	it is still being produced today	E
+0	IA1	T1444	Kasabian has been performing for over 20 years.	E	T1444_mod_3	Kasabian has been performing for over 20 years.	C
+0	IA1	T822	Columbus is a city in Georgia named after Christopher Columbus.	E	T822_mod_2	Columbus is a city in Georgia named after Christopher Columbus.	C
+0	IA0	T1444	Kasabian is an English rock band.	E	T1444_mod_4	Kasabian is an English rock band.	C
+0	IA0	T331	The musician Bryan Adams spent the majority of his life in the United States.	C	T331_mod_1	The musician Bryan Adams spent the majority of his life in the United States.	E
+0	IA0	T13	The album Fearless was released in the winter of 2008.	E	T13_mod_5	The album Fearless was released in the winter of 2008.	C
+0	IA0	T13	Scott Borchetta single-handily produced Fearless.	C	T13_mod_6	Scott Borchetta single-handily produced Fearless.	E
+0	IA0	T400	Jordan Peele has been active since his teens.	C	T400_mod_2	Jordan Peele has been active since his teens.	E
+0	IA0	T422	Jerry Lee Lewis has done a greater number of genres than associated acts.	C	T422_mod_2	Jerry Lee Lewis has done a greater number of genres than associated acts.	E
+0	IA0	T1265	Brian May married Anita Dobson at the age of 53.	E	T1265_mod_3	Brian May married Anita Dobson at the age of 53.	C
+0	IA1	T845	Dean Kamen has won over five major awards.	E	T845_mod_4	Dean Kamen has won over five major awards.	C
+0	IA0	T1449	Kareem Abdul-Jabbar played as a center for thirty years.	E	T1449_mod_3	Kareem Abdul-Jabbar played as a center for thirty years.	C
+0	IA0	T1534	Joe Rogan's career has been going strong for more than 30 years.	E	T1534_mod_6	Joe Rogan's career has been going strong for more than 30 years.	C
+0	IA1	T400	Jordan Peele is an American entertainer.	E	T400_mod_3	Jordan Peele is an American entertainer.	C
+0	IA0	T596	Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.	E	T596_mod_4	Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.	C
+0	IA0	T749	Crossed was a limited series published for about 2 and a half years by Avatar Press.	E	T749_mod_5	Crossed was a limited series published for about 2 and a half years by Avatar Press.	C
+0	IA1	T746	Cross-country skiing at the XXIII Olympic Winter Games had mens and women's races.	E	T746_mod_4	Cross-country skiing at the XXIII Olympic Winter Games had mens and women's races.	C
+0	IA1	T746	More than 500 people competed in Cross-country skiing at the XXIII Olympic Winter Games.	C	T746_mod_5	More than 500 people competed in Cross-country skiing at the XXIII Olympic Winter Games.	E
+0	IA0	T1626	Jim Croce, also known as James Joseph Croce, is a singer and songwriter.	E	T1626_mod_2	Jim Croce, also known as James Joseph Croce, is a singer and songwriter.	C
+0	IA0	T720	The album David Bowie was over an hour in length.	C	T720_mod_5	The album David Bowie was over an hour in length.	E
+0	IA0	T846	Dean Martin had 8 children all with one woman.	C	T846_mod_4	Dean Martin had 8 children all with one woman.	E
+0	IA0	T720	David Bowie's self-titled album was released more than a half a year after it was finished recording.	C	T720_mod_6	David Bowie's self-titled album was released more than a half a year after it was finished recording.	E
+0	IA1	T1436	Kate Micucci went to college in the same state they were born in.	C	T1436_mod_4	Kate Micucci went to college in the same state they were born in.	E
+0	IA0	T1047	Changsha is in the top twenty largest cities in China.	E	T1047_mod_3	Changsha is in the top twenty largest cities in China.	C
+0	IA0	T1598	Judy was a Pointer dog that was also a mascot for the Royal Navy.	E	T1598_mod_3	Judy was a Pointer dog that was also a mascot for the Royal Navy.	C
+0	IA0	T535	The first issue of Crisis on Infinite Earths was released in spring of 1985.	E	T535_mod_4	The first issue of Crisis on Infinite Earths was released in spring of 1985.	C
+0	IA1	T372	Florence Lawrence married Charles Woodring after divorcing Henry Bolton.	C	T372_mod_3	Florence Lawrence married Charles Woodring after divorcing Henry Bolton.	E
+0	IA0	T274	Fawad Khan married his spouse before he became active in the entertainment industry.	C	T274_mod_3	Fawad Khan married his spouse before he became active in the entertainment industry.	E
+0	IA0	T372	Florence Annie Bridgwood committed suicide in 1938.	E	T372_mod_4	Florence Annie Bridgwood committed suicide in 1938.	C
+0	IA0	T1404	Kaya Scodelario began acting when they were 15.	E	T1404_mod_6	Kaya Scodelario began acting when they were 15.	C
+0	IA0	T294	The movie Fast & Furious made over $250 million at the box office.	E	T294_mod_5	The movie Fast & Furious made over $250 million at the box office.	C
+0	IA0	T104	The E Street Band was formed on the east coast of the USA.	E	T104_mod_6	The E Street Band was formed on the east coast of the USA.	C
+0	IA1	T910	The patron saint of Catania is a woman.	E	T910_mod_6	The patron saint of Catania is a woman.	C
+0	IA0	T1491	Judith and the Head of Holofernes is done in charcoal.	C	T1491_mod_5	Judith and the Head of Holofernes is done in charcoal.	E
+0	IA1	T319	There are more Moravians than Slovaks in the Czech Republic.	E	T319_mod_4	There are more Moravians than Slovaks in the Czech Republic.	C
+0	IA0	T811	Collision Course took 3 months to record before being released in early 2004.	C	T811_mod_3	Collision Course took 3 months to record before being released in early 2004.	E
+0	IA1	T372	Florence Lawrence was responsible for her own death.	E	T372_mod_5	Florence Lawrence was responsible for her own death.	C
+0	IA0	T14	Flatliners was released in the winter of 1990.	C	T14_mod_4	Flatliners was released in the winter of 1990.	E
+0	IA0	T535	Crisis on Infinite Earth's main character was Batman, whom gets killed by Dumbledore in the last issue.	C	T535_mod_5	Crisis on Infinite Earth's main character was Batman, whom gets killed by Dumbledore in the last issue.	E
+0	IA0	T1444	Kasabian is a band from the US.	C	T1444_mod_5	Kasabian is a band from the US.	E
+0	IA0	T14	Flatliners made 50 million over it's budget at the box office.	C	T14_mod_5	Flatliners made 50 million over it's budget at the box office.	E
+0	IA0	T1635	Kauto Star won over half the races it ran.	E	T1635_mod_5	Kauto Star won over half the races it ran.	C
+0	IA0	T14	Flatliners made over double what it cost to make at the box office.	E	T14_mod_6	Flatliners made over double what it cost to make at the box office.	C
+0	IA1	T1635	Kauto Star was able to win the majority of their races.	E	T1635_mod_6	Kauto Star was able to win the majority of their races.	C
+0	IA0	T137	Hawkwind has been performing for over 40 years.	E	T137_mod_4	Hawkwind has been performing for over 40 years.	C
+0	IA0	T277	Charo has been married twice in her life.	E	T277_mod_2	Charo has been married twice in her life.	C
+0	IA0	T137	Hawkwind are a North American band.	C	T137_mod_5	Hawkwind are a North American band.	E
+0	IA0	T137	Hawkwind has been active as a band for about 50 years.	E	T137_mod_6	Hawkwind has been active as a band for about 50 years.	C
+0	IA0	T277	Charo's career has spanned eight decades.	C	T277_mod_3	Charo's career has spanned eight decades.	E
+0	IA0	T274	Fawad Khan was signed to Lips Music when he married Sadaf Khan.	E	T274_mod_4	Fawad Khan was signed to Lips Music when he married Sadaf Khan.	C
+0	IA0	T277	Charo has never had any children.	C	T277_mod_4	Charo has never had any children.	E
+0	IA1	T323	Czech Republic separated from the Austria-Hungary Empire over 100 years ago.	E	T323_mod_5	Czech Republic separated from the Austria-Hungary Empire over 100 years ago.	C
+0	IA0	T294	Fast & Furious was written and directed by the same person.	C	T294_mod_6	Fast & Furious was written and directed by the same person.	E
+0	IA0	T433	The movie Concussion was written and directed by the same person.	E	T433_mod_3	The movie Concussion was written and directed by the same person.	C
+0	IA1	T422	Jerry Lee Lewis is an American entertainer.	E	T422_mod_3	Jerry Lee Lewis is an American entertainer.	C
+0	IA1	T433	Concussion came out in the United States before being shown at AFI fest.	C	T433_mod_4	Concussion came out in the United States before being shown at AFI fest.	E
+0	IA0	T1047	Changsha has more people in its urban area than in its metro area.	C	T1047_mod_4	Changsha has more people in its urban area than in its metro area.	E
+0	IA0	T791	More than 50 people passed away at the Colectiv nightclub fire.	E	T791_mod_3	More than 50 people passed away at the Colectiv nightclub fire.	C
+0	IA0	T1690	Jinder Mahal is above average in height and in weight for most human beings.	E	T1690_mod_6	Jinder Mahal is above average in height and in weight for most human beings.	C
+0	IA1	T982	The Rep?blica de Chile has three houses in its legislature.	C	T982_mod_4	The Rep?blica de Chile has three houses in its legislature.	E
+0	IA0	T816	Curling at the Gangneug Gymnasium during the Olympics had no women's events.	C	T816_mod_5	Curling at the Gangneug Gymnasium during the Olympics had no women's events.	E
+0	IA0	T1656	Karen Gillan studied acting at the Italia Conti Academy of Theatre Arts and has been acting since 2006.	E	T1656_mod_5	Karen Gillan studied acting at the Italia Conti Academy of Theatre Arts and has been acting since 2006.	C
+0	IA0	T816	There were over 150 countries involved.	C	T816_mod_6	There were over 150 countries involved.	E
+0	IA1	T974	Chicago's lowest elevation and average elevation differ by more than 16 feet.	C	T974_mod_4	Chicago's lowest elevation and average elevation differ by more than 16 feet.	E
+0	IA0	T554	Danehill never lost a horserace in its entire career.	C	T554_mod_5	Danehill never lost a horserace in its entire career.	E
+0	IA0	T1131	George Mason University has been operating for the past 68 years.	E	T1131_mod_5	George Mason University has been operating for the past 68 years.	C
+0	IA0	T734	David Cook is known for making video games.	E	T734_mod_5	David Cook is known for making video games.	C
+0	IA0	T1131	George Mason University has more than 35,000 students.	E	T1131_mod_6	George Mason University has more than 35,000 students.	C
+0	IA1	T794	David with the Head of Goliath is a small painting, measuring just a foot tall and 2 feet wide.	C	T794_mod_5	David with the Head of Goliath is a small painting, measuring just a foot tall and 2 feet wide.	E
+0	IA0	T1446	Jennifer Aniston went to school in New York.	E	T1446_mod_4	Jennifer Aniston went to school in New York.	C
+0	IA1	T1446	Jennifer Aniston's career has spanned more than three decades thus far.	E	T1446_mod_5	Jennifer Aniston's career has spanned more than three decades thus far.	C
+0	IA0	T1508	Josta was first made in the last 10 years of the 20th century.	E	T1508_mod_5	Josta was first made in the last 10 years of the 20th century.	C
+0	IA0	T1500	The Summer of 1617 was when John Napier died.	C	T1500_mod_5	The Summer of 1617 was when John Napier died.	E
+0	IA1	T1706	Jeff Lynne went by several different names.	E	T1706_mod_4	Jeff Lynne went by several different names.	C
+0	IA0	T1544	Johnny Cash was an only child.	C	T1544_mod_5	Johnny Cash was an only child.	E
+0	IA1	T1706	Jeff Lynne has had more than one stage name.	E	T1706_mod_5	Jeff Lynne has had more than one stage name.	C
+0	IA1	T1544	Johnny Cash had a career that spanned across more than five decades.	C	T1544_mod_6	Johnny Cash had a career that spanned across more than five decades.	E
+0	IA0	T1598	Judy died in the Fall of 1950.	C	T1598_mod_4	Judy died in the Fall of 1950.	E
+0	IA1	T319	The Czech Republic is comprised of mainly Slovaks and muslims.	C	T319_mod_5	The Czech Republic is comprised of mainly Slovaks and muslims.	E
+0	IA1	T1692	John Wayne Gacy was not married when he was 29 years old.	E	T1692_mod_6	John Wayne Gacy was not married when he was 29 years old.	C
+0	IA0	T422	Jerry Lee Lewis has been performing music for over fifty years.	E	T422_mod_4	Jerry Lee Lewis has been performing music for over fifty years.	C
+0	IA1	T535	Crisis on Infinite Earths celebrates its 35th year anniversary since publication.	C	T535_mod_6	Crisis on Infinite Earths celebrates its 35th year anniversary since publication.	E
+0	IA1	T746	The Cross-country skiing event at the XXIII Olympics ran for over 3 weeks and featured hundreds of competitors from over 70 countries.	C	T746_mod_6	The Cross-country skiing event at the XXIII Olympics ran for over 3 weeks and featured hundreds of competitors from over 70 countries.	E
+0	IA1	T17	Bryce Dallas Howard has 3 sons.	C	T17_mod_3	Bryce Dallas Howard has 3 sons.	E
+0	IA1	T146	Jeff Bridges was born in the winter of 1949.	E	T146_mod_2	Jeff Bridges was born in the winter of 1949.	C
+0	IA1	T1491	Judith and the Head of Holofernes is a 20th century work of art.	E	T1491_mod_6	Judith and the Head of Holofernes is a 20th century work of art.	C
+0	IA0	T277	Mar’a del Rosario Mercedes Pilar Mart’nez Molina Baeza was married before becoming 'active' in her careers.	C	T277_mod_5	Mar’a del Rosario Mercedes Pilar Mart’nez Molina Baeza was married before becoming 'active' in her careers.	E
+0	IA1	T1592	The film Joy was released by Disney.	C	T1592_mod_5	The film Joy was released by Disney.	E
+0	IA1	T331	Bryan Adams is a Canadian Pop Singer.	E	T331_mod_2	Bryan Adams is a Canadian Pop Singer.	C
+0	IA1	T1768	Iced Earth stopped performing in the 1990s.	C	T1768_mod_6	Iced Earth stopped performing in the 1990s.	E
+0	IA0	T400	Jordan Haworth Peele was educated at Sarah Lawrence College.	E	T400_mod_4	Jordan Haworth Peele was educated at Sarah Lawrence College.	C
+0	IA1	T207	Burn Energy was made by the same company that makes Monster.	E	T207_mod_5	Burn Energy was made by the same company that makes Monster.	C
+0	IA1	T543	India faced Pakistan in a five day match in 1999.	E	T543_mod_5	India faced Pakistan in a five day match in 1999.	C
+0	IA0	T741	David Duchovny went to college in the USA.	E	T741_mod_5	David Duchovny went to college in the USA.	C
+0	IA0	T667	Crimson Peak made $19.7 million in profit after it's box office run completed.	E	T667_mod_3	Crimson Peak made $19.7 million in profit after it's box office run completed.	C
+0	IA1	T207	Burn energy came in a chocolate flavor.	C	T207_mod_6	Burn energy came in a chocolate flavor.	E
+0	IA1	T667	Crimson Peak made a significant profit at the box office.	C	T667_mod_4	Crimson Peak made a significant profit at the box office.	E
+0	IA1	T491	Cory Monteith started as a teenage actor.	C	T491_mod_3	Cory Monteith started as a teenage actor.	E
+0	IA0	T729	David Byrne moved to the United States.	E	T729_mod_3	David Byrne moved to the United States.	C
+0	IA0	T758	The bull Code Blue weighed under a ton.	E	T758_mod_4	The bull Code Blue weighed under a ton.	C
+0	IA0	T1031	Case Closed ran for 6 months before the publication ceased.	C	T1031_mod_4	Case Closed ran for 6 months before the publication ceased.	E
+0	IA0	T1477	Kanye West was born in the same state in which he now lives.	C	T1477_mod_4	Kanye West was born in the same state in which he now lives.	E
+0	IA0	T822	Columbus, Georgia was founded in the second half of the nineteenth century.	C	T822_mod_3	Columbus, Georgia was founded in the second half of the nineteenth century.	E
+0	IA1	T1626	Jim Croce was 56 when he died.	C	T1626_mod_3	Jim Croce was 56 when he died.	E
+0	IA0	T848	Dear White People wound up losing money at the box office.	C	T848_mod_3	Dear White People wound up losing money at the box office.	E
+0	IA0	T749	The comic Crossed was a super hero comic.	C	T749_mod_6	The comic Crossed was a super hero comic.	E
+0	IA1	T848	Dear White People premiered at Sundance after its U.S. premier.	C	T848_mod_4	Dear White People premiered at Sundance after its U.S. premier.	E
+0	IA0	T791	Colectiv nightclub fire raged for hours and destroyed other businesses.	C	T791_mod_4	Colectiv nightclub fire raged for hours and destroyed other businesses.	E
+0	IA0	T1134	Caravan Palace is located in Paris, France and is active from 2008.	E	T1134_mod_3	Caravan Palace is located in Paris, France and is active from 2008.	C
+0	IA0	T286	Fˆn B_ngb_ng was born in 1981.	E	T286_mod_6	Fˆn B_ngb_ng was born in 1981.	C
+0	IA0	T1265	Brian May has been active for over 50 years.	E	T1265_mod_4	Brian May has been active for over 50 years.	C
+0	IA1	T332	Jay Park has been a musician since they were 21 years old.	E	T332_mod_6	Jay Park has been a musician since they were 21 years old.	C
+0	IA1	T1406	Kazakh Khanate has had more than six different Capitals.	C	T1406_mod_2	Kazakh Khanate has had more than six different Capitals.	E
+0	IA1	T793	Colin Farrell has an uncle with the same last name as him.	C	T793_mod_3	Colin Farrell has an uncle with the same last name as him.	E
+0	IA0	T1406	Kazakh Khanate had the capital moved several times.	E	T1406_mod_3	Kazakh Khanate had the capital moved several times.	C
+0	IA1	T828	Lonnie Corant Jaman Shuka collaborated with at least one known rapper.	E	T828_mod_3	Lonnie Corant Jaman Shuka collaborated with at least one known rapper.	C
+0	IA0	T1449	Kareem Abdul-Jabbar was a first round pick for basketball.	E	T1449_mod_4	Kareem Abdul-Jabbar was a first round pick for basketball.	C
+0	IA0	T828	Lonnie Corant Jaman Shuka never worked wirh R'n'B artists.	C	T828_mod_4	Lonnie Corant Jaman Shuka never worked wirh R'n'B artists.	E
+0	IA0	T1449	Kareem Abdul-Jabbar went to college in the 1960s.	E	T1449_mod_5	Kareem Abdul-Jabbar went to college in the 1960s.	C
+0	IA1	T1502	Karl Ferdinand Braun died in the same century that he was born in.	C	T1502_mod_1	Karl Ferdinand Braun died in the same century that he was born in.	E
+0	IA0	T885	Caracas lowest point is below sea level.	C	T885_mod_5	Caracas lowest point is below sea level.	E
+0	IA0	T1600	K?roly Zipernowsky was born as Carl Zipernowsky in 1853.	E	T1600_mod_3	K?roly Zipernowsky was born as Carl Zipernowsky in 1853.	C
+0	IA0	T1148	Britney Spears is an American singer songwriter.	E	T1148_mod_5	Britney Spears is an American singer songwriter.	C
+0	IA0	T1600	K?roly Zipernowsky died where he was born.	C	T1600_mod_4	K?roly Zipernowsky died where he was born.	E
+0	IA0	T1659	The Australian release of Jungle was late in 2017.	E	T1659_mod_3	The Australian release of Jungle was late in 2017.	C
+0	IA1	T1148	Britney Spears was born in the South of the United States.	E	T1148_mod_6	Britney Spears was born in the South of the United States.	C
+0	IA1	T1696	Jethro Tull has only been on one label.	C	T1696_mod_1	Jethro Tull has only been on one label.	E
+0	IA1	T1456	Jupiter has a very high eccentricity.	C	T1456_mod_6	Jupiter has a very high eccentricity.	E
+0	IA0	T1696	Jethro Tull is a British band.	E	T1696_mod_2	Jethro Tull is a British band.	C
+0	IA0	T1601	The band Jimmy Eat World has only been on 2 labels over their music career.	C	T1601_mod_6	The band Jimmy Eat World has only been on 2 labels over their music career.	E
+0	IA0	T1788	Issa Album was produced solely by Wheezy.	C	T1788_mod_2	Issa Album was produced solely by Wheezy.	E
+0	IA1	T1702	Kas came in over 10 flavours.	C	T1702_mod_5	Kas came in over 10 flavours.	E
+0	IA1	T1917	The speaker and chief justice of Republic of Iraq are the same person.	C	T1917_mod_2	The speaker and chief justice of Republic of Iraq are the same person.	E
+0	IA1	T17	Bryce Dallas Howard was born in the Fall of 1981.	C	T17_mod_4	Bryce Dallas Howard was born in the Fall of 1981.	E
+0	IA1	T306	Europe started in 1979 and been making music uninterrupted since.	C	T306_mod_3	Europe started in 1979 and been making music uninterrupted since.	E
+0	IA0	T778	Crystal Head Vodka is more than half alcohol by volume.	C	T778_mod_2	Crystal Head Vodka is more than half alcohol by volume.	E
+0	IA1	T146	Jeff Bridges was born in the Winter of 1949.	E	T146_mod_3	Jeff Bridges was born in the Winter of 1949.	C
+0	IA1	T310	The town of Christchurch has only one main ward.	C	T310_mod_4	The town of Christchurch has only one main ward.	E
+0	IA1	T277	Charo is a Spanish entertainer.	E	T277_mod_6	Charo is a Spanish entertainer.	C
+0	IA1	T370	Everclear have been performing grunge music for over thirty years.	C	T370_mod_5	Everclear have been performing grunge music for over thirty years.	E
+0	IA0	T331	Bryan Adams was born in Hamilton in Ontario.	C	T331_mod_3	Bryan Adams was born in Hamilton in Ontario.	E
+0	IA0	T331	Bryan Adams has been active since his twenties.	C	T331_mod_4	Bryan Adams has been active since his twenties.	E
+0	IA0	T400	Jordan Peele did not ever go to college.	C	T400_mod_5	Jordan Peele did not ever go to college.	E
+0	IA0	T543	India's biggest single match drew 465,000 over five days.	E	T543_mod_6	India's biggest single match drew 465,000 over five days.	C
+0	IA0	T667	Crimson Peak premiered in the winter of 2015.	C	T667_mod_5	Crimson Peak premiered in the winter of 2015.	E
+0	IA1	T491	Cory Monteith started his career at 2013	C	T491_mod_4	Cory Monteith started his career at 2013	E
+0	IA0	T758	Code Blue weighs a ton.	C	T758_mod_5	Code Blue weighs a ton.	E
+0	IA0	T491	Cory Monteith died in western Canada.	E	T491_mod_5	Cory Monteith died in western Canada.	C
+0	IA0	T792	David Ronald de Mey Warren was born in the spring of 1925.	E	T792_mod_5	David Ronald de Mey Warren was born in the spring of 1925.	C
+0	IA0	T709	Crack-Up took roughly half a year to finish recording.	E	T709_mod_5	Crack-Up took roughly half a year to finish recording.	C
+0	IA1	T792	David Ronald de Mey Warren built a machine that goes in planes.	E	T792_mod_6	David Ronald de Mey Warren built a machine that goes in planes.	C
+0	IA1	T785	Ctrl took just weeks to record in 2016.	C	T785_mod_6	Ctrl took just weeks to record in 2016.	E
+0	IA0	T822	Columbus, Georgia was founded in the 19th century.	E	T822_mod_4	Columbus, Georgia was founded in the 19th century.	C
+0	IA1	T799	Colin Kaepernick is an NFL football player with over 10,000 passing yards.	E	T799_mod_6	Colin Kaepernick is an NFL football player with over 10,000 passing yards.	C
+0	IA1	T822	Columbus, Georgia was not named for Christopher.	C	T822_mod_5	Columbus, Georgia was not named for Christopher.	E
+0	IA0	T1017	Casablanca was released in the U.S. two months after deputing at the Hollywood Theatre.	E	T1017_mod_4	Casablanca was released in the U.S. two months after deputing at the Hollywood Theatre.	C
+0	IA0	T1473	Jimson Weed is located in the capital of Indiana.	E	T1473_mod_5	Jimson Weed is located in the capital of Indiana.	C
+0	IA0	T848	Dear White People was written and directed by the same person.	E	T848_mod_5	Dear White People was written and directed by the same person.	C
+0	IA0	T1516	Justice League Dark had a team that wrote the music.	C	T1516_mod_6	Justice League Dark had a team that wrote the music.	E
+0	IA0	T982	The Republic of Chile is a Spanish speaking country with a capital city of Santiago.	E	T982_mod_5	The Republic of Chile is a Spanish speaking country with a capital city of Santiago.	C
+0	IA1	T1618	Jupiter and Io is housed in a private collection.	C	T1618_mod_5	Jupiter and Io is housed in a private collection.	E
+0	IA1	T1134	www.caravanpalace.com is not the official website of Caravan Palace.	C	T1134_mod_4	www.caravanpalace.com is not the official website of Caravan Palace.	E
+0	IA0	T1265	Brian May was born in the Winter of 1947.	C	T1265_mod_5	Brian May was born in the Winter of 1947.	E
+0	IA0	T440	Republic of Chile legislature is composed of two chambers.	E	T440_mod_6	Republic of Chile legislature is composed of two chambers.	C
+0	IA1	T761	Code Orange has been performing for over 15 years under Death Row records.	C	T761_mod_6	Code Orange has been performing for over 15 years under Death Row records.	E
+0	IA0	T1406	Kazakh Khanate lasted for over 500 years.	C	T1406_mod_4	Kazakh Khanate lasted for over 500 years.	E
+0	IA0	T793	Farrell has a brother named Tommy.	C	T793_mod_4	Farrell has a brother named Tommy.	E
+0	IA0	T1600	K?roly Zipernowsky was known by another name.	E	T1600_mod_5	K?roly Zipernowsky was known by another name.	C
+0	IA0	T828	The musician Common has been performing for 30 years.	C	T828_mod_5	The musician Common has been performing for 30 years.	E
+0	IA0	T1659	The movie Jungle has a run time over two hours long.	C	T1659_mod_4	The movie Jungle has a run time over two hours long.	E
+0	IA0	T885	Caracas at its highest point is a mile above sea-level.	C	T885_mod_6	Caracas at its highest point is a mile above sea-level.	E
+0	IA0	T1412	Johnny the Homicidal Maniac is a action comic.	C	T1412_mod_6	Johnny the Homicidal Maniac is a action comic.	E
+0	IA0	T1659	The movie Jungle had the same screenwriter and director.	C	T1659_mod_5	The movie Jungle had the same screenwriter and director.	E
+0	IA0	T29	Bullet for My Valentine are a band from Europe.	E	T29_mod_6	Bullet for My Valentine are a band from Europe.	C
+0	IA1	T1696	Jethro Tull took a break in their career.	E	T1696_mod_3	Jethro Tull took a break in their career.	C
+0	IA0	T154	Charlie Sheen has been acting for over 50 years.	C	T154_mod_6	Charlie Sheen has been acting for over 50 years.	E
+0	IA0	T1696	Jethro Tull took a five year hiatus during the 2010's.	E	T1696_mod_4	Jethro Tull took a five year hiatus during the 2010's.	C
+0	IA0	T829	Commonwealth of the Philippines was controlled by the United States.	E	T829_mod_5	Commonwealth of the Philippines was controlled by the United States.	C
+0	IA1	T1788	Issa Album was released less than three years ago.	E	T1788_mod_3	Issa Album was released less than three years ago.	C
+0	IA0	T1287	The American Automobile Association provides roadside assistance and sells maps.	E	T1287_mod_4	The American Automobile Association provides roadside assistance and sells maps.	C
+0	IA1	T1917	People speak two main languages in Republic of Iraq.	E	T1917_mod_3	People speak two main languages in Republic of Iraq.	C
+0	IA1	T1002	Catalonia has 16.5% of senators.	E	T1002_mod_6	Catalonia has 16.5% of senators.	C
+0	IA0	T1508	No one has been able to drink Josta since 1997	C	T1508_mod_6	No one has been able to drink Josta since 1997	E
+0	IA1	T1917	The President and Prime Minister of the Republic of Iraq are the same person.	C	T1917_mod_4	The President and Prime Minister of the Republic of Iraq are the same person.	E
+0	IA0	T1557	Jerusalem split in the 1900s.	E	T1557_mod_5	Jerusalem split in the 1900s.	C
+0	IA0	T146	Jeff Bridges has had five children.	C	T146_mod_4	Jeff Bridges has had five children.	E
+0	IA0	T64	The longest side of Equestrian Portrait of Charles I measures less than 11 feet long.	C	T64_mod_4	The longest side of Equestrian Portrait of Charles I measures less than 11 feet long.	E
+0	IA1	T64	Equestrian Portrait of Charles I is located in England.	E	T64_mod_5	Equestrian Portrait of Charles I is located in England.	C
+0	IA1	T331	Bryan Adams was originally born in Canada in the winter of 1959.	E	T331_mod_5	Bryan Adams was originally born in Canada in the winter of 1959.	C
+0	IA1	T778	Crystal Head Vodka is known for having a pink color.	C	T778_mod_3	Crystal Head Vodka is known for having a pink color.	E
+0	IA0	T400	Jordan Haworth Peele was married before becoming 'active' in show business.	C	T400_mod_6	Jordan Haworth Peele was married before becoming 'active' in show business.	E
+0	IA0	T778	Crystal Head Vodka cannot be seen through.	C	T778_mod_4	Crystal Head Vodka cannot be seen through.	E
+0	IA1	T435	Children of Bodom has been playing since the 90s.	E	T435_mod_4	Children of Bodom has been playing since the 90s.	C
+0	IA0	T435	Children of Bodom are from southern Europe.	C	T435_mod_5	Children of Bodom are from southern Europe.	E
+0	IA0	T416	Johnny Depp is an American actor born in Kentucky that lives in Los Angeles.	E	T416_mod_5	Johnny Depp is an American actor born in Kentucky that lives in Los Angeles.	C
+0	IA0	T667	Crimson Peak is just slightly under two hours long.	E	T667_mod_6	Crimson Peak is just slightly under two hours long.	C
+0	IA0	T745	The men's 50 kilometre freestyle at the XXII Olympic Winter Games was completed in under an hour.	C	T745_mod_5	The men's 50 kilometre freestyle at the XXII Olympic Winter Games was completed in under an hour.	E
+0	IA0	T1265	Brian May did not win any award in 2005.	C	T1265_mod_6	Brian May did not win any award in 2005.	E
+0	IA1	T840	Dead Can Dance has broken up in in the past.	E	T840_mod_5	Dead Can Dance has broken up in in the past.	C
+0	IA1	T1443	Karachi is a city comprised of multiple districts.	E	T1443_mod_5	Karachi is a city comprised of multiple districts.	C
+0	IA0	T1406	Kazakh Khanate was established in the 14th century.	C	T1406_mod_5	Kazakh Khanate was established in the 14th century.	E
+0	IA1	T1702	Kas was originally made in Europe.	E	T1702_mod_6	Kas was originally made in Europe.	C
+0	IA0	T1502	Karl Ferdinand Braun was born and died in the same country.	C	T1502_mod_2	Karl Ferdinand Braun was born and died in the same country.	E
+0	IA1	T274	Fawad Khan is a very famous model and actor not only just a musician.	E	T274_mod_5	Fawad Khan is a very famous model and actor not only just a musician.	C
+0	IA1	T1502	The Summer months of 1850 are when Karl Ferdinand Braun was born.	E	T1502_mod_3	The Summer months of 1850 are when Karl Ferdinand Braun was born.	C
+0	IA1	T536	Denver City and County were consolidated a few years after the turn of the 20th century.	E	T536_mod_6	Denver City and County were consolidated a few years after the turn of the 20th century.	C
+0	IA0	T1659	The movie Jungle had music written by one person.	E	T1659_mod_6	The movie Jungle had music written by one person.	C
+0	IA0	T1446	Jennifer  Aniston was at least 17 when she began her professional career.	E	T1446_mod_6	Jennifer  Aniston was at least 17 when she began her professional career.	C
+0	IA0	T1696	Jethro Tull were founded in North America twenty years ago.	C	T1696_mod_5	Jethro Tull were founded in North America twenty years ago.	E
+0	IA0	T1444	Kasabian has only worked with smaller independent labels.	C	T1444_mod_6	Kasabian has only worked with smaller independent labels.	E
+0	IA1	T1788	Issa Album was released in the summer of 2017.	E	T1788_mod_4	Issa Album was released in the summer of 2017.	C
+0	IA0	T319	The Czech Republic has more catholics than Moravians.	E	T319_mod_6	The Czech Republic has more catholics than Moravians.	C
+0	IA0	T1788	Issa Album runs for over an hour.	C	T1788_mod_5	Issa Album runs for over an hour.	E
+0	IA1	T1047	Changsha's prefecture density is lower than its urban density.	E	T1047_mod_5	Changsha's prefecture density is lower than its urban density.	C
+0	IA1	T1788	Issa Album is over an hour long.	C	T1788_mod_6	Issa Album is over an hour long.	E
+0	IA0	T274	Fawad Khan has been performing music for over twenty years.	C	T274_mod_6	Fawad Khan has been performing music for over twenty years.	E
+0	IA0	T1917	Republic of Iraq is in Federal parliamentary republic	E	T1917_mod_5	Republic of Iraq is in Federal parliamentary republic	C
+0	IA1	T662	Detroit, Michigan is well above sea-level.	E	T662_mod_2	Detroit, Michigan is well above sea-level.	C
+0	IA1	T662	Detriot is located below sealevel.	C	T662_mod_3	Detriot is located below sealevel.	E
+0	IA0	T64	The Equestrian Portrait of Charles I is kept in a museum in Paris.	C	T64_mod_6	The Equestrian Portrait of Charles I is kept in a museum in Paris.	E
+0	IA0	T203	The majority of people that live in Japan are ethnically Korean.	C	T203_mod_5	The majority of people that live in Japan are ethnically Korean.	E
+0	IA0	T1500	John Napier passed away when they were in their 50s.	C	T1500_mod_6	John Napier passed away when they were in their 50s.	E
+0	IA0	T203	Judaism is the most popular religion in Japan.	C	T203_mod_6	Judaism is the most popular religion in Japan.	E
+0	IA0	T1784	Interior is a watercolor painting.	C	T1784_mod_6	Interior is a watercolor painting.	E
+0	IA0	T306	Europe is a Pop French band that recorded with Universal.	C	T306_mod_4	Europe is a Pop French band that recorded with Universal.	E
+0	IA0	T729	David Byrne is a Scottish-American musician.	E	T729_mod_4	David Byrne is a Scottish-American musician.	C
+0	IA1	T1502	Karl Ferdinand Braun attended more than one university.	E	T1502_mod_4	Karl Ferdinand Braun attended more than one university.	C
+0	IA1	T306	Europe has been active nonstop for the past forty years.	C	T306_mod_5	Europe has been active nonstop for the past forty years.	E
+0	IA1	T17	Bryce Dallas Howard was born on the west coast of the USA.	E	T17_mod_5	Bryce Dallas Howard was born on the west coast of the USA.	C
+0	IA0	T348	RCA Record lable is an american record lable owned by Sony music	E	T348_mod_4	RCA Record lable is an american record lable owned by Sony music	C
+0	IA1	T146	Jeff Bridges has been active in his career for less than 60 years.	C	T146_mod_5	Jeff Bridges has been active in his career for less than 60 years.	E
+0	IA1	T408	Karen Gillan is the aunt of Caitlin Blackwood.	C	T408_mod_5	Karen Gillan is the aunt of Caitlin Blackwood.	E
+0	IA1	T1406	Kazakh Khanate was a territory ruled by a monarch.	E	T1406_mod_6	Kazakh Khanate was a territory ruled by a monarch.	C
+0	IA0	T702	There are over two dozen wards in the city of London.	E	T702_mod_5	There are over two dozen wards in the city of London.	C
+0	IA0	T738	The Cockerel FabergŽ egg displays over 10 different materials used.	C	T738_mod_5	The Cockerel FabergŽ egg displays over 10 different materials used.	E
+0	IA1	T1545	Jim Mattis is still currently active in the Marine Corps.	C	T1545_mod_6	Jim Mattis is still currently active in the Marine Corps.	E
+0	IA1	T435	Children of Bodom has a short history of playing music.	C	T435_mod_6	Children of Bodom has a short history of playing music.	E
+0	IA0	T1436	Kate Micucci's Birthday falls on the last day of the month.	E	T1436_mod_5	Kate Micucci's Birthday falls on the last day of the month.	C
+0	IA0	T729	David Byrne started his music career in his mid-twenties.	C	T729_mod_5	David Byrne started his music career in his mid-twenties.	E
+0	IA1	T1436	Kate Micucci has had a career for more than two decades.	C	T1436_mod_6	Kate Micucci has had a career for more than two decades.	E
+0	IA0	T1464	John James Rickard Macleod, FRS was born early in the 19th century.	C	T1464_mod_5	John James Rickard Macleod, FRS was born early in the 19th century.	E
+0	IA0	T1464	John James Rickard Macleod died in a country outside of where he was born.	C	T1464_mod_6	John James Rickard Macleod died in a country outside of where he was born.	E
+0	IA0	T1562	Jun-ichi Nishizawa received the Edison Medal posthumously after death.	C	T1562_mod_5	Jun-ichi Nishizawa received the Edison Medal posthumously after death.	E
+0	IA0	T1696	Jethro Tull has made music in six different decades.	C	T1696_mod_6	Jethro Tull has made music in six different decades.	E
+0	IA1	T793	Colin Farrell is an Irish actor and singer with multiple children.	E	T793_mod_5	Colin Farrell is an Irish actor and singer with multiple children.	C
+0	IA1	T308	K?lm?n Tihanyi was an ignorant person.	C	T308_mod_4	K?lm?n Tihanyi was an ignorant person.	E
+0	IA0	T408	Karen Gillan works in front of and behind the screen in the entertainment industry.	E	T408_mod_6	Karen Gillan works in front of and behind the screen in the entertainment industry.	C
+0	IA0	T1618	Jupiter and lo, an oil painting at the Kunsthistorisches Museum, is a work from the 16th century.	E	T1618_mod_6	Jupiter and lo, an oil painting at the Kunsthistorisches Museum, is a work from the 16th century.	C
+0	IA0	T458	The game Contract bridge uses the joker card.	C	T458_mod_5	The game Contract bridge uses the joker card.	E
+0	IA0	T1390	Cape Cross is a stallion sharing a history with Ahonoora and Green Desert.	E	T1390_mod_5	Cape Cross is a stallion sharing a history with Ahonoora and Green Desert.	C
+0	IA0	T372	Florence Annie Bridgwood's last marriage was ended by her suicide.	C	T372_mod_6	Florence Annie Bridgwood's last marriage was ended by her suicide.	E
+0	IA1	T557	Club has never changed their recipe for the drink.	C	T557_mod_4	Club has never changed their recipe for the drink.	E
+0	IA1	T1598	Judy was a dog and mascot of the Royal Navy.	E	T1598_mod_5	Judy was a dog and mascot of the Royal Navy.	C
+0	IA0	T778	Crystal Head Vodka originated north of the U.S.	E	T778_mod_5	Crystal Head Vodka originated north of the U.S.	C
+0	IA0	T272	Chet Baker was active since his teenage years.	C	T272_mod_6	Chet Baker was active since his teenage years.	E
+0	IA1	T831	Union of the Comoros went under French rule in the early 1800's.	C	T831_mod_4	Union of the Comoros went under French rule in the early 1800's.	E
+0	IA1	T422	Jerry Lee Lewis is a rock and roll singer from Louisiana.	E	T422_mod_5	Jerry Lee Lewis is a rock and roll singer from Louisiana.	C
+0	IA0	T793	Colin James Farrell moved to a different country.	E	T793_mod_6	Colin James Farrell moved to a different country.	C
+0	IA0	T831	Union of the Comoros is a territory discovered by the Portuguese in the 1500's.	E	T831_mod_5	Union of the Comoros is a territory discovered by the Portuguese in the 1500's.	C
+0	IA1	T1287	American Automobile Association is a century old Not-for-profit organization committed to automobile safety.	E	T1287_mod_5	American Automobile Association is a century old Not-for-profit organization committed to automobile safety.	C
+0	IA1	T1600	K?roly Zipernowsky was over one hundred years old when he died.	C	T1600_mod_6	K?roly Zipernowsky was over one hundred years old when he died.	E
+0	IA0	T1677	Johannes Gutenberg lived during the rule of the Holy Roman Empire.	E	T1677_mod_5	Johannes Gutenberg lived during the rule of the Holy Roman Empire.	C
+0	IA1	T1241	Atari 2600 also known as Atari VCS is manufactured Atari, Inc. is a second generation home video game console.	E	T1241_mod_6	Atari 2600 also known as Atari VCS is manufactured Atari, Inc. is a second generation home video game console.	C
+0	IA1	T306	Europe has had a long career in the Hard Rock business.	E	T306_mod_6	Europe has had a long career in the Hard Rock business.	C
+0	IA0	T791	The suspects of Club Colectiv all work in private sector.	C	T791_mod_5	The suspects of Club Colectiv all work in private sector.	E
+0	IA0	T596	Ciara has been active since her twenties.	C	T596_mod_5	Ciara has been active since her twenties.	E
+0	IA0	T1017	Casablanca is an original story and screenplay.	C	T1017_mod_5	Casablanca is an original story and screenplay.	E
+0	IA0	T581	Cracovia is a type of Polish vodka.	E	T581_mod_4	Cracovia is a type of Polish vodka.	C
+0	IA0	T1212	Glacier National Park is over a million acres and more than a century old.	E	T1212_mod_6	Glacier National Park is over a million acres and more than a century old.	C
+0	IA0	T1882	Jack of Fables published weekly for six years.	C	T1882_mod_6	Jack of Fables published weekly for six years.	E
+0	IA0	T840	A band from the southern hemisphere has never worked in the gothic rock genre.	C	T840_mod_6	A band from the southern hemisphere has never worked in the gothic rock genre.	E
+0	IA0	T1730	Jon Hamm is a middle-aged actor.	E	T1730_mod_4	Jon Hamm is a middle-aged actor.	C
+0	IA1	T688	Dennis Gabor received his education outside of his home country.	C	T688_mod_5	Dennis Gabor received his education outside of his home country.	E
+0	IA1	T1665	Julian Assange became active after he got married.	C	T1665_mod_4	Julian Assange became active after he got married.	E
+0	IA1	T680	CKY is an American rock band that still performs to this day.	E	T680_mod_5	CKY is an American rock band that still performs to this day.	C
+0	IA1	T811	Collision Course was recorded and released all within the same year.	E	T811_mod_4	Collision Course was recorded and released all within the same year.	C
+0	IA0	T828	Common has been making hip hop music since the late 90's.	C	T828_mod_6	Common has been making hip hop music since the late 90's.	E
+0	IA1	T778	Crystal Head Vodka was introduced in a different country from where it originated.	E	T778_mod_6	Crystal Head Vodka was introduced in a different country from where it originated.	C
+0	IA1	T581	Cracovia is polish alcohol.	E	T581_mod_5	Cracovia is polish alcohol.	C
+0	IA1	T1473	Jimson Weed is by a female artist and currently in Indiana.	E	T1473_mod_6	Jimson Weed is by a female artist and currently in Indiana.	C
+0	IA0	T1665	Julian Assange attended three universities in his home country.	E	T1665_mod_5	Julian Assange attended three universities in his home country.	C
+0	IA0	T2032	Republic of Indonesia is a multi-ethnic and multi-lingual country.	E	T2032_mod_6	Republic of Indonesia is a multi-ethnic and multi-lingual country.	C
+0	IA1	T1518	Jurassic Park was not profitable for the film studio.	C	T1518_mod_6	Jurassic Park was not profitable for the film studio.	E
+0	IA0	T1665	Julian Assange resides in a country in which he is a citizen of.	C	T1665_mod_6	Julian Assange resides in a country in which he is a citizen of.	E
+0	IA0	T557	Club is an Irish beverage.	E	T557_mod_5	Club is an Irish beverage.	C
+0	IA1	T1503	Jim Belushi began acting when they were 10.	C	T1503_mod_6	Jim Belushi began acting when they were 10.	E
+0	IA1	T310	Christ Church was founded by groups of English Settlers and Mission spreaders.	E	T310_mod_5	Christ Church was founded by groups of English Settlers and Mission spreaders.	C
+0	IA1	T805	Culture was released more than three weeks after it was recorded.	E	T805_mod_4	Culture was released more than three weeks after it was recorded.	C
+0	IA1	T1730	Jon Hamm and Jennifer Westfeldt married before Hamm began acting.	C	T1730_mod_5	Jon Hamm and Jennifer Westfeldt married before Hamm began acting.	E
+0	IA1	T1580	Kate Hudson has been acting since she was 17	E	T1580_mod_5	Kate Hudson has been acting since she was 17	C
+0	IA0	T544	Despicable Me 3 was not a box office success compared to it's original budget.	C	T544_mod_6	Despicable Me 3 was not a box office success compared to it's original budget.	E
+0	IA1	T1918	Hypatia is in Eygpt.	E	T1918_mod_5	Hypatia is in Eygpt.	C
+0	IA1	T688	Dennis Gabor's wife outlived him by two years.	E	T688_mod_6	Dennis Gabor's wife outlived him by two years.	C
+0	IA0	T382	Jeff Hardy married before his debut.	C	T382_mod_5	Jeff Hardy married before his debut.	E
+0	IA0	T829	The Commonwealth of the Phiippines is a territory of the United States with a capital city of Manila.	E	T829_mod_6	The Commonwealth of the Phiippines is a territory of the United States with a capital city of Manila.	C
+0	IA1	T1592	Joy is an American movie starring well-known American actors.	E	T1592_mod_6	Joy is an American movie starring well-known American actors.	C
+0	IA0	T1819	Hugo is a multi-national film starring well-known Hollywood actors.	E	T1819_mod_6	Hugo is a multi-national film starring well-known Hollywood actors.	C
+0	IA0	T1390	Cape Cross' color is the same as its sire's name.	C	T1390_mod_6	Cape Cross' color is the same as its sire's name.	E
+0	IA1	T845	The Segway was not invented by someone born in America.	C	T845_mod_5	The Segway was not invented by someone born in America.	E
+0	IA0	T596	Ciara has been a professional R&B since 1971.	C	T596_mod_6	Ciara has been a professional R&B since 1971.	E
+0	IA0	T1267	Brandon Richard Flowers has been active since his teens.	C	T1267_mod_5	Brandon Richard Flowers has been active since his teens.	E
+0	IA0	T729	David Byrne is a Scottish musician from Dunbartonshire.	E	T729_mod_6	David Byrne is a Scottish musician from Dunbartonshire.	C
+0	IA1	T1267	Brandon Richard Flowers is an American musician.	E	T1267_mod_6	Brandon Richard Flowers is an American musician.	C
+0	IA1	T1449	Kareem Abdul-Jabbar was drafted in his freshman year of college.	C	T1449_mod_6	Kareem Abdul-Jabbar was drafted in his freshman year of college.	E
+0	IA0	T557	Club is an orange juice	C	T557_mod_6	Club is an orange juice	E
+0	IA1	T662	The city of Detroit is larger than the pure land space it occupies.	E	T662_mod_4	The city of Detroit is larger than the pure land space it occupies.	C
+0	IA1	T146	Jeff Bridges has been a performer since they were 2 years old.	E	T146_mod_6	Jeff Bridges has been a performer since they were 2 years old.	C
+0	IA1	T1010	Caravaggio created at least one piece with oil on canvass.	E	T1010_mod_4	Caravaggio created at least one piece with oil on canvass.	C
+0	IA0	T361	Joaquin Phoenix has been acting since he was a teen.	C	T361_mod_6	Joaquin Phoenix has been acting since he was a teen.	E
+0	IA1	T331	Bryan Adams is a Canadian musician.	E	T331_mod_6	Bryan Adams is a Canadian musician.	C
+0	IA1	T899	Chengdu is a large area with many different classifications.	E	T899_mod_4	Chengdu is a large area with many different classifications.	C
+0	IA0	T1134	Caravan Palace is an electro swing band from France.	E	T1134_mod_5	Caravan Palace is an electro swing band from France.	C
+0	IA0	T831	Union of the Comoros was once the State of Comoros, and before that the Protectorate of the Comoros.	E	T831_mod_6	Union of the Comoros was once the State of Comoros, and before that the Protectorate of the Comoros.	C
+0	IA0	T741	Duchovny has been acting for about 10 years.	C	T741_mod_6	Duchovny has been acting for about 10 years.	E
+0	IA0	T578	Close Encounters of the Third Kind is science fiction film directed by Stephen Spielberg.	E	T578_mod_6	Close Encounters of the Third Kind is science fiction film directed by Stephen Spielberg.	C
+0	IA0	T1562	Jun-ichi Nishizawa had a career at the same University he went to school at.	E	T1562_mod_6	Jun-ichi Nishizawa had a career at the same University he went to school at.	C
+0	IA1	T491	Cory Monteith died nine months after his 31st birthday.	C	T491_mod_6	Cory Monteith died nine months after his 31st birthday.	E
+0	IA1	T1369	The FSU Mascot is the Seminole.	E	T1369_mod_5	The FSU Mascot is the Seminole.	C
+0	IA1	T370	Everclear is an American rock band.	E	T370_mod_6	Everclear is an American rock band.	C
+0	IA1	T1875	Identity Crisis was a monthly publication from DC Comics.	E	T1875_mod_6	Identity Crisis was a monthly publication from DC Comics.	C
+0	IA1	T1580	Kate Hudson does not have any famous parents.	C	T1580_mod_6	Kate Hudson does not have any famous parents.	E
+0	IA1	T662	The city of Detroit, Michigan comprises less than a tenth of the urban area.	C	T662_mod_5	The city of Detroit, Michigan comprises less than a tenth of the urban area.	E
+0	IA1	T534	RED BERRY(RED) AND COCONUT(SILVER) ARE THE VARIANTS OF VODKA	E	T534_mod_6	RED BERRY(RED) AND COCONUT(SILVER) ARE THE VARIANTS OF VODKA	C
+0	IA1	T1598	Judy was known as a Chinese Prisoner of war.	C	T1598_mod_6	Judy was known as a Chinese Prisoner of war.	E
+0	IA1	T702	The City of London has 27 different wards after the Wessex resettlement.	C	T702_mod_6	The City of London has 27 different wards after the Wessex resettlement.	E
+0	IA1	T1477	Kanye West has been performing for 23 years.	E	T1477_mod_5	Kanye West has been performing for 23 years.	C
+0	IA0	T1010	Caravaggio painted Boy Peeling Fruit towards the end of the 16th Century.	E	T1010_mod_5	Caravaggio painted Boy Peeling Fruit towards the end of the 16th Century.	C
+0	IA0	T1477	Kanye West has won several awards.	E	T1477_mod_6	Kanye West has won several awards.	C
+0	IA0	T1614	John Paul Getty III married in his twenties.	C	T1614_mod_6	John Paul Getty III married in his twenties.	E
+0	IA1	T348	Christina Aguilera has been singing for over twenty years.	E	T348_mod_5	Christina Aguilera has been singing for over twenty years.	C
+0	IA1	T805	Culture was released in the same year that recording began on the album.	C	T805_mod_5	Culture was released in the same year that recording began on the album.	E
+0	IA1	T74	Katharine McPhee has been acting over twenty years.	C	T74_mod_5	Katharine McPhee has been acting over twenty years.	E
+0	IA1	T1626	Jim Croce only lived for three decades.	E	T1626_mod_4	Jim Croce only lived for three decades.	C
+0	IA1	T1730	Jon Hamm has been active since his teens.	C	T1730_mod_6	Jon Hamm has been active since his teens.	E
+0	IA1	T416	The actor Johnny Depp has had three wives.	C	T416_mod_6	The actor Johnny Depp has had three wives.	E
+0	IA1	T940	Bruges is a small geographic region of Belgium but big enough for four postal codes.	E	T940_mod_6	Bruges is a small geographic region of Belgium but big enough for four postal codes.	C
+0	IA0	T413	Justus von Liebig was awarded the Albert Medal posthumously.	C	T413_mod_6	Justus von Liebig was awarded the Albert Medal posthumously.	E
+0	IA1	T709	Crack-Up is an indie rock album released in 2017.	E	T709_mod_6	Crack-Up is an indie rock album released in 2017.	C
+0	IA1	T308	Kalman Tihanyi was a really great physicist and created many theories that are still valid.	E	T308_mod_5	Kalman Tihanyi was a really great physicist and created many theories that are still valid.	C
+0	IA1	T680	Camp Kill Yourself is grunge rock band that's been active for over 30 years in the music industry.	E	T680_mod_6	Camp Kill Yourself is grunge rock band that's been active for over 30 years in the music industry.	C
+0	IA0	T152	Jane Austen did not live to see 40 years old.	C	T152_mod_6	Jane Austen did not live to see 40 years old.	E
+0	IA1	T733	Coca-Cola with Lime is a soda produced by Coca-Cola that was both produced in the UK/US.	E	T733_mod_6	Coca-Cola with Lime is a soda produced by Coca-Cola that was both produced in the UK/US.	C
+0	IA0	T1706	Jeff Lynne is a musician in his eighties.	C	T1706_mod_6	Jeff Lynne is a musician in his eighties.	E
+0	IA0	T794	David with the Head of Goliath is located in Spain.	C	T794_mod_6	David with the Head of Goliath is located in Spain.	E
+0	IA0	T899	Chengdu's downtown and Urban areas is larger than the Metro area.	C	T899_mod_5	Chengdu's downtown and Urban areas is larger than the Metro area.	E
+0	IA1	T1287	The American Automobile Association only services include maps, travel guides and car batteries.	C	T1287_mod_6	The American Automobile Association only services include maps, travel guides and car batteries.	E
+0	IA0	T458	Each of the 4 players use a different skill.	C	T458_mod_6	Each of the 4 players use a different skill.	E
+0	IA1	T74	Katharine McPhee has been active for over 20 years.	C	T74_mod_6	Katharine McPhee has been active for over 20 years.	E
+0	IA1	T1031	Case Closed is a manga developed by Weekly Shonen Sunday.	E	T1031_mod_5	Case Closed is a manga developed by Weekly Shonen Sunday.	C
+0	IA1	T1626	Jim Croce was born in the Summer of 1943.	C	T1626_mod_5	Jim Croce was born in the Summer of 1943.	E

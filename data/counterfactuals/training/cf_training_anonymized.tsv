@@ -1,0 +1,1110 @@
+s.no	worker_id	original_tableid	original_hypothesis	original_label	modified_tableid	modified_hypothesis	modified_label
+0	IA0	T80	Channel Orange was released on the Malay label.	C	T80_mod_1	Channel Orange was released on the Malay label.	E
+0	IA2	T80	Channel Orange was recorded in more than one state.	E	T80_mod_2	Channel Orange was recorded in more than one state.	C
+0	IA1	T80	It would take less than an hour to play Channel Orange in its entirety.	C	T80_mod_3	It would take less than an hour to play Channel Orange in its entirety.	E
+0	IA2	T80	Channel Orange is over an hour long.	E	T80_mod_4	Channel Orange is over an hour long.	C
+0	IA0	T80	The album was recorded entirely in California.	C	T80_mod_5	The album was recorded entirely in California.	E
+0	IA0	T81	Kate Hudson has more than one child.	E	T81_mod_1	Kate Hudson has more than one child.	C
+0	IA1	T81	Kate Hudson is currently married to Chris Robinson.	C	T81_mod_2	Kate Hudson is currently married to Chris Robinson.	E
+0	IA0	T81	Kate Hudson was born in the Spring of 1979.	E	T81_mod_3	Kate Hudson was born in the Spring of 1979.	C
+0	IA0	T81	Kate Hudson has been active in acting for more than 25 years.	C	T81_mod_4	Kate Hudson has been active in acting for more than 25 years.	E
+0	IA0	T81	Kate Hudson is a singer like her father	C	T81_mod_5	Kate Hudson is a singer like her father	E
+0	IA0	T1770	Insane Clown Posse are from the Midwest region.	E	T1770_mod_1	Insane Clown Posse are from the Midwest region.	C
+0	IA0	T1770	Insane Clown Posse have been active as a music group for about 20 years.	C	T1770_mod_2	Insane Clown Posse have been active as a music group for about 20 years.	E
+0	IA0	T1770	Insane Clown Posse has been an active band for thirty years.	E	T1770_mod_3	Insane Clown Posse has been an active band for thirty years.	C
+0	IA0	T116	The band Falling in Reverse has been playing together since the 1980s.	C	T116_mod_1	The band Falling in Reverse has been playing together since the 1980s.	E
+0	IA0	T1770	JJ Boyz is a band unrelated to Insane Clown Posse.	C	T1770_mod_4	JJ Boyz is a band unrelated to Insane Clown Posse.	E
+0	IA2	T117	Exile on Main St. was released more than a year after recording started.	E	T117_mod_1	Exile on Main St. was released more than a year after recording started.	C
+0	IA0	T1770	Insane Clown Posse has been performing since the 1990's.	E	T1770_mod_5	Insane Clown Posse has been performing since the 1990's.	C
+0	IA2	T1770	Insane Clown Posse hails from San Francisco, California.	C	T1770_mod_6	Insane Clown Posse hails from San Francisco, California.	E
+0	IA0	T117	Exile on Main St. is 57 minutes long.	C	T117_mod_2	Exile on Main St. is 57 minutes long.	E
+0	IA0	T117	Exile on Main St. is an album that came out in the spring of 1972.	E	T117_mod_3	Exile on Main St. is an album that came out in the spring of 1972.	C
+0	IA0	T1770	Insane Clown Posse has been performing for over thirty years.	E	T1770_mod_7	Insane Clown Posse has been performing for over thirty years.	C
+0	IA0	T117	The album Exile on Main St. is under an hour in length.	C	T117_mod_4	The album Exile on Main St. is under an hour in length.	E
+0	IA0	T1770	Insane Clown Posse has been signed to a single label for all their career.	C	T1770_mod_8	Insane Clown Posse has been signed to a single label for all their career.	E
+0	IA2	T117	Exile on Main St. has a run time over one hour.	E	T117_mod_5	Exile on Main St. has a run time over one hour.	C
+0	IA0	T117	Exile on Main St. was released in the Fall of 1972.	C	T117_mod_6	Exile on Main St. was released in the Fall of 1972.	E
+0	IA1	T1770	Insane Clown Posse has been performing for 30 years.	E	T1770_mod_9	Insane Clown Posse has been performing for 30 years.	C
+0	IA0	T118	John Wayne Gacy killed more than 2 dozen people.	E	T118_mod_1	John Wayne Gacy killed more than 2 dozen people.	C
+0	IA2	T1770	Insane Clown Posse are known for staying on one label their whole career.	C	T1770_mod_10	Insane Clown Posse are known for staying on one label their whole career.	E
+0	IA0	T118	John Wayne Gacy was caught in the winter of 1978.	E	T118_mod_2	John Wayne Gacy was caught in the winter of 1978.	C
+0	IA1	T1770	Both of Insane Clown Posse's members were born in Detroit.	E	T1770_mod_11	Both of Insane Clown Posse's members were born in Detroit.	C
+0	IA0	T118	John Wayne Gacy was sentenced to prison in the 1980's.	C	T118_mod_3	John Wayne Gacy was sentenced to prison in the 1980's.	E
+0	IA1	T1770	Insane Clown Posse is associated with Limp Bizkit.	C	T1770_mod_12	Insane Clown Posse is associated with Limp Bizkit.	E
+0	IA1	T118	John Wayne Gacy was apprehended around Christmas of 1978.	E	T118_mod_4	John Wayne Gacy was apprehended around Christmas of 1978.	C
+0	IA0	T442	Archie Horror's Chilling Adventures of Sabrina debuted before Halloween in 2014.	E	T442_mod_1	Archie Horror's Chilling Adventures of Sabrina debuted before Halloween in 2014.	C
+0	IA2	T118	John Wayne Gacy committed his last crime in the Summer of 1978.	C	T118_mod_5	John Wayne Gacy committed his last crime in the Summer of 1978.	E
+0	IA2	T119	Byun Baek-hyun makes money in fashion and in music.	E	T119_mod_1	Byun Baek-hyun makes money in fashion and in music.	C
+0	IA2	T442	Chilling Adventures of Sabrina first started in 2014	E	T442_mod_2	Chilling Adventures of Sabrina first started in 2014	C
+0	IA1	T119	Byun Baek-hyun was born in the Fall of 1992.	C	T119_mod_2	Byun Baek-hyun was born in the Fall of 1992.	E
+0	IA0	T119	Byun Baek-hyun received a college education.	E	T119_mod_3	Byun Baek-hyun received a college education.	C
+0	IA2	T442	The comic is issued monthly	C	T442_mod_3	The comic is issued monthly	E
+0	IA0	T119	Byun Baek-hyun is known for singing heavy metal.	C	T119_mod_4	Byun Baek-hyun is known for singing heavy metal.	E
+0	IA2	T442	The Chilling Adventures of Sabrina comic was first published in the Fall of 2014.	E	T442_mod_4	The Chilling Adventures of Sabrina comic was first published in the Fall of 2014.	C
+0	IA0	T119	Byun Baek-hyun was born in Asia.	E	T119_mod_5	Byun Baek-hyun was born in Asia.	C
+0	IA0	T442	Chilling Adventures of Sabrina has more than 10 issues so far.	C	T442_mod_5	Chilling Adventures of Sabrina has more than 10 issues so far.	E
+0	IA1	T119	Byun Baek-hyun has been a singer for more than 30 years.	C	T119_mod_6	Byun Baek-hyun has been a singer for more than 30 years.	E
+0	IA0	T442	Chilling Adventures of Sabrina is known for being a scary comic.	E	T442_mod_6	Chilling Adventures of Sabrina is known for being a scary comic.	C
+0	IA0	T576	Christopher Nolan was born in the United Kingdom.	E	T576_mod_1	Christopher Nolan was born in the United Kingdom.	C
+0	IA1	T442	The Chilling Adventures of Sabrina has been being produced since the 90s.	C	T442_mod_7	The Chilling Adventures of Sabrina has been being produced since the 90s.	E
+0	IA1	T576	The director Christopher Nolan has been working since 1970.	C	T576_mod_2	The director Christopher Nolan has been working since 1970.	E
+0	IA1	T442	There were fewer than a dozen issues of the Chilling Adventures of Sabrina.	E	T442_mod_8	There were fewer than a dozen issues of the Chilling Adventures of Sabrina.	C
+0	IA0	T576	Christopher Nolan was born in Europe.	E	T576_mod_3	Christopher Nolan was born in Europe.	C
+0	IA0	T442	Chilling Adventures of Sabrina could be counted on to be issued on a set schedule.	C	T442_mod_9	Chilling Adventures of Sabrina could be counted on to be issued on a set schedule.	E
+0	IA1	T576	Christopher Nolan has 4 sons.	C	T576_mod_4	Christopher Nolan has 4 sons.	E
+0	IA0	T442	The Chilling Adventures of Sabrina is an ongoing series published by Archie Horror.	E	T442_mod_10	The Chilling Adventures of Sabrina is an ongoing series published by Archie Horror.	C
+0	IA0	T442	Sabrina the Teenage Witch is a character that can be seen in new adventures on a regular basis.	C	T442_mod_11	Sabrina the Teenage Witch is a character that can be seen in new adventures on a regular basis.	E
+0	IA1	T576	Christopher Nolan has been active in the film business for about 30 years.	E	T576_mod_5	Christopher Nolan has been active in the film business for about 30 years.	C
+0	IA1	T576	Christopher Nolan was born in the Fall of 1970.	C	T576_mod_6	Christopher Nolan was born in the Fall of 1970.	E
+0	IA2	T86	Event Horizon was released in the US earlier than in the UK.	E	T86_mod_1	Event Horizon was released in the US earlier than in the UK.	C
+0	IA1	T86	Event Horizon would take over two hours to watch.	C	T86_mod_2	Event Horizon would take over two hours to watch.	E
+0	IA1	T576	Christopher Nolan works in the film industry and has dual-citizenship.	E	T576_mod_7	Christopher Nolan works in the film industry and has dual-citizenship.	C
+0	IA0	T576	Christopher Nolan started his career in his twenties.	C	T576_mod_8	Christopher Nolan started his career in his twenties.	E
+0	IA1	T576	Christopher Nolan has been married for over twenty years.	E	T576_mod_9	Christopher Nolan has been married for over twenty years.	C
+0	IA2	T86	Event Horizon was a film that was released in the late 1990s.	E	T86_mod_3	Event Horizon was a film that was released in the late 1990s.	C
+0	IA0	T576	Christopher Nolan attended college in the United States.	C	T576_mod_10	Christopher Nolan attended college in the United States.	E
+0	IA1	T576	Christopher Nolan is a well-known British director.	E	T576_mod_11	Christopher Nolan is a well-known British director.	C
+0	IA0	T86	The film Event Horizon wound up making money in theaters.	C	T86_mod_4	The film Event Horizon wound up making money in theaters.	E
+0	IA0	T576	Christopher Nolan has 3 children with his spouse of 30 years.	C	T576_mod_12	Christopher Nolan has 3 children with his spouse of 30 years.	E
+0	IA0	T86	Event Horizon had 3 producers.	E	T86_mod_5	Event Horizon had 3 producers.	C
+0	IA2	T121	Buffy the Vampire Slayer Season Ten took more than 2 years to fully release.	E	T121_mod_1	Buffy the Vampire Slayer Season Ten took more than 2 years to fully release.	C
+0	IA0	T86	Event Horizon made a large profit in the box office.	C	T86_mod_6	Event Horizon made a large profit in the box office.	E
+0	IA0	T121	Buffy the Vampire Slayer Season Ten had an original production run of over two years.	E	T121_mod_2	Buffy the Vampire Slayer Season Ten had an original production run of over two years.	C
+0	IA0	T87	Broken Social Scene has been a band for about 20 years.	E	T87_mod_1	Broken Social Scene has been a band for about 20 years.	C
+0	IA1	T121	Buffy the Vampire Slayer Season Ten began publication in the summer.	C	T121_mod_3	Buffy the Vampire Slayer Season Ten began publication in the summer.	E
+0	IA0	T87	Broken Social Scene has made music on more than 1 label.	C	T87_mod_2	Broken Social Scene has made music on more than 1 label.	E
+0	IA0	T121	Buffy the Vampire Slayer Season Ten was a comic that had 30 issues.	E	T121_mod_4	Buffy the Vampire Slayer Season Ten was a comic that had 30 issues.	C
+0	IA0	T87	Broken Social Scene has been active for less than 10 years.	E	T87_mod_3	Broken Social Scene has been active for less than 10 years.	C
+0	IA1	T121	The comic Buffy the Vampire Slayer Season Ten was released by Marvel comics.	C	T121_mod_5	The comic Buffy the Vampire Slayer Season Ten was released by Marvel comics.	E
+0	IA2	T87	Broken Social Scene has performed at a concert where Kurt Cobain was present.	C	T87_mod_4	Broken Social Scene has performed at a concert where Kurt Cobain was present.	E
+0	IA0	T87	Broken Social Scene originated in the northern hemisphere.	E	T87_mod_5	Broken Social Scene originated in the northern hemisphere.	C
+0	IA0	T1962	Hoboken, New Jersey is only 8 meters above sea level.	E	T1962_mod_1	Hoboken, New Jersey is only 8 meters above sea level.	C
+0	IA0	T87	Broken Social Scene originated in the southern hemisphere.	C	T87_mod_6	Broken Social Scene originated in the southern hemisphere.	E
+0	IA0	T89	Erykah Badu is a singer.	E	T89_mod_1	Erykah Badu is a singer.	C
+0	IA2	T1962	Hoboken, New Jersey is one of the largest areas in the state of New Jersey.	C	T1962_mod_2	Hoboken, New Jersey is one of the largest areas in the state of New Jersey.	E
+0	IA0	T89	Erykah Badu was born in Europe.	C	T89_mod_2	Erykah Badu was born in Europe.	E
+0	IA2	T1962	Hoboken, New Jersey is smaller than 2.5 square miles.	E	T1962_mod_3	Hoboken, New Jersey is smaller than 2.5 square miles.	C
+0	IA0	T89	Erykah Badu has made music for more than 20 years.	E	T89_mod_3	Erykah Badu has made music for more than 20 years.	C
+0	IA2	T89	Erykah Badu was born in the Summer of 1971.	C	T89_mod_4	Erykah Badu was born in the Summer of 1971.	E
+0	IA0	T1962	Water covers more than 40 percent of Hoboken, New Jersey.	C	T1962_mod_4	Water covers more than 40 percent of Hoboken, New Jersey.	E
+0	IA1	T89	Erykah Badu was born in the winter of 1971.	E	T89_mod_5	Erykah Badu was born in the winter of 1971.	C
+0	IA0	T1962	Hoboken, New Jersey has no water bodies.	C	T1962_mod_5	Hoboken, New Jersey has no water bodies.	E
+0	IA0	T89	The musician Erykah Badu has been singing since 1945.	C	T89_mod_6	The musician Erykah Badu has been singing since 1945.	E
+0	IA0	T1962	Hoboken, New Jersey is 63.42% land and 36.58% water.	E	T1962_mod_6	Hoboken, New Jersey is 63.42% land and 36.58% water.	C
+0	IA0	T90	Florence and the Machine were formed in England.	E	T90_mod_1	Florence and the Machine were formed in England.	C
+0	IA1	T90	Florence and the Machine have been on 8 different record labels.	C	T90_mod_2	Florence and the Machine have been on 8 different record labels.	E
+0	IA0	T1962	Hoboken, New Jersey has more water than land.	C	T1962_mod_7	Hoboken, New Jersey has more water than land.	E
+0	IA1	T90	Florence and the Machine produces music that spans many different genres.	E	T90_mod_3	Florence and the Machine produces music that spans many different genres.	C
+0	IA1	T90	Florence and the Machine has stuck with one label for their entire active years.	C	T90_mod_4	Florence and the Machine has stuck with one label for their entire active years.	E
+0	IA0	T1962	Hoboken, New Jersey is at 50 meter elevation.	C	T1962_mod_8	Hoboken, New Jersey is at 50 meter elevation.	E
+0	IA0	T90	Florence and the Machine has been a band for over 10 years.	E	T90_mod_5	Florence and the Machine has been a band for over 10 years.	C
+0	IA0	T1962	Hoboken, New Jersey has more land area than water area.	E	T1962_mod_9	Hoboken, New Jersey has more land area than water area.	C
+0	IA2	T90	Florence and the Machine has made music on more than 10 record labels.	C	T90_mod_6	Florence and the Machine has made music on more than 10 record labels.	E
+0	IA2	T1962	Hoboken, New Jersey in the top 10% in size in the state.	C	T1962_mod_10	Hoboken, New Jersey in the top 10% in size in the state.	E
+0	IA0	T123	Christ of Saint John of the Cross was painted in the 1950s.	E	T123_mod_1	Christ of Saint John of the Cross was painted in the 1950s.	C
+0	IA1	T91	Jurassic World had more than one production company.	E	T91_mod_1	Jurassic World had more than one production company.	C
+0	IA1	T123	The painting Christ of Saint John of the Cross involved using water based paints.	C	T123_mod_2	The painting Christ of Saint John of the Cross involved using water based paints.	E
+0	IA0	T123	Christ of Saint John of the Cross was painted in the middle portion of the 20th century.	E	T123_mod_3	Christ of Saint John of the Cross was painted in the middle portion of the 20th century.	C
+0	IA2	T91	Jurassic World had a total of two stars.	C	T91_mod_2	Jurassic World had a total of two stars.	E
+0	IA2	T123	The longer side of the Christ of Saint John of the Cross is over 8 feet long.	C	T123_mod_4	The longer side of the Christ of Saint John of the Cross is over 8 feet long.	E
+0	IA1	T91	Jurassic World made over a billion and a half dollars over it's budget at the box office.	E	T91_mod_3	Jurassic World made over a billion and a half dollars over it's budget at the box office.	C
+0	IA0	T123	Christ of Saint John of the Cross is hanging in Scotland	E	T123_mod_5	Christ of Saint John of the Cross is hanging in Scotland	C
+0	IA1	T91	Jurassic World was released in the US in the Fall of 2015.	C	T91_mod_4	Jurassic World was released in the US in the Fall of 2015.	E
+0	IA2	T124	Bruce Springsteen has 3 children	E	T124_mod_1	Bruce Springsteen has 3 children	C
+0	IA2	T91	Jurassic World cost over $100 million to make.	E	T91_mod_5	Jurassic World cost over $100 million to make.	C
+0	IA2	T91	The movie Jurassic World made less than a billion dollars.	C	T91_mod_6	The movie Jurassic World made less than a billion dollars.	E
+0	IA2	T124	Bruce Springsteen was born in the Fall of 1949.	E	T124_mod_2	Bruce Springsteen was born in the Fall of 1949.	C
+0	IA2	T92	More than four people were producers on Fantastic Four.	E	T92_mod_1	More than four people were producers on Fantastic Four.	C
+0	IA1	T124	Bruce Springsteen has been making music for less than 50 years.	C	T124_mod_3	Bruce Springsteen has been making music for less than 50 years.	E
+0	IA0	T92	The run time of Fantastic Four is over 2 hours.	C	T92_mod_2	The run time of Fantastic Four is over 2 hours.	E
+0	IA2	T124	Bruce Springsteen was born on the east coast of the U.S.	E	T124_mod_4	Bruce Springsteen was born on the east coast of the U.S.	C
+0	IA1	T92	The film Fantastic Four was released during the summer of 2015.	E	T92_mod_3	The film Fantastic Four was released during the summer of 2015.	C
+0	IA0	T124	Bruce Springsteen is known for playing jazz music.	C	T124_mod_5	Bruce Springsteen is known for playing jazz music.	E
+0	IA0	T92	The film Fantastic Four was produced by Elliot Greenberg.	C	T92_mod_4	The film Fantastic Four was produced by Elliot Greenberg.	E
+0	IA1	T92	Fantastic Four was directed by Josh Trank.	E	T92_mod_5	Fantastic Four was directed by Josh Trank.	C
+0	IA0	T1947	Hitoshi Sakimoto wrote music on an instrument with keys.	E	T1947_mod_1	Hitoshi Sakimoto wrote music on an instrument with keys.	C
+0	IA0	T1947	Hitoshi Sakimoto has been an active musician for forty years.	C	T1947_mod_2	Hitoshi Sakimoto has been an active musician for forty years.	E
+0	IA1	T92	Fantastic Four has a running time of 60 minutes.	C	T92_mod_6	Fantastic Four has a running time of 60 minutes.	E
+0	IA0	T1947	Hitoshi Sakimoto has been active for over 30 years.	E	T1947_mod_3	Hitoshi Sakimoto has been active for over 30 years.	C
+0	IA0	T93	Favourite Worst Nightmare was an album that was released in the spring of 2007.	E	T93_mod_1	Favourite Worst Nightmare was an album that was released in the spring of 2007.	C
+0	IA1	T1947	Hitoshi Sakimoto was born late in the year of 1969.	C	T1947_mod_4	Hitoshi Sakimoto was born late in the year of 1969.	E
+0	IA1	T93	Favourite Worst Nightmare was over an hour in length.	C	T93_mod_2	Favourite Worst Nightmare was over an hour in length.	E
+0	IA0	T93	Favourite Worst Nightmare is under 40 minutes long.	E	T93_mod_3	Favourite Worst Nightmare is under 40 minutes long.	C
+0	IA0	T93	Favourite Worst Nightmare was recorded in Ireland.	C	T93_mod_4	Favourite Worst Nightmare was recorded in Ireland.	E
+0	IA1	T1947	Hitoshi Sakimoto has been performing for over twenty years.	E	T1947_mod_5	Hitoshi Sakimoto has been performing for over twenty years.	C
+0	IA1	T93	Favourite Worst Nightmare was released early in the 21st century.	E	T93_mod_5	Favourite Worst Nightmare was released early in the 21st century.	C
+0	IA2	T1947	Hitoshi Sakimoto can only play one instrument.	C	T1947_mod_6	Hitoshi Sakimoto can only play one instrument.	E
+0	IA0	T93	It took several months to record Favourite Worst Nightmare.	C	T93_mod_6	It took several months to record Favourite Worst Nightmare.	E
+0	IA0	T1947	Hitoshi Sakimoto is a music composer.	E	T1947_mod_7	Hitoshi Sakimoto is a music composer.	C
+0	IA1	T95	Eric Clapton played with the Yardbirds.	E	T95_mod_1	Eric Clapton played with the Yardbirds.	C
+0	IA0	T1947	Hitoshi Sakimoto started his career in his early twenties.	C	T1947_mod_8	Hitoshi Sakimoto started his career in his early twenties.	E
+0	IA0	T95	Eric Clapton plays heavy metal music.	C	T95_mod_2	Eric Clapton plays heavy metal music.	E
+0	IA2	T1947	Hitoshi Sakimoto was under more than one label.	C	T1947_mod_9	Hitoshi Sakimoto was under more than one label.	E
+0	IA0	T95	Eric Clapton was born in the United Kingdom.	E	T95_mod_3	Eric Clapton was born in the United Kingdom.	C
+0	IA1	T1947	Hitoshi Sakimoto has been performing for over thirty years.	E	T1947_mod_10	Hitoshi Sakimoto has been performing for over thirty years.	C
+0	IA0	T95	Eric Clapton is known for playing drums.	C	T95_mod_4	Eric Clapton is known for playing drums.	E
+0	IA2	T95	Eric Clapton was born in the Spring of 1945.	E	T95_mod_5	Eric Clapton was born in the Spring of 1945.	C
+0	IA1	T1947	Hitoshi Sakimoto has been signed to many labels during his career.	C	T1947_mod_11	Hitoshi Sakimoto has been signed to many labels during his career.	E
+0	IA1	T126	Jean-Claude Van Damme was born in the Fall of 1960.	E	T126_mod_1	Jean-Claude Van Damme was born in the Fall of 1960.	C
+0	IA0	T95	Eric Clapton has been active for over 60 years in the music business.	C	T95_mod_6	Eric Clapton has been active for over 60 years in the music business.	E
+0	IA0	T96	Jemaine Clement is a musician that is from New Zealand.	E	T96_mod_1	Jemaine Clement is a musician that is from New Zealand.	C
+0	IA2	T126	Jean-Claude Van Damme began acting before he started Martial Arts.	C	T126_mod_2	Jean-Claude Van Damme began acting before he started Martial Arts.	E
+0	IA1	T126	Jean-Claude Van Damme has a black belt.	E	T126_mod_3	Jean-Claude Van Damme has a black belt.	C
+0	IA0	T126	Jean-Claude Van Damme got involved in martial arts after he was an established actor.	C	T126_mod_4	Jean-Claude Van Damme got involved in martial arts after he was an established actor.	E
+0	IA0	T96	Jemaine Clement has done live shows.	E	T96_mod_2	Jemaine Clement has done live shows.	C
+0	IA0	T126	Jean-Claude Van Damme is under six feet tall.	E	T126_mod_5	Jean-Claude Van Damme is under six feet tall.	C
+0	IA1	T96	Jemaine Clement has not appeared in any films.	C	T96_mod_3	Jemaine Clement has not appeared in any films.	E
+0	IA0	T126	Jean-Claude Van Damme stopped acting to pursue martial arts.	C	T126_mod_6	Jean-Claude Van Damme stopped acting to pursue martial arts.	E
+0	IA2	T96	Jemaine Clement was born in the Winter of 1974.	E	T96_mod_4	Jemaine Clement was born in the Winter of 1974.	C
+0	IA1	T127	Jodie Foster no longer goes by her birth name.	E	T127_mod_1	Jodie Foster no longer goes by her birth name.	C
+0	IA2	T96	Jemaine Clement has been active in music for less than 20 years.	C	T96_mod_5	Jemaine Clement has been active in music for less than 20 years.	E
+0	IA2	T97	Charles Lindbergh served in the military for more than 35 years total.	E	T97_mod_1	Charles Lindbergh served in the military for more than 35 years total.	C
+0	IA2	T97	Charles Lindbergh was born in the Fall of 1902.	C	T97_mod_2	Charles Lindbergh was born in the Fall of 1902.	E
+0	IA2	T127	Jodie Foster has been acting for over sixty years.	C	T127_mod_2	Jodie Foster has been acting for over sixty years.	E
+0	IA0	T127	Jodie Foster is the stage name for an actor born in Los Angeles, CA.	E	T127_mod_3	Jodie Foster is the stage name for an actor born in Los Angeles, CA.	C
+0	IA1	T97	Charles Lindbergh was born in the United States.	E	T97_mod_3	Charles Lindbergh was born in the United States.	C
+0	IA0	T127	Buddy Foster is Jodie Foster's child.	C	T127_mod_4	Buddy Foster is Jodie Foster's child.	E
+0	IA0	T97	Charles Lindbergh passed away when they were 80 years old.	C	T97_mod_4	Charles Lindbergh passed away when they were 80 years old.	E
+0	IA0	T127	Jodie Foster has been active in film for more than 50 years.	E	T127_mod_5	Jodie Foster has been active in film for more than 50 years.	C
+0	IA0	T97	Charles Lindbergh died before his last wife.	E	T97_mod_5	Charles Lindbergh died before his last wife.	C
+0	IA2	T127	Jodie Foster was born in the Spring of 1962.	C	T127_mod_6	Jodie Foster was born in the Spring of 1962.	E
+0	IA0	T98	chendu has less than one third of its total area as urban area	E	T98_mod_1	chendu has less than one third of its total area as urban area	C
+0	IA1	T128	Kathie Lee Gifford was born in a country different than her hometown.	E	T128_mod_1	Kathie Lee Gifford was born in a country different than her hometown.	C
+0	IA1	T128	Kathie Lee Gifford married Paul Johnson after Frank Gifford.	C	T128_mod_2	Kathie Lee Gifford married Paul Johnson after Frank Gifford.	E
+0	IA1	T98	Chengdu's highest elevation is over 5,000 meters.	E	T98_mod_2	Chengdu's highest elevation is over 5,000 meters.	C
+0	IA0	T98	The highest elevation in Chengdu is over 5k meters.	E	T98_mod_3	The highest elevation in Chengdu is over 5k meters.	C
+0	IA2	T128	Kathie has been on a television sound stage.	E	T128_mod_3	Kathie has been on a television sound stage.	C
+0	IA0	T98	The lowest elevation in Chengdu is under 350 m.	C	T98_mod_4	The lowest elevation in Chengdu is under 350 m.	E
+0	IA2	T128	Frank was Kathy's first husband.	C	T128_mod_4	Frank was Kathy's first husband.	E
+0	IA1	T99	Paul Bruce Dickinson was born in America.	C	T99_mod_1	Paul Bruce Dickinson was born in America.	E
+0	IA2	T99	Bruce Dickinson has had an active career for more than 40 years.	E	T99_mod_2	Bruce Dickinson has had an active career for more than 40 years.	C
+0	IA0	T99	Bruce Dickinson was born in the Winter of 1958.	C	T99_mod_3	Bruce Dickinson was born in the Winter of 1958.	E
+0	IA0	T128	Kathie Lee Gifford was born in the Spring of 1953.	C	T128_mod_5	Kathie Lee Gifford was born in the Spring of 1953.	E
+0	IA2	T99	Bruce Dickinson played modern music.	E	T99_mod_4	Bruce Dickinson played modern music.	C
+0	IA0	T129	Iron Man was first released in Australia.	E	T129_mod_1	Iron Man was first released in Australia.	C
+0	IA2	T129	Iron Man is 1.5 hours long.	C	T129_mod_2	Iron Man is 1.5 hours long.	E
+0	IA1	T100	Fargo earned over 100 million dollars in the box office.	C	T100_mod_1	Fargo earned over 100 million dollars in the box office.	E
+0	IA1	T129	Iron Man has a length that is more than 2 hours long.	E	T129_mod_3	Iron Man has a length that is more than 2 hours long.	C
+0	IA0	T129	Iron Man made over 500 million dollars more than it's budget.	C	T129_mod_4	Iron Man made over 500 million dollars more than it's budget.	E
+0	IA0	T100	Fargo made over 50 million at the box office.	E	T100_mod_2	Fargo made over 50 million at the box office.	C
+0	IA1	T129	Iron Man premiered in Australia before being released in the United States.	E	T129_mod_5	Iron Man premiered in Australia before being released in the United States.	C
+0	IA0	T129	Iron Man has a running time under two hours.	C	T129_mod_6	Iron Man has a running time under two hours.	E
+0	IA1	T100	Fargo's run time is over two hours long.	C	T100_mod_3	Fargo's run time is over two hours long.	E
+0	IA1	T130	John James Rickard Macleod won a Nobel Peace Prize in the first quarter of the 20th century.	E	T130_mod_1	John James Rickard Macleod won a Nobel Peace Prize in the first quarter of the 20th century.	C
+0	IA1	T100	Fargo made over $60 million at the box office.	E	T100_mod_4	Fargo made over $60 million at the box office.	C
+0	IA0	T130	John James Rickard Macleod died in the Fall of 1935.	C	T130_mod_2	John James Rickard Macleod died in the Fall of 1935.	E
+0	IA0	T100	Fargo was released in 1995.	C	T100_mod_5	Fargo was released in 1995.	E
+0	IA0	T546	Circus was released before Christmas of 2008.	E	T546_mod_1	Circus was released before Christmas of 2008.	C
+0	IA0	T130	John James Rickard Macleod won the Nobel Prize in the 20th century.	E	T130_mod_3	John James Rickard Macleod won the Nobel Prize in the 20th century.	C
+0	IA0	T130	John James Rickard Macleod died in Clunie, Perthshire, Scotland.	C	T130_mod_4	John James Rickard Macleod died in Clunie, Perthshire, Scotland.	E
+0	IA0	T546	Circus was recorded at one single studio.	C	T546_mod_2	Circus was recorded at one single studio.	E
+0	IA2	T546	The album Circus was released in the winter of 2008.	E	T546_mod_3	The album Circus was released in the winter of 2008.	C
+0	IA2	T130	John James Rickard Macleod was born in Europe.	E	T130_mod_5	John James Rickard Macleod was born in Europe.	C
+0	IA1	T130	John James Rickard Macleod received the Nobel Prize when he was only 30 years old.	C	T130_mod_6	John James Rickard Macleod received the Nobel Prize when he was only 30 years old.	E
+0	IA1	T546	The album Circus is longer than one hour in length.	C	T546_mod_4	The album Circus is longer than one hour in length.	E
+0	IA2	T131	Sandra Will was married prior to 1983.	E	T131_mod_1	Sandra Will was married prior to 1983.	C
+0	IA1	T546	Circus' run time is in between 30 minutes and one hour.	E	T546_mod_5	Circus' run time is in between 30 minutes and one hour.	C
+0	IA2	T131	No one is the family was married after 1980.	C	T131_mod_2	No one is the family was married after 1980.	E
+0	IA1	T546	Circus was released in the Spring of 2008.	C	T546_mod_6	Circus was released in the Spring of 2008.	E
+0	IA0	T546	Circus is less than 20 years old.	E	T546_mod_7	Circus is less than 20 years old.	C
+0	IA0	T546	Circus was recorded in th United States.	C	T546_mod_8	Circus was recorded in th United States.	E
+0	IA0	T131	Keith Carradine was born in California	E	T131_mod_3	Keith Carradine was born in California	C
+0	IA0	T131	Keith Carradine does not have any children	C	T131_mod_4	Keith Carradine does not have any children	E
+0	IA0	T546	Circus is a pop album released in 2008.	E	T546_mod_9	Circus is a pop album released in 2008.	C
+0	IA1	T131	Keith Carradine has had an active career for more than 45 years.	E	T131_mod_5	Keith Carradine has had an active career for more than 45 years.	C
+0	IA0	T546	Circus was a small production effort with just Guy Sigsworth over seeing the production under Jive Records.	C	T546_mod_10	Circus was a small production effort with just Guy Sigsworth over seeing the production under Jive Records.	E
+0	IA1	T546	Circus was eventually released over two years after recording began.	E	T546_mod_11	Circus was eventually released over two years after recording began.	C
+0	IA2	T131	Keith Carradine was born in the Spring of 1949.	C	T131_mod_6	Keith Carradine was born in the Spring of 1949.	E
+0	IA0	T546	Circus was recorded at several studios all within the United States.	C	T546_mod_12	Circus was recorded at several studios all within the United States.	E
+0	IA0	T132	Evan Rachel Wood is from North America.	E	T132_mod_1	Evan Rachel Wood is from North America.	C
+0	IA1	T132	Evan Rachel Wood was married for four years.	C	T132_mod_2	Evan Rachel Wood was married for four years.	E
+0	IA1	T546	Circus was a large effort and include a large amount of producers, artist and technical support.	E	T546_mod_13	Circus was a large effort and include a large amount of producers, artist and technical support.	C
+0	IA2	T132	Evan Rachel Wood's career has spanned 25 years so far.	E	T132_mod_3	Evan Rachel Wood's career has spanned 25 years so far.	C
+0	IA2	T132	Evan Rachel Wood was born in the Spring of 1987.	C	T132_mod_4	Evan Rachel Wood was born in the Spring of 1987.	E
+0	IA0	T103	JoJo was born in the northeast section of U.S.	E	T103_mod_1	JoJo was born in the northeast section of U.S.	C
+0	IA0	T132	Evan Rachel Wood was born on the east coast of the USA.	E	T132_mod_5	Evan Rachel Wood was born on the east coast of the USA.	C
+0	IA0	T103	JoJo has been performing for over forty years.	C	T103_mod_2	JoJo has been performing for over forty years.	E
+0	IA2	T132	Evan Rachel Wood is still married to Jamie Bell.	C	T132_mod_6	Evan Rachel Wood is still married to Jamie Bell.	E
+0	IA0	T103	JoJo has had an active music career for over 20 years.	E	T103_mod_3	JoJo has had an active music career for over 20 years.	C
+0	IA0	T133	Joseph Stalin had multiple nicknames.	C	T133_mod_1	Joseph Stalin had multiple nicknames.	E
+0	IA0	T103	JoJo was born in the Summer of 1990.	C	T103_mod_4	JoJo was born in the Summer of 1990.	E
+0	IA0	T133	Joseph Stalin was able to climb the ranks in the Soviet Armed Forces.	E	T133_mod_2	Joseph Stalin was able to climb the ranks in the Soviet Armed Forces.	C
+0	IA0	T103	JoJo was a child performer.	E	T103_mod_5	JoJo was a child performer.	C
+0	IA2	T133	Joseph Stalin wound up staying in the army into the cold war.	C	T133_mod_3	Joseph Stalin wound up staying in the army into the cold war.	E
+0	IA1	T103	JoJo was born in Massachusetts in the winter.	C	T103_mod_6	JoJo was born in Massachusetts in the winter.	E
+0	IA0	T2031	The record was released in the summer of 1982.	E	T2031_mod_1	The record was released in the summer of 1982.	C
+0	IA2	T2031	The album is full of classical music.	C	T2031_mod_2	The album is full of classical music.	E
+0	IA1	T2031	Hot Space was recorded entirely in European studios.	E	T2031_mod_3	Hot Space was recorded entirely in European studios.	C
+0	IA0	T134	Jor-El is not known for his intelligence.	C	T134_mod_1	Jor-El is not known for his intelligence.	E
+0	IA0	T2031	Hot Space was released in the Fall of 1982.	C	T2031_mod_4	Hot Space was released in the Fall of 1982.	E
+0	IA2	T134	Jor-El is known by a different name in the DC Rebirth.	E	T134_mod_2	Jor-El is known by a different name in the DC Rebirth.	C
+0	IA2	T2031	Hot Space was released in the spring of 1982.	E	T2031_mod_5	Hot Space was released in the spring of 1982.	C
+0	IA1	T2031	Hot Space is less than 40 minutes long.	C	T2031_mod_6	Hot Space is less than 40 minutes long.	E
+0	IA0	T2031	Hot Space was released 2 months after it was completed recording.	E	T2031_mod_7	Hot Space was released 2 months after it was completed recording.	C
+0	IA2	T134	Jor-El is on the same side as Superman.	E	T134_mod_3	Jor-El is on the same side as Superman.	C
+0	IA0	T2031	Recording for Hot Space began 2 years before its release.	C	T2031_mod_8	Recording for Hot Space began 2 years before its release.	E
+0	IA1	T2031	Hot Space came out 21 May 1982	E	T2031_mod_9	Hot Space came out 21 May 1982	C
+0	IA0	T135	Chorley cake is a pastry that originated in Europe.	E	T135_mod_1	Chorley cake is a pastry that originated in Europe.	C
+0	IA0	T2031	Hot Space was released in the same year that recording was completed.	E	T2031_mod_10	Hot Space was released in the same year that recording was completed.	C
+0	IA1	T135	Chorley cake's main ingredients are dates.	C	T135_mod_2	Chorley cake's main ingredients are dates.	E
+0	IA1	T2031	Hot Space takes over an hour to listen to.	C	T2031_mod_11	Hot Space takes over an hour to listen to.	E
+0	IA0	T135	This is a pastry.	E	T135_mod_3	This is a pastry.	C
+0	IA0	T107	James Oliver died in the Spring of 1908.	E	T107_mod_1	James Oliver died in the Spring of 1908.	C
+0	IA2	T135	ItÕs not sweet.	C	T135_mod_4	ItÕs not sweet.	E
+0	IA0	T107	James Oliver was born in the Winter of 1823.	C	T107_mod_2	James Oliver was born in the Winter of 1823.	E
+0	IA2	T107	James Oliver died in the U.S.	E	T107_mod_3	James Oliver died in the U.S.	C
+0	IA2	T107	James Oliver was English.	C	T107_mod_4	James Oliver was English.	E
+0	IA0	T135	A Chorley cake is known from originating in France.	C	T135_mod_5	A Chorley cake is known from originating in France.	E
+0	IA1	T107	James Oliver was born in the United Kingdom.	E	T107_mod_5	James Oliver was born in the United Kingdom.	C
+0	IA0	T135	Chorley cake originated in Europe.	E	T135_mod_6	Chorley cake originated in Europe.	C
+0	IA0	T107	James Oliver was known for being a chemist.	C	T107_mod_6	James Oliver was known for being a chemist.	E
+0	IA2	T135	Chorley cake is usually enjoyed with coffee.	C	T135_mod_7	Chorley cake is usually enjoyed with coffee.	E
+0	IA0	T108	Isabella was painted right in the middle of the 19th century.	E	T108_mod_1	Isabella was painted right in the middle of the 19th century.	C
+0	IA2	T108	The longer side of Isabella measures more than five feet long.	C	T108_mod_2	The longer side of Isabella measures more than five feet long.	E
+0	IA2	T136	The referenda was held four months before the federation was established.	E	T136_mod_1	The referenda was held four months before the federation was established.	C
+0	IA1	T108	Isabella can be viewed in a museum in England.	E	T108_mod_3	Isabella can be viewed in a museum in England.	C
+0	IA2	T136	The Federation was disestablished in 1972.	C	T136_mod_2	The Federation was disestablished in 1972.	E
+0	IA1	T136	The Federation of Arab Republics had 3 member countries.	E	T136_mod_3	The Federation of Arab Republics had 3 member countries.	C
+0	IA0	T108	"the painting ""Isabella"" was painted in the 17th century."	C	T108_mod_4	"the painting ""Isabella"" was painted in the 17th century."	E
+0	IA1	T136	The Federation of Arab Republics was established shortly after World War II.	C	T136_mod_4	The Federation of Arab Republics was established shortly after World War II.	E
+0	IA0	T136	The Federation of Arab Republics was established on New Year's Day 1972.	E	T136_mod_5	The Federation of Arab Republics was established on New Year's Day 1972.	C
+0	IA0	T108	He was born in 1849	E	T108_mod_5	He was born in 1849	C
+0	IA1	T108	He used water on canvas	C	T108_mod_6	He used water on canvas	E
+0	IA1	T136	The Federation of Arab Republics fell apart in the Spring of 1977.	C	T136_mod_6	The Federation of Arab Republics fell apart in the Spring of 1977.	E
+0	IA2	T545	Clean Bandit was formed on the European continent.	E	T545_mod_1	Clean Bandit was formed on the European continent.	C
+0	IA1	T138	George Frederic Watts painted Hope in the 19th century.	E	T138_mod_1	George Frederic Watts painted Hope in the 19th century.	C
+0	IA0	T545	Clean Bandit has been a group since the 1990s.	C	T545_mod_2	Clean Bandit has been a group since the 1990s.	E
+0	IA1	T138	George Frederic Watts' Hope is located in Australia.	C	T138_mod_2	George Frederic Watts' Hope is located in Australia.	E
+0	IA2	T545	Clean Bandit was formed in the United Kingdom.	E	T545_mod_3	Clean Bandit was formed in the United Kingdom.	C
+0	IA0	T138	Hope is a piece of art that was made originally in 1886.	E	T138_mod_3	Hope is a piece of art that was made originally in 1886.	C
+0	IA1	T138	The painting Hope is over 5 feet tall.	C	T138_mod_4	The painting Hope is over 5 feet tall.	E
+0	IA0	T138	The shorter side of Hope measures more than 3 feet long.	E	T138_mod_5	The shorter side of Hope measures more than 3 feet long.	C
+0	IA0	T545	Clean Bandit was formed in Europe.	E	T545_mod_4	Clean Bandit was formed in Europe.	C
+0	IA1	T138	The longer side of Hope measures more than 5 feet long.	C	T138_mod_6	The longer side of Hope measures more than 5 feet long.	E
+0	IA1	T545	Clean Bandit has been making music under that name for over 15 years.	C	T545_mod_5	Clean Bandit has been making music under that name for over 15 years.	E
+0	IA2	T139	John William Waterhouse is still alive.	E	T139_mod_1	John William Waterhouse is still alive.	C
+0	IA1	T545	Clean Bandit was formed in Cambridge	E	T545_mod_6	Clean Bandit was formed in Cambridge	C
+0	IA0	T139	Circe Invidiosa is more than 6 feet wide.	C	T139_mod_2	Circe Invidiosa is more than 6 feet wide.	E
+0	IA2	T545	Clean Bandit relates to only electronic Genre	C	T545_mod_7	Clean Bandit relates to only electronic Genre	E
+0	IA0	T545	For 11 years, Clean Bandit has performed with acts such as Jess Glynne, Marina and Anne-Marie.	E	T545_mod_8	For 11 years, Clean Bandit has performed with acts such as Jess Glynne, Marina and Anne-Marie.	C
+0	IA1	T139	The art piece Circe Invidiosa was made in 1892.	E	T139_mod_3	The art piece Circe Invidiosa was made in 1892.	C
+0	IA2	T545	Clean Bandit is a country music group originating in England.	C	T545_mod_9	Clean Bandit is a country music group originating in England.	E
+0	IA2	T139	The piece Circe Invidiosa involved using water based paints.	C	T139_mod_4	The piece Circe Invidiosa involved using water based paints.	E
+0	IA1	T545	Clean Bandit is an English band whom specializes in electronic and pop music.	E	T545_mod_10	Clean Bandit is an English band whom specializes in electronic and pop music.	C
+0	IA0	T139	John William Waterhouse painted Circe Invidiosa in the 19th century A.D.	E	T139_mod_5	John William Waterhouse painted Circe Invidiosa in the 19th century A.D.	C
+0	IA2	T2014	Hootie & the Blowfish were formed on the East Coast.	E	T2014_mod_1	Hootie & the Blowfish were formed on the East Coast.	C
+0	IA2	T139	Circe Invidiosa is a water color painting.	C	T139_mod_6	Circe Invidiosa is a water color painting.	E
+0	IA0	T2014	Hootie & the Blowfish have made music for less than 20 years total.	C	T2014_mod_2	Hootie & the Blowfish have made music for less than 20 years total.	E
+0	IA2	T140	K2-21b has an orbital period (P) less than 10 d.	E	T140_mod_1	K2-21b has an orbital period (P) less than 10 d.	C
+0	IA0	T2014	Hootie & The Blowfish took a ten year haitus from performing.	E	T2014_mod_3	Hootie & The Blowfish took a ten year haitus from performing.	C
+0	IA0	T140	The semi-major axis of K2-21b is greater than .08 AU.	C	T140_mod_2	The semi-major axis of K2-21b is greater than .08 AU.	E
+0	IA0	T2014	Hootie & The Blowfish were founded in the 1990's.	C	T2014_mod_4	Hootie & The Blowfish were founded in the 1990's.	E
+0	IA2	T2014	Hootie & The Blowfish formed in the southern U.S.	E	T2014_mod_5	Hootie & The Blowfish formed in the southern U.S.	C
+0	IA1	T2014	Hootie & The Blowfish play jazz music.	C	T2014_mod_6	Hootie & The Blowfish play jazz music.	E
+0	IA0	T140	The exoplanet K2-21b is less than 0.1 AU in rotational size.	E	T140_mod_3	The exoplanet K2-21b is less than 0.1 AU in rotational size.	C
+0	IA0	T2014	They started in South Carolina	E	T2014_mod_7	They started in South Carolina	C
+0	IA1	T140	The exoplanet K2-21b takes over ten days to rotate its parent star.	C	T140_mod_4	The exoplanet K2-21b takes over ten days to rotate its parent star.	E
+0	IA0	T141	Bridgeport, Connecticut is located near the coast and has an elevation of 1m	E	T141_mod_1	Bridgeport, Connecticut is located near the coast and has an elevation of 1m	C
+0	IA0	T2014	Hootie & the Blowfish originated in South Carolina.	E	T2014_mod_8	Hootie & the Blowfish originated in South Carolina.	C
+0	IA0	T141	Bridgeport, Connecticut is a dry and hilly area	C	T141_mod_2	Bridgeport, Connecticut is a dry and hilly area	E
+0	IA1	T2014	Hootie & the Blowfish never had a break in the years active.	C	T2014_mod_9	Hootie & the Blowfish never had a break in the years active.	E
+0	IA0	T141	Bridgeport Connecticut is very close to being at seal level.	E	T141_mod_3	Bridgeport Connecticut is very close to being at seal level.	C
+0	IA1	T2014	Hootie and the Blowfish play a variety of music genres	E	T2014_mod_10	Hootie and the Blowfish play a variety of music genres	C
+0	IA2	T141	The city of Bridgeport Connecticut is over 20 square miles.	C	T141_mod_4	The city of Bridgeport Connecticut is over 20 square miles.	E
+0	IA2	T2014	The members of Hootie and the Blowfish are now retired.	C	T2014_mod_11	The members of Hootie and the Blowfish are now retired.	E
+0	IA2	T141	Water makes up less than one quarter of the total land area of Bridgeport, Connecticut.	E	T141_mod_5	Water makes up less than one quarter of the total land area of Bridgeport, Connecticut.	C
+0	IA0	T2014	Hootie & the Blowfish are an American rock group.	E	T2014_mod_12	Hootie & the Blowfish are an American rock group.	C
+0	IA0	T141	Connecticut is 16.0 sq mi in total.	C	T141_mod_6	Connecticut is 16.0 sq mi in total.	E
+0	IA1	T2014	Hootie & the Blowfish has performed continuously without a break since it formed.	C	T2014_mod_13	Hootie & the Blowfish has performed continuously without a break since it formed.	E
+0	IA2	T114	Evolve took a number of months to record.	E	T114_mod_1	Evolve took a number of months to record.	C
+0	IA2	T114	Evolve is well known in the death metal scene.	C	T114_mod_2	Evolve is well known in the death metal scene.	E
+0	IA2	T142	Sir John Harington was born in Europe.	E	T142_mod_1	Sir John Harington was born in Europe.	C
+0	IA1	T114	Evolve was released in the Summer of 2017.	E	T114_mod_3	Evolve was released in the Summer of 2017.	C
+0	IA2	T114	It only took a few months to record Evolve.	C	T114_mod_4	It only took a few months to record Evolve.	E
+0	IA0	T142	Sir John Harington was from the United Kingdom.	E	T142_mod_2	Sir John Harington was from the United Kingdom.	C
+0	IA0	T114	The album was recorded over a period of eight months.	E	T114_mod_5	The album was recorded over a period of eight months.	C
+0	IA0	T142	Sir John Harington wound up having more than one wife.	C	T142_mod_3	Sir John Harington wound up having more than one wife.	E
+0	IA0	T114	The album was released 2 years after it was recorded.	C	T114_mod_6	The album was released 2 years after it was recorded.	E
+0	IA1	T142	Sir John Harington had been knighted by the Queen.	E	T142_mod_4	Sir John Harington had been knighted by the Queen.	C
+0	IA1	T115	Fleetwood Mac was released in the 1970's.	E	T115_mod_1	Fleetwood Mac was released in the 1970's.	C
+0	IA0	T142	Sir John Harington only lived in the 16th century.	C	T142_mod_5	Sir John Harington only lived in the 16th century.	E
+0	IA2	T143	Jim Mattis was likely a highly decorated Marine.	E	T143_mod_1	Jim Mattis was likely a highly decorated Marine.	C
+0	IA2	T115	Fleetwood Mac was 60 minutes long.	C	T115_mod_2	Fleetwood Mac was 60 minutes long.	E
+0	IA0	T143	Jim Mattis served in the military for more than 45 years.	C	T143_mod_2	Jim Mattis served in the military for more than 45 years.	E
+0	IA0	T115	Fleetwood Mac was released in the same month as Independence Day in 1975.	E	T115_mod_3	Fleetwood Mac was released in the same month as Independence Day in 1975.	C
+0	IA0	T143	Jim Mattis had worked in the military through 2013.	E	T143_mod_3	Jim Mattis had worked in the military through 2013.	C
+0	IA0	T115	The album Fleetwood Mac has a run time over an hour long.	C	T115_mod_4	The album Fleetwood Mac has a run time over an hour long.	E
+0	IA1	T143	Jim Mattis began working in the military in the 1990s.	C	T143_mod_4	Jim Mattis began working in the military in the 1990s.	E
+0	IA1	T115	The Fleetwood Mac album was released in the summer of 1975.	E	T115_mod_5	The Fleetwood Mac album was released in the summer of 1975.	C
+0	IA0	T115	Keith Olsen is the solo producer of Fleetwood Mac.	C	T115_mod_6	Keith Olsen is the solo producer of Fleetwood Mac.	E
+0	IA2	T116	Falling in Reverse has been active only in the 21st century.	E	T116_mod_2	Falling in Reverse has been active only in the 21st century.	C
+0	IA0	T116	Falling in Reverse has recorded on 2 labels.	C	T116_mod_3	Falling in Reverse has recorded on 2 labels.	E
+0	IA0	T116	Falling in Reverse has been a band for more than 10 years.	E	T116_mod_4	Falling in Reverse has been a band for more than 10 years.	C
+0	IA0	T145	Justin Theroux married Jennifer Aniston less than five years ago.	E	T145_mod_1	Justin Theroux married Jennifer Aniston less than five years ago.	C
+0	IA0	T145	Justin Theroux is an engineer from Montana.	C	T145_mod_2	Justin Theroux is an engineer from Montana.	E
+0	IA2	T116	Falling in Reverse is associated with multiple other acts.	C	T116_mod_5	Falling in Reverse is associated with multiple other acts.	E
+0	IA1	T145	Justin Theroux became involved with his current partner prior to the finalization of his divorce.	E	T145_mod_3	Justin Theroux became involved with his current partner prior to the finalization of his divorce.	C
+0	IA0	T116	Falling in Reverse is a band that is from the United States.	E	T116_mod_6	Falling in Reverse is a band that is from the United States.	C
+0	IA0	T145	Juston Theroux recently celebrated his 50th birthday.	C	T145_mod_4	Juston Theroux recently celebrated his 50th birthday.	E
+0	IA2	T145	Justin Theroux is married to Jennifer Aniston.	E	T145_mod_5	Justin Theroux is married to Jennifer Aniston.	C
+0	IA0	T145	Justin Theroux is a doctor.	C	T145_mod_6	Justin Theroux is a doctor.	E
+0	IA0	T147	Cabaret Scene in now located in Europe.	E	T147_mod_1	Cabaret Scene in now located in Europe.	C
+0	IA0	T147	Cabaret Scene is less than 2 feet wide at the widest point.	E	T147_mod_2	Cabaret Scene is less than 2 feet wide at the widest point.	C
+0	IA1	T147	Cabaret Scene was painted in the middle part of the 20th century.	C	T147_mod_3	Cabaret Scene was painted in the middle part of the 20th century.	E
+0	IA1	T147	Cabaret Scene is a piece of art that was painted in 1922.	E	T147_mod_4	Cabaret Scene is a piece of art that was painted in 1922.	C
+0	IA1	T148	Jean, the Vitagraph Dog died over one hundred years ago.	E	T148_mod_1	Jean, the Vitagraph Dog died over one hundred years ago.	C
+0	IA0	T148	Jean, the Vitagraph Dog worked for only five years.	C	T148_mod_2	Jean, the Vitagraph Dog worked for only five years.	E
+0	IA2	T148	Jean, the Vitagraph Dog was born early in the 20th century.	E	T148_mod_3	Jean, the Vitagraph Dog was born early in the 20th century.	C
+0	IA1	T148	Jean, the Vitagraph Dog, died at the age of 15.	C	T148_mod_4	Jean, the Vitagraph Dog, died at the age of 15.	E
+0	IA2	T148	Jean, the Vitagraph Dog was a female dog actor in old American films	E	T148_mod_5	Jean, the Vitagraph Dog was a female dog actor in old American films	C
+0	IA0	T148	Jean, the Vitagraph Dog was a Golden Retriever which perform in circus	C	T148_mod_6	Jean, the Vitagraph Dog was a Golden Retriever which perform in circus	E
+0	IA0	T150	Fats Domino died in the Fall of 2017.	E	T150_mod_1	Fats Domino died in the Fall of 2017.	C
+0	IA2	T150	Fats Domino was born in the Fall of 1928.	C	T150_mod_2	Fats Domino was born in the Fall of 1928.	E
+0	IA2	T150	Fats Domino was an American.	E	T150_mod_3	Fats Domino was an American.	C
+0	IA0	T150	Fats Domino died before his wife.	C	T150_mod_4	Fats Domino died before his wife.	E
+0	IA0	T150	Fats Domino died over ten years ago.	E	T150_mod_5	Fats Domino died over ten years ago.	C
+0	IA0	T191	Escape the Fate has been a band for about 15 years.	E	T191_mod_1	Escape the Fate has been a band for about 15 years.	C
+0	IA2	T191	Escape the Fate was formed in the Southeast of the US.	C	T191_mod_2	Escape the Fate was formed in the Southeast of the US.	E
+0	IA1	T191	Escape the Fate has been signed to several record labels.	E	T191_mod_3	Escape the Fate has been signed to several record labels.	C
+0	IA0	T191	Escape the Fate has been performing for under five years.	C	T191_mod_4	Escape the Fate has been performing for under five years.	E
+0	IA0	T191	Escape the Fate has released music on more than 5 labels.	E	T191_mod_5	Escape the Fate has released music on more than 5 labels.	C
+0	IA0	T191	Escape the Fate is from the Great Lakes region o the U.S.	C	T191_mod_6	Escape the Fate is from the Great Lakes region o the U.S.	E
+0	IA0	T193	Janet Jackson has had three husbands.	E	T193_mod_1	Janet Jackson has had three husbands.	C
+0	IA0	T193	Janet Jackson's net worth is under 100 million dollars.	C	T193_mod_2	Janet Jackson's net worth is under 100 million dollars.	E
+0	IA0	T193	Janet Jacksons first marriage lasted approximately 1 year.	E	T193_mod_3	Janet Jacksons first marriage lasted approximately 1 year.	C
+0	IA2	T193	Janet Jackson has been married to her current husband for almost 15 years	C	T193_mod_4	Janet Jackson has been married to her current husband for almost 15 years	E
+0	IA0	T193	Janet Jackson is an American Rockstar.	E	T193_mod_5	Janet Jackson is an American Rockstar.	C
+0	IA0	T193	Janet Jackson is worth less than 50 million dollars.	C	T193_mod_6	Janet Jackson is worth less than 50 million dollars.	E
+0	IA0	T195	Chicago, Illinois was settled in the 18th century.	E	T195_mod_1	Chicago, Illinois was settled in the 18th century.	C
+0	IA0	T195	Chicago, Illinois was incorporated in the Summer of 1837.	C	T195_mod_2	Chicago, Illinois was incorporated in the Summer of 1837.	E
+0	IA0	T195	Chicago, Illinois was originally incorporated to a city in the spring of 1837.	E	T195_mod_3	Chicago, Illinois was originally incorporated to a city in the spring of 1837.	C
+0	IA2	T195	The town of Chicago, Illinois has three counties.	C	T195_mod_4	The town of Chicago, Illinois has three counties.	E
+0	IA0	T195	Chicago is a Native American name.	E	T195_mod_5	Chicago is a Native American name.	C
+0	IA0	T195	Chicago covers one county.	C	T195_mod_6	Chicago covers one county.	E
+0	IA2	T196	Karlheinz Brandenburg is under 70 years old.	E	T196_mod_1	Karlheinz Brandenburg is under 70 years old.	C
+0	IA0	T196	Karlheinz Brandenburg has mostly worked in Amsterdam.	C	T196_mod_2	Karlheinz Brandenburg has mostly worked in Amsterdam.	E
+0	IA2	T196	Karlheinz Brandenburg was born in the Summer of 1954.	E	T196_mod_3	Karlheinz Brandenburg was born in the Summer of 1954.	C
+0	IA0	T196	Karlheinz Brandenburg specializes in multiple fields.	C	T196_mod_4	Karlheinz Brandenburg specializes in multiple fields.	E
+0	IA0	T196	Karlheinz Brandenburg attended university in Germany.	E	T196_mod_5	Karlheinz Brandenburg attended university in Germany.	C
+0	IA2	T196	Karlheinz Brandenburg has never won an award.	C	T196_mod_6	Karlheinz Brandenburg has never won an award.	E
+0	IA2	T1873	He lived a long life.	E	T1873_mod_1	He lived a long life.	C
+0	IA0	T1873	Jack LaLanne was from the western U.S.	E	T1873_mod_2	Jack LaLanne was from the western U.S.	C
+0	IA0	T1873	Jack LaLanne was divorced from his second wife when he died.	C	T1873_mod_3	Jack LaLanne was divorced from his second wife when he died.	E
+0	IA2	T1873	Jack LaLanne was born in the Fall of 1914.	E	T1873_mod_4	Jack LaLanne was born in the Fall of 1914.	C
+0	IA2	T150	Fats Domino is the artist's original name.	C	T150_mod_6	Fats Domino is the artist's original name.	E
+0	IA1	T1873	Jack LaLanne had an active career for over 75 years.	C	T1873_mod_5	Jack LaLanne had an active career for over 75 years.	E
+0	IA0	T151	Joan Jett has been performing for over forty years.	E	T151_mod_1	Joan Jett has been performing for over forty years.	C
+0	IA1	T1873	Jack LaLanne was born in a large city in California.	E	T1873_mod_6	Jack LaLanne was born in a large city in California.	C
+0	IA1	T151	Joan Jett uses her real last name while performing.	C	T151_mod_2	Joan Jett uses her real last name while performing.	E
+0	IA1	T1873	Jack LaLanne was known for being an evangelist.	C	T1873_mod_7	Jack LaLanne was known for being an evangelist.	E
+0	IA2	T151	Joan Jett can play a stringed instrument.	E	T151_mod_3	Joan Jett can play a stringed instrument.	C
+0	IA0	T1873	Jack LaLanne was born under a different name.	E	T1873_mod_8	Jack LaLanne was born under a different name.	C
+0	IA0	T1873	Jack LaLanne was married to Irma for longer than Elaine.	C	T1873_mod_9	Jack LaLanne was married to Irma for longer than Elaine.	E
+0	IA2	T151	Joan Jett has been working for more than 45 years.	E	T151_mod_4	Joan Jett has been working for more than 45 years.	C
+0	IA0	T1873	Jack LaLanne died before he turned 100.	E	T1873_mod_10	Jack LaLanne died before he turned 100.	C
+0	IA0	T151	Joan Jett was born on the West Coast.	C	T151_mod_5	Joan Jett was born on the West Coast.	E
+0	IA1	T1873	Jack LaLanne had three wives.	C	T1873_mod_11	Jack LaLanne had three wives.	E
+0	IA0	T153	Karen Carpenter was born in New England.	E	T153_mod_1	Karen Carpenter was born in New England.	C
+0	IA1	T1873	Jack LaLanne stopped being active in 2009.	E	T1873_mod_12	Jack LaLanne stopped being active in 2009.	C
+0	IA2	T153	Karen Carpenter died in New York.	C	T153_mod_2	Karen Carpenter died in New York.	E
+0	IA2	T1873	Jack LaLanne was born with the name Jack LaLanne.	C	T1873_mod_13	Jack LaLanne was born with the name Jack LaLanne.	E
+0	IA2	T153	Karen Carpenter was born on the east coast of the USA.	E	T153_mod_3	Karen Carpenter was born on the east coast of the USA.	C
+0	IA2	T199	Chief Keef has been making music under that name for about 8 years.	E	T199_mod_1	Chief Keef has been making music under that name for about 8 years.	C
+0	IA2	T153	Karen Carpenter passed away when she was 25.	C	T153_mod_4	Karen Carpenter passed away when she was 25.	E
+0	IA0	T153	Karen Carpenter died in the Fall of 1983.	E	T153_mod_5	Karen Carpenter died in the Fall of 1983.	C
+0	IA0	T199	Chief Keef was born in the Spring of 1995.	C	T199_mod_2	Chief Keef was born in the Spring of 1995.	E
+0	IA0	T199	Chief Keef was originally born in Chicago.	E	T199_mod_3	Chief Keef was originally born in Chicago.	C
+0	IA1	T153	Karen Carpenter was active in the music scene for more than 20 years.	C	T153_mod_6	Karen Carpenter was active in the music scene for more than 20 years.	E
+0	IA1	T199	The musician Chief Keef is known for rock music.	C	T199_mod_4	The musician Chief Keef is known for rock music.	E
+0	IA2	T155	Jawaharlal Nehru lived in two different centuries.	E	T155_mod_1	Jawaharlal Nehru lived in two different centuries.	C
+0	IA2	T155	Jawaharlal Nehru was married to Indira Gandhi.	C	T155_mod_2	Jawaharlal Nehru was married to Indira Gandhi.	E
+0	IA1	T155	Jawaharlal Nehru wound up passing away after his heart failed.	E	T155_mod_3	Jawaharlal Nehru wound up passing away after his heart failed.	C
+0	IA2	T155	Jawaharlal Nehru spent time in the UK parliament.	C	T155_mod_4	Jawaharlal Nehru spent time in the UK parliament.	E
+0	IA0	T199	Keith Farrelle Cozart was born on August 15, 1995.	E	T199_mod_5	Keith Farrelle Cozart was born on August 15, 1995.	C
+0	IA0	T155	Jawaharlal Nehru died in the same country he was born.	E	T155_mod_5	Jawaharlal Nehru died in the same country he was born.	C
+0	IA0	T199	Chief Keef's label is an exclusive of the Glo Gang label.	C	T199_mod_6	Chief Keef's label is an exclusive of the Glo Gang label.	E
+0	IA2	T155	Indira Gandhi is Jawaharal Nehru's sister.	C	T155_mod_6	Indira Gandhi is Jawaharal Nehru's sister.	E
+0	IA2	T201	Frederic Leighton is the artist of Flaming June	E	T201_mod_1	Frederic Leighton is the artist of Flaming June	C
+0	IA0	T156	Joan Chandos Baez was born in America.	E	T156_mod_1	Joan Chandos Baez was born in America.	C
+0	IA1	T201	Flaming June was made in England	C	T201_mod_2	Flaming June was made in England	E
+0	IA2	T156	Joan Chandos Baez was signed to Vanguard in 1957.	C	T156_mod_2	Joan Chandos Baez was signed to Vanguard in 1957.	E
+0	IA2	T156	Joan Baez has been performing for over 50 years.	E	T156_mod_3	Joan Baez has been performing for over 50 years.	C
+0	IA2	T201	The painting Flaming June is located in Puerto Rico.	E	T201_mod_3	The painting Flaming June is located in Puerto Rico.	C
+0	IA1	T201	The painting Flaming June uses watercolor as its medium.	C	T201_mod_4	The painting Flaming June uses watercolor as its medium.	E
+0	IA0	T156	Joan Baez was born on the east coast of the USA.	E	T156_mod_4	Joan Baez was born on the east coast of the USA.	C
+0	IA0	T201	Flaming June is a painting that is a perfect square.	E	T201_mod_5	Flaming June is a painting that is a perfect square.	C
+0	IA0	T156	Joan Baez has been playing music since the 1970s.	C	T156_mod_5	Joan Baez has been playing music since the 1970s.	E
+0	IA0	T201	The sides of Museo de Arte de Ponce measure over four feet long each.	C	T201_mod_6	The sides of Museo de Arte de Ponce measure over four feet long each.	E
+0	IA0	T1870	Invisible Touch was released in the Summer of 1986.	E	T1870_mod_1	Invisible Touch was released in the Summer of 1986.	C
+0	IA2	T202	Janggi is a game that is from Korea.	E	T202_mod_1	Janggi is a game that is from Korea.	C
+0	IA0	T1870	Invisible Touch has a run time over an hour long.	C	T1870_mod_2	Invisible Touch has a run time over an hour long.	E
+0	IA0	T202	The game Janggi has a lot of random chance in it.	C	T202_mod_2	The game Janggi has a lot of random chance in it.	E
+0	IA2	T1870	Invisible touch was a music album produced by Genesis.	E	T1870_mod_3	Invisible touch was a music album produced by Genesis.	C
+0	IA0	T202	It could take multiple days to play a game of Janggi.	C	T202_mod_3	It could take multiple days to play a game of Janggi.	E
+0	IA1	T1870	Invisible touch was recorded in 1989.	C	T1870_mod_4	Invisible touch was recorded in 1989.	E
+0	IA2	T202	Janggi is a game that may last a very long time.	E	T202_mod_4	Janggi is a game that may last a very long time.	C
+0	IA0	T1870	Invisible Touch is an album that came out in the summer of 1986.	E	T1870_mod_5	Invisible Touch is an album that came out in the summer of 1986.	C
+0	IA2	T202	Success in Janggi is based entirely on chance.	C	T202_mod_5	Success in Janggi is based entirely on chance.	E
+0	IA0	T1870	Invisible Touch was over an hour in length.	C	T1870_mod_6	Invisible Touch was over an hour in length.	E
+0	IA2	T204	Bruce Lee was known for his fighting skills.	E	T204_mod_1	Bruce Lee was known for his fighting skills.	C
+0	IA2	T1870	Invisible Touch is a rock album recorded and released over a two year period.	E	T1870_mod_7	Invisible Touch is a rock album recorded and released over a two year period.	C
+0	IA0	T204	Bruce lee was born in China.	C	T204_mod_2	Bruce lee was born in China.	E
+0	IA2	T1870	Invisible Touch was produced in America.	C	T1870_mod_8	Invisible Touch was produced in America.	E
+0	IA2	T204	Bruce Lee was active in his career for over 30 years.	E	T204_mod_3	Bruce Lee was active in his career for over 30 years.	C
+0	IA0	T1870	Invisible Touch came out in 1986.	E	T1870_mod_9	Invisible Touch came out in 1986.	C
+0	IA0	T204	Bruce Lee was born in the Summer of 1940.	C	T204_mod_4	Bruce Lee was born in the Summer of 1940.	E
+0	IA2	T204	Bruce Lee was a Martial artist.	E	T204_mod_5	Bruce Lee was a Martial artist.	C
+0	IA2	T1870	Invisible Touch was non a pop rock hit.	C	T1870_mod_10	Invisible Touch was non a pop rock hit.	E
+0	IA1	T1870	Invisible Touch was released in 1986.	E	T1870_mod_11	Invisible Touch was released in 1986.	C
+0	IA2	T204	Bruce Lee was a Tennis player.	C	T204_mod_6	Bruce Lee was a Tennis player.	E
+0	IA2	T1870	Invisible Touch is in the jazz genre.	C	T1870_mod_12	Invisible Touch is in the jazz genre.	E
+0	IA0	T205	Saint Joan of Arc was canonized in 1939.	C	T205_mod_1	Saint Joan of Arc was canonized in 1939.	E
+0	IA2	T158	There was a dog in the White House when Franklin D. Roosevelt was president.	E	T158_mod_1	There was a dog in the White House when Franklin D. Roosevelt was president.	C
+0	IA0	T205	Saint Joan of Arc was from France.	E	T205_mod_2	Saint Joan of Arc was from France.	C
+0	IA1	T205	Saint Joan of Arc passed away when they were 25 years old.	C	T205_mod_3	Saint Joan of Arc passed away when they were 25 years old.	E
+0	IA0	T158	Fala was born in the Spring of 1940.	E	T158_mod_2	Fala was born in the Spring of 1940.	C
+0	IA0	T205	Saint Joan of Arc was born early in the 15th century.	E	T205_mod_4	Saint Joan of Arc was born early in the 15th century.	C
+0	IA2	T158	Fala died in the Fall of 1952.	C	T158_mod_3	Fala died in the Fall of 1952.	E
+0	IA1	T205	Saint Joan of Arc died in her twenties.	C	T205_mod_5	Saint Joan of Arc died in her twenties.	E
+0	IA2	T208	Jamie Dornan was born in a country that is part of the United Kingdom.	E	T208_mod_1	Jamie Dornan was born in a country that is part of the United Kingdom.	C
+0	IA0	T158	The dog Fala passed away at 15 years old.	C	T158_mod_4	The dog Fala passed away at 15 years old.	E
+0	IA1	T159	Kees Schouhamer Immink was born in the 20th century.	E	T159_mod_1	Kees Schouhamer Immink was born in the 20th century.	C
+0	IA2	T208	Jamie Dornan married Amelia Warner before starting his career in entertainment.	C	T208_mod_2	Jamie Dornan married Amelia Warner before starting his career in entertainment.	E
+0	IA2	T159	Kees Schouhamer Immink was born in the 17th century.	C	T159_mod_2	Kees Schouhamer Immink was born in the 17th century.	E
+0	IA2	T208	Jamie Dornan resides in Great Britian.	E	T208_mod_3	Jamie Dornan resides in Great Britian.	C
+0	IA0	T159	Kees Schouhamer Immink resides in the same country he resides.	E	T159_mod_3	Kees Schouhamer Immink resides in the same country he resides.	C
+0	IA0	T208	Jamie Dornan is a baby boomer.	C	T208_mod_4	Jamie Dornan is a baby boomer.	E
+0	IA0	T159	Kees Schouhamer Immink was born in the capital of Netherlands.	C	T159_mod_4	Kees Schouhamer Immink was born in the capital of Netherlands.	E
+0	IA2	T208	Jamie Dornan has been married for about 10 years.	C	T208_mod_5	Jamie Dornan has been married for about 10 years.	E
+0	IA0	T159	Kees Schouhamer Immink was born in Netherlands	E	T159_mod_5	Kees Schouhamer Immink was born in Netherlands	C
+0	IA2	T452	The movie Chips was releases first in Asia.	E	T452_mod_1	The movie Chips was releases first in Asia.	C
+0	IA0	T159	Kees Schouhamer Immink never won any medals	C	T159_mod_6	Kees Schouhamer Immink never won any medals	E
+0	IA0	T452	CHiPs was released during the summer.	C	T452_mod_2	CHiPs was released during the summer.	E
+0	IA1	T160	Fairport Convention is a rock band that formed in the 1970s.	E	T160_mod_1	Fairport Convention is a rock band that formed in the 1970s.	C
+0	IA1	T452	The movie was first released at the TCL Chinese Theatre before it was released to other theaters throughout the US.	E	T452_mod_3	The movie was first released at the TCL Chinese Theatre before it was released to other theaters throughout the US.	C
+0	IA2	T160	The band Fairport Convention is known for heavy rock.	C	T160_mod_2	The band Fairport Convention is known for heavy rock.	E
+0	IA2	T452	The movie was based on a book by Dax Shepard.	C	T452_mod_4	The movie was based on a book by Dax Shepard.	E
+0	IA1	T160	Fairport Convention has been a band for more than 45 years total.	E	T160_mod_3	Fairport Convention has been a band for more than 45 years total.	C
+0	IA0	T452	Chips was released in the spring of 2017.	E	T452_mod_5	Chips was released in the spring of 2017.	C
+0	IA2	T160	Fairport Convention was originally known as Fairport Featuring Dave Swarbrick.	C	T160_mod_4	Fairport Convention was originally known as Fairport Featuring Dave Swarbrick.	E
+0	IA0	T452	Chips made less money at the box office than it cost to be made.	C	T452_mod_6	Chips made less money at the box office than it cost to be made.	E
+0	IA0	T452	Chips was able to make a profit in theaters.	E	T452_mod_7	Chips was able to make a profit in theaters.	C
+0	IA0	T160	Fairport Convention has recorded on over 5 record labels.	E	T160_mod_5	Fairport Convention has recorded on over 5 record labels.	C
+0	IA0	T160	Fairport Convention had a concert tour in 1982.	C	T160_mod_6	Fairport Convention had a concert tour in 1982.	E
+0	IA0	T452	The film Chips was over two hours long.	C	T452_mod_8	The film Chips was over two hours long.	E
+0	IA2	T452	Chips was written and directed by Dax Shepard.	E	T452_mod_9	Chips was written and directed by Dax Shepard.	C
+0	IA1	T161	Caesar was born right at the end of the 19th century.	E	T161_mod_1	Caesar was born right at the end of the 19th century.	C
+0	IA0	T452	Chips, directed by Dax Shepard, was released to TCL Chinese Theatre in its general American release.	C	T452_mod_10	Chips, directed by Dax Shepard, was released to TCL Chinese Theatre in its general American release.	E
+0	IA1	T161	Caesar died in the middle of the 20th century.	C	T161_mod_2	Caesar died in the middle of the 20th century.	E
+0	IA2	T452	Chips is an American Hollywood film	E	T452_mod_11	Chips is an American Hollywood film	C
+0	IA0	T161	King Edward VII had a dog from Ireland.	E	T161_mod_3	King Edward VII had a dog from Ireland.	C
+0	IA0	T161	Caesar was of mixed breeds.	C	T161_mod_4	Caesar was of mixed breeds.	E
+0	IA2	T452	Chips was a very profitable movie.	C	T452_mod_12	Chips was a very profitable movie.	E
+0	IA0	T161	Caesar was a royal dog.	E	T161_mod_5	Caesar was a royal dog.	C
+0	IA0	T211	Kase-san originally ran for about 6.5 years.	E	T211_mod_1	Kase-san originally ran for about 6.5 years.	C
+0	IA0	T211	There are more than 5 volumes of Kase-san.	C	T211_mod_2	There are more than 5 volumes of Kase-san.	E
+0	IA0	T161	Caesar was a rottweiler.	C	T161_mod_6	Caesar was a rottweiler.	E
+0	IA1	T211	Kase-san has five different books that make up the series.	E	T211_mod_3	Kase-san has five different books that make up the series.	C
+0	IA1	T163	James T. Russell was born in the Pacific northwest area of U.S.	E	T163_mod_1	James T. Russell was born in the Pacific northwest area of U.S.	C
+0	IA2	T163	James T. Russell died before reaching the age of 80.	C	T163_mod_2	James T. Russell died before reaching the age of 80.	E
+0	IA0	T163	James T. Russell went to college in the U.S.	E	T163_mod_3	James T. Russell went to college in the U.S.	C
+0	IA1	T211	Kase-san had an original production run of over six years.	E	T211_mod_4	Kase-san had an original production run of over six years.	C
+0	IA2	T211	Kase-san was written and published only in the Japanese language.	C	T211_mod_5	Kase-san was written and published only in the Japanese language.	E
+0	IA0	T163	James T. Russell's exact birth date is not known.	E	T163_mod_4	James T. Russell's exact birth date is not known.	C
+0	IA1	T163	James T. Russell invented the compact disc in the first quarter of the 20th century.	C	T163_mod_5	James T. Russell invented the compact disc in the first quarter of the 20th century.	E
+0	IA0	T1976	It involved the BMG label.	E	T1976_mod_1	It involved the BMG label.	C
+0	IA0	T212	Justin Trudeau has been prime minister for over five years.	E	T212_mod_1	Justin Trudeau has been prime minister for over five years.	C
+0	IA0	T212	Bob Rae assumed office after Justi Trudeau.	C	T212_mod_2	Bob Rae assumed office after Justi Trudeau.	E
+0	IA2	T1976	Hollywood Undead has made music on 5 or more music labels.	E	T1976_mod_2	Hollywood Undead has made music on 5 or more music labels.	C
+0	IA0	T1976	Hollywood Undead has been active for over 20 years.	C	T1976_mod_3	Hollywood Undead has been active for over 20 years.	E
+0	IA2	T212	Justin Trudeau is currently in office.	E	T212_mod_3	Justin Trudeau is currently in office.	C
+0	IA2	T1976	Hollywood Undead is a band from the west coast of the USA.	E	T1976_mod_4	Hollywood Undead is a band from the west coast of the USA.	C
+0	IA1	T212	Justin Trudeau assumed office in the Fall of 2013.	C	T212_mod_4	Justin Trudeau assumed office in the Fall of 2013.	E
+0	IA2	T1976	The band Hollywood Undead has been signed by Sony Records.	C	T1976_mod_5	The band Hollywood Undead has been signed by Sony Records.	E
+0	IA2	T212	Justin Trudeau took office in the spring of 2013.	E	T212_mod_5	Justin Trudeau took office in the spring of 2013.	C
+0	IA2	T165	Charles Stark Draper won the Magellanic Premium award before he won the Heritage Award.	E	T165_mod_1	Charles Stark Draper won the Magellanic Premium award before he won the Heritage Award.	C
+0	IA0	T212	Justin Trudeau will be replaced by Bob Rae.	C	T212_mod_6	Justin Trudeau will be replaced by Bob Rae.	E
+0	IA1	T165	Charles Stark Draper died in the Winter of 1987.	C	T165_mod_2	Charles Stark Draper died in the Winter of 1987.	E
+0	IA0	T213	John McCain was in office in 2004.	E	T213_mod_1	John McCain was in office in 2004.	C
+0	IA2	T165	Charles Stark Draper immigrated to the United States.	C	T165_mod_3	Charles Stark Draper immigrated to the United States.	E
+0	IA0	T213	John McCain was preceded by Ted Stevens.	C	T213_mod_2	John McCain was preceded by Ted Stevens.	E
+0	IA2	T213	John McCain wound up leaving office in 2005.	E	T213_mod_3	John McCain wound up leaving office in 2005.	C
+0	IA0	T165	Charles Stark Draper passed away in New England.	E	T165_mod_4	Charles Stark Draper passed away in New England.	C
+0	IA2	T213	John McCain first entered office in 2001.	C	T213_mod_4	John McCain first entered office in 2001.	E
+0	IA2	T1793	The run time for In the Aeroplane Over the Sea is shorter than an hour.	E	T1793_mod_1	The run time for In the Aeroplane Over the Sea is shorter than an hour.	C
+0	IA0	T213	According to this chart, John McCain was first in office late in the 20th century.	E	T213_mod_5	According to this chart, John McCain was first in office late in the 20th century.	C
+0	IA2	T1793	It took over six months to record In the Aeroplane Over the Sea.	C	T1793_mod_2	It took over six months to record In the Aeroplane Over the Sea.	E
+0	IA2	T214	Kas was introduced in the middle part of the 20th century.	E	T214_mod_1	Kas was introduced in the middle part of the 20th century.	C
+0	IA2	T1793	In the Aeroplane Over the Sea is under 45 minutes long.	E	T1793_mod_3	In the Aeroplane Over the Sea is under 45 minutes long.	C
+0	IA0	T214	There were more than two variants of Kas.	C	T214_mod_2	There were more than two variants of Kas.	E
+0	IA0	T1793	In the Aeroplane Over the Sea is an album that was released in the late 1990s.	E	T1793_mod_4	In the Aeroplane Over the Sea is an album that was released in the late 1990s.	C
+0	IA1	T214	Kas is a Spanish soft drink brand produced by Pepsico	E	T214_mod_3	Kas is a Spanish soft drink brand produced by Pepsico	C
+0	IA2	T214	Kas primarily sells Pepsi Cola under its own brand name	C	T214_mod_4	Kas primarily sells Pepsi Cola under its own brand name	E
+0	IA0	T1793	The album In the Aeroplane Over the Sea is over an hour long.	C	T1793_mod_5	The album In the Aeroplane Over the Sea is over an hour long.	E
+0	IA2	T214	Kas Fruit originated in Europe.	E	T214_mod_5	Kas Fruit originated in Europe.	C
+0	IA1	T169	Felix Wankel has practiced at more than one institution.	E	T169_mod_1	Felix Wankel has practiced at more than one institution.	C
+0	IA0	T214	Kas is only twenty years old.	C	T214_mod_6	Kas is only twenty years old.	E
+0	IA0	T169	Felix Wankel was born in the Summer of 1902.	E	T169_mod_2	Felix Wankel was born in the Summer of 1902.	C
+0	IA0	T216	Jim Nabors was born in the Summer of 1930.	E	T216_mod_1	Jim Nabors was born in the Summer of 1930.	C
+0	IA1	T169	Felix Wankel died in the Spring of 1988.	C	T169_mod_3	Felix Wankel died in the Spring of 1988.	E
+0	IA2	T169	Felix Wankel died in Europe	E	T169_mod_4	Felix Wankel died in Europe	C
+0	IA0	T169	Felix Wankel had a career in the arts.	C	T169_mod_5	Felix Wankel had a career in the arts.	E
+0	IA2	T216	Jim Nabors was active for over 65 years.	C	T216_mod_2	Jim Nabors was active for over 65 years.	E
+0	IA1	T170	Robert Lang Studios resides in the Pacific Northwest.	E	T170_mod_1	Robert Lang Studios resides in the Pacific Northwest.	C
+0	IA0	T216	Jim Nabors made his debut in 1954.	E	T216_mod_3	Jim Nabors made his debut in 1954.	C
+0	IA2	T170	Robert Lang Studios went out of business in 1993.	C	T170_mod_2	Robert Lang Studios went out of business in 1993.	E
+0	IA1	T216	Jim Nabors was 6 feet 2 inches tall.	C	T216_mod_4	Jim Nabors was 6 feet 2 inches tall.	E
+0	IA2	T170	Foo Fighters was released in the Summer of 1995.	E	T170_mod_3	Foo Fighters was released in the Summer of 1995.	C
+0	IA2	T216	Jim Nabors has been married since 2010.	C	T216_mod_5	Jim Nabors has been married since 2010.	E
+0	IA2	T170	It would take over an hour to listen to Foo Fighters the album.	C	T170_mod_4	It would take over an hour to listen to Foo Fighters the album.	E
+0	IA0	T170	Foo Fighters released a self-titled album in the summer of 1995.	E	T170_mod_5	Foo Fighters released a self-titled album in the summer of 1995.	C
+0	IA0	T217	Jonathan Tweet went to St. Olaf College for school.	E	T217_mod_1	Jonathan Tweet went to St. Olaf College for school.	C
+0	IA1	T170	Foo Fighters album is less than 40 minutes long.	C	T170_mod_6	Foo Fighters album is less than 40 minutes long.	E
+0	IA1	T217	Jonathan Tweet was born in California.	C	T217_mod_2	Jonathan Tweet was born in California.	E
+0	IA2	T171	Eugene Polley was born in the late Fall of 1915.	E	T171_mod_1	Eugene Polley was born in the late Fall of 1915.	C
+0	IA2	T217	Jonathan Tweet lives in the Northwest.	E	T217_mod_3	Jonathan Tweet lives in the Northwest.	C
+0	IA0	T171	Eugene Polley won dozens of awards in his lifetime.	C	T171_mod_2	Eugene Polley won dozens of awards in his lifetime.	E
+0	IA0	T171	Eugene Polley received his degree in the Midwest.	E	T171_mod_3	Eugene Polley received his degree in the Midwest.	C
+0	IA0	T217	Jonathan Tweet was born in the first half of the 20th century.	C	T217_mod_4	Jonathan Tweet was born in the first half of the 20th century.	E
+0	IA0	T171	Eugene Polley worked at Zenith Electronics until his death.	C	T171_mod_4	Eugene Polley worked at Zenith Electronics until his death.	E
+0	IA2	T217	He is a game designer.	E	T217_mod_5	He is a game designer.	C
+0	IA2	T217	He doesn? have children.	C	T217_mod_6	He doesn? have children.	E
+0	IA2	T217	Jonathan Tweet resides in a different state than he was born.	E	T217_mod_7	Jonathan Tweet resides in a different state than he was born.	C
+0	IA2	T217	Tessa Tweet is Jonathan Tweet's wife.	C	T217_mod_8	Tessa Tweet is Jonathan Tweet's wife.	E
+0	IA1	T219	The Foo Fighters have been active for over 20 years.	E	T219_mod_1	The Foo Fighters have been active for over 20 years.	C
+0	IA2	T219	The Foo Fighters were formed in the second to last decade of the 20th century.	C	T219_mod_2	The Foo Fighters were formed in the second to last decade of the 20th century.	E
+0	IA2	T171	Eugene Polley was born in the winter of 1915.	E	T171_mod_5	Eugene Polley was born in the winter of 1915.	C
+0	IA0	T219	Foo Fighters have been performing for over twenty years.	E	T219_mod_3	Foo Fighters have been performing for over twenty years.	C
+0	IA2	T219	Foo Fighters are from the capital of Washington state.	C	T219_mod_4	Foo Fighters are from the capital of Washington state.	E
+0	IA2	T219	The Foo Fighters alternate name was vulgar.	E	T219_mod_5	The Foo Fighters alternate name was vulgar.	C
+0	IA1	T173	During 1621, Guercino was never in Italy.	C	T173_mod_1	During 1621, Guercino was never in Italy.	E
+0	IA2	T219	The Foo Fighters were active in the 18th century.	C	T219_mod_6	The Foo Fighters were active in the 18th century.	E
+0	IA2	T173	Et in Arcadia ego is a painting that was done by Guercino.	E	T173_mod_2	Et in Arcadia ego is a painting that was done by Guercino.	C
+0	IA2	T221	Budapest has over three million people living in it's metro area.	E	T221_mod_1	Budapest has over three million people living in it's metro area.	C
+0	IA2	T173	The painting Et in Arcadia ego is kept in a museum in Sicily.	C	T173_mod_3	The painting Et in Arcadia ego is kept in a museum in Sicily.	E
+0	IA2	T221	Budapest does not rank in the top twenty most populated European Union cities.	C	T221_mod_2	Budapest does not rank in the top twenty most populated European Union cities.	E
+0	IA0	T173	Et in Arcadia ego was painted in the first quarter of the 17th century.	E	T173_mod_4	Et in Arcadia ego was painted in the first quarter of the 17th century.	C
+0	IA0	T221	Budapest is one of the 10 largest cities in the EU.	E	T221_mod_3	Budapest is one of the 10 largest cities in the EU.	C
+0	IA0	T221	Budapest never changes the time they use throughout the year.	C	T221_mod_4	Budapest never changes the time they use throughout the year.	E
+0	IA0	T173	At it's widest point, Et in Arcadia ego is 3.5 feet wide.	C	T173_mod_5	At it's widest point, Et in Arcadia ego is 3.5 feet wide.	E
+0	IA0	T221	Budapest is the largest city that is in Hungary.	E	T221_mod_5	Budapest is the largest city that is in Hungary.	C
+0	IA0	T175	Fences was released in the Winter of 2016.	E	T175_mod_1	Fences was released in the Winter of 2016.	C
+0	IA0	T221	Budapest is known for having a low HDI.	C	T221_mod_6	Budapest is known for having a low HDI.	E
+0	IA2	T175	Fences' run time is less than two hours long.	C	T175_mod_2	Fences' run time is less than two hours long.	E
+0	IA0	T222	Jawaharlal Nehru was in office for over 15 years.	E	T222_mod_1	Jawaharlal Nehru was in office for over 15 years.	C
+0	IA2	T175	Fences was produced by multiple companies.	E	T175_mod_3	Fences was produced by multiple companies.	C
+0	IA2	T175	Fences was produced by a single company.	C	T175_mod_4	Fences was produced by a single company.	E
+0	IA1	T175	Fences had a budget over twenty million dollars.	E	T175_mod_5	Fences had a budget over twenty million dollars.	C
+0	IA2	T222	The Earl Mountbatten of Burma Chakravarti Rajagopalachari was Governor General until the Fall of 1950.	C	T222_mod_2	The Earl Mountbatten of Burma Chakravarti Rajagopalachari was Governor General until the Fall of 1950.	E
+0	IA0	T175	The director of Fences did not star in the film.	C	T175_mod_6	The director of Fences did not star in the film.	E
+0	IA1	T222	Jawaharlal Nehru was proceeded by Gulzarilal Nanda.	C	T222_mod_3	Jawaharlal Nehru was proceeded by Gulzarilal Nanda.	E
+0	IA0	T177	The Republic of Estonia had their independence recognized before the start of the second world war.	E	T177_mod_1	The Republic of Estonia had their independence recognized before the start of the second world war.	C
+0	IA0	T222	Jawaharlal Nehru left office during the spring season.	E	T222_mod_4	Jawaharlal Nehru left office during the spring season.	C
+0	IA2	T177	Estonia first declared independence in the summer of 1917.	C	T177_mod_2	Estonia first declared independence in the summer of 1917.	E
+0	IA0	T222	Jawaharlal Nehru took over the position from Rajendra Prasad.	C	T222_mod_5	Jawaharlal Nehru took over the position from Rajendra Prasad.	E
+0	IA1	T223	Jhen? Aiko has been active in music for over 15 years.	E	T223_mod_1	Jhen? Aiko has been active in music for over 15 years.	C
+0	IA1	T177	The Republic of Estonia first declared independence in the first quarter of the 20th century.	E	T177_mod_3	The Republic of Estonia first declared independence in the first quarter of the 20th century.	C
+0	IA0	T223	Jhen? Aiko was born in the Fall of 1988.	C	T223_mod_2	Jhen? Aiko was born in the Fall of 1988.	E
+0	IA0	T177	The Republic of Estonia's independence was restored in the first half of the 20th century.	C	T177_mod_4	The Republic of Estonia's independence was restored in the first half of the 20th century.	E
+0	IA0	T223	Jhen? Aiko has been signed to over three different music labels.	E	T223_mod_3	Jhen? Aiko has been signed to over three different music labels.	C
+0	IA0	T177	The Republic of Estonia was originally created in the spring of 1917.	E	T177_mod_5	The Republic of Estonia was originally created in the spring of 1917.	C
+0	IA0	T223	Jhen? Aiko was born in the capital of California.	C	T223_mod_4	Jhen? Aiko was born in the capital of California.	E
+0	IA2	T177	The Republic of Estonia has never joined the European Union	C	T177_mod_6	The Republic of Estonia has never joined the European Union	E
+0	IA2	T2026	Hotel California is an album that was released in 1976.	E	T2026_mod_1	Hotel California is an album that was released in 1976.	C
+0	IA0	T2026	Hotel California is known for being a jazz album.	C	T2026_mod_2	Hotel California is known for being a jazz album.	E
+0	IA2	T2026	The album Hotel California is less than 45 minutes.	E	T2026_mod_3	The album Hotel California is less than 45 minutes.	C
+0	IA0	T2026	After its recording, the album Hotel California was held for 6 months prior to release.	C	T2026_mod_4	After its recording, the album Hotel California was held for 6 months prior to release.	E
+0	IA2	T2026	It took a whole year to record Hotel California.	C	T2026_mod_5	It took a whole year to record Hotel California.	E
+0	IA2	T2026	Hotel California was recorded and released in the same calendar year.	E	T2026_mod_6	Hotel California was recorded and released in the same calendar year.	C
+0	IA2	T2026	Hotel California was recorded in three studios.	C	T2026_mod_7	Hotel California was recorded in three studios.	E
+0	IA2	T223	She is a singer.	E	T223_mod_5	She is a singer.	C
+0	IA2	T223	She was with Bad Boy Records.	C	T223_mod_6	She was with Bad Boy Records.	E
+0	IA2	T2026	Hotel California is under the asylum record label.	E	T2026_mod_8	Hotel California is under the asylum record label.	C
+0	IA0	T2026	Hotel California is a pop song.	C	T2026_mod_9	Hotel California is a pop song.	E
+0	IA0	T223	Jhen? Aiko was born in the spring of 1988.	E	T223_mod_7	Jhen? Aiko was born in the spring of 1988.	C
+0	IA2	T223	The musician Jhen? Aiko has been associated with 50 cent.	C	T223_mod_8	The musician Jhen? Aiko has been associated with 50 cent.	E
+0	IA0	T2026	Hotel California was released in 1976.	E	T2026_mod_10	Hotel California was released in 1976.	C
+0	IA0	T1974	Ho Chi Minh City has a population density of over 10,000 per square mile.	E	T1974_mod_1	Ho Chi Minh City has a population density of over 10,000 per square mile.	C
+0	IA0	T2026	Hotel California is in the country music genre.	C	T2026_mod_11	Hotel California is in the country music genre.	E
+0	IA2	T1974	Ho Chi Minh City is home to fewer than 7 million people.	C	T1974_mod_2	Ho Chi Minh City is home to fewer than 7 million people.	E
+0	IA2	T1974	Ho Chi Minh City has over 8 million people that live in it.	E	T1974_mod_3	Ho Chi Minh City has over 8 million people that live in it.	C
+0	IA0	T180	John Phillips is known for playing folk music.	E	T180_mod_1	John Phillips is known for playing folk music.	C
+0	IA1	T1974	Ho Chi Minh City has over eight million people.	E	T1974_mod_4	Ho Chi Minh City has over eight million people.	C
+0	IA0	T180	John Phillips was active in 1970.	E	T180_mod_2	John Phillips was active in 1970.	C
+0	IA0	T180	John Phillips died in his 50's.	C	T180_mod_3	John Phillips died in his 50's.	E
+0	IA1	T180	John Phillips made music for over 50 years.	E	T180_mod_4	John Phillips made music for over 50 years.	C
+0	IA2	T316	Christ Crucified can be seen at a museum in Europe.	E	T316_mod_1	Christ Crucified can be seen at a museum in Europe.	C
+0	IA1	T180	John Phillips died in the Fall of 2001.	C	T180_mod_5	John Phillips died in the Fall of 2001.	E
+0	IA2	T316	Christ Crucified was painted in the 14th century.	C	T316_mod_2	Christ Crucified was painted in the 14th century.	E
+0	IA2	T316	Christ Crucified was painted in the 17th century.	E	T316_mod_3	Christ Crucified was painted in the 17th century.	C
+0	IA0	T181	Justice got its start in the US.	C	T181_mod_1	Justice got its start in the US.	E
+0	IA2	T316	Christ Crucified was painted in the 18th century.	C	T316_mod_4	Christ Crucified was painted in the 18th century.	E
+0	IA0	T181	Justice has performed music for over fifteen years.	E	T181_mod_2	Justice has performed music for over fifteen years.	C
+0	IA1	T316	Christ Crucified was painted in the 17th century.	E	T316_mod_5	Christ Crucified was painted in the 17th century.	C
+0	IA0	T316	The shorter side of Christ Crucified is shorter than 5 feet long.	C	T316_mod_6	The shorter side of Christ Crucified is shorter than 5 feet long.	E
+0	IA0	T181	Justice is known for punk music.	C	T181_mod_3	Justice is known for punk music.	E
+0	IA1	T181	Justice was formed early in the 21st century.	E	T181_mod_4	Justice was formed early in the 21st century.	C
+0	IA0	T316	Christ Crucified is located in a Spanish museum.	E	T316_mod_7	Christ Crucified is located in a Spanish museum.	C
+0	IA2	T181	Justice has made music on more than seven music labels.	C	T181_mod_5	Justice has made music on more than seven music labels.	E
+0	IA0	T316	Christ Crucified took more than a year to complete.	C	T316_mod_8	Christ Crucified took more than a year to complete.	E
+0	IA0	T182	Boy George was an Englishman.	E	T182_mod_1	Boy George was an Englishman.	C
+0	IA1	T182	Boy George retired in 1985.	C	T182_mod_2	Boy George retired in 1985.	E
+0	IA0	T182	Boy George was a member of the Culture Club.	E	T182_mod_3	Boy George was a member of the Culture Club.	C
+0	IA1	T182	Boy George is from Canada.	C	T182_mod_4	Boy George is from Canada.	E
+0	IA2	T182	Boy George originally started performing in the United Kingdom.	E	T182_mod_5	Boy George originally started performing in the United Kingdom.	C
+0	IA2	T316	'Christ Crucified' was painted by Diego Vel‡zquez in 1632.	E	T316_mod_9	'Christ Crucified' was painted by Diego Vel‡zquez in 1632.	C
+0	IA2	T182	Boy George has retired from singing and performing.	C	T182_mod_6	Boy George has retired from singing and performing.	E
+0	IA2	T316	Diego Vel‡zquez' 1632 painting is in a private collection.	C	T316_mod_10	Diego Vel‡zquez' 1632 painting is in a private collection.	E
+0	IA0	T183	Iron Man 3 made a billion dollars over it's budget.	E	T183_mod_1	Iron Man 3 made a billion dollars over it's budget.	C
+0	IA2	T316	Diego Vel‡zquez painted Christ Crucified in the first half of the 17th Century.	E	T316_mod_11	Diego Vel‡zquez painted Christ Crucified in the first half of the 17th Century.	C
+0	IA0	T183	Iron Man 3's run time is under two hours long.	C	T183_mod_2	Iron Man 3's run time is under two hours long.	E
+0	IA0	T316	Christ Crucified is currently located in northern Europe.	C	T316_mod_12	Christ Crucified is currently located in northern Europe.	E
+0	IA2	T183	Iron Man 3 is an action movie based on the comic character Iron Man from Marvel Comics	E	T183_mod_3	Iron Man 3 is an action movie based on the comic character Iron Man from Marvel Comics	C
+0	IA0	T227	Home Alone was released in the Late Fall of 1990.	E	T227_mod_1	Home Alone was released in the Late Fall of 1990.	C
+0	IA0	T227	Home Alone did over half a billion dollars more at the box office than it's budget of 18 million.	C	T227_mod_2	Home Alone did over half a billion dollars more at the box office than it's budget of 18 million.	E
+0	IA2	T183	Iron Man 3 made over one billion dollars at the box office.	E	T183_mod_4	Iron Man 3 made over one billion dollars at the box office.	C
+0	IA2	T227	Macaulay Caulkin was the star.	E	T227_mod_3	Macaulay Caulkin was the star.	C
+0	IA2	T183	Iron Man 3 was produced and distributed by the same company.	C	T183_mod_5	Iron Man 3 was produced and distributed by the same company.	E
+0	IA2	T227	This was an independent film.	C	T227_mod_4	This was an independent film.	E
+0	IA0	T227	Home Alone was produced and written by the same person.	E	T227_mod_5	Home Alone was produced and written by the same person.	C
+0	IA2	T184	Hip, Hip, Hurrah! is located in France.	C	T184_mod_1	Hip, Hip, Hurrah! is located in France.	E
+0	IA2	T227	Home Alone was released in the summer of 1990.	C	T227_mod_6	Home Alone was released in the summer of 1990.	E
+0	IA2	T184	The painting is located in a private collection.	C	T184_mod_2	The painting is located in a private collection.	E
+0	IA0	T184	The painting would fit in the palm of your hand.	C	T184_mod_3	The painting would fit in the palm of your hand.	E
+0	IA1	T185	The Far East Movement first started in California.	E	T185_mod_1	The Far East Movement first started in California.	C
+0	IA2	T185	Rock is the primary genre of the Far East Movement.	C	T185_mod_2	Rock is the primary genre of the Far East Movement.	E
+0	IA2	T185	Far East Movement has been an active music group for over 15 years.	E	T185_mod_3	Far East Movement has been an active music group for over 15 years.	C
+0	IA2	T185	The Far East Movement only has a few acts associated with it.	C	T185_mod_4	The Far East Movement only has a few acts associated with it.	E
+0	IA2	T185	Far East Movement have been performing music for over fifteen years.	E	T185_mod_5	Far East Movement have been performing music for over fifteen years.	C
+0	IA0	T185	Far East Movement is known for making classical music.	C	T185_mod_6	Far East Movement is known for making classical music.	E
+0	IA0	T227	Home Alone wound up making over $400 million dollars at the box office.	E	T227_mod_7	Home Alone wound up making over $400 million dollars at the box office.	C
+0	IA0	T227	Home alone was released in the 1980s.	C	T227_mod_8	Home alone was released in the 1980s.	E
+0	IA2	T186	John Hurt was born in the Summer of 1940.	C	T186_mod_1	John Hurt was born in the Summer of 1940.	E
+0	IA0	T229	Eugen Baumann was born in Germany.	E	T229_mod_1	Eugen Baumann was born in Germany.	C
+0	IA1	T186	Sir John Hurt has less than five children.	E	T186_mod_2	Sir John Hurt has less than five children.	C
+0	IA0	T229	The scientist Eugen Baumann was known for nuclear research.	C	T229_mod_2	The scientist Eugen Baumann was known for nuclear research.	E
+0	IA0	T186	John Hurt died in a different country than he was born.	C	T186_mod_3	John Hurt died in a different country than he was born.	E
+0	IA0	T186	John Hart had more than one wife.	E	T186_mod_4	John Hart had more than one wife.	C
+0	IA2	T186	John Hart was active in his field from childhood.	C	T186_mod_5	John Hart was active in his field from childhood.	E
+0	IA2	T187	Haut-MŽdoc AOC has just under 400 vineyards.	E	T187_mod_1	Haut-MŽdoc AOC has just under 400 vineyards.	C
+0	IA2	T229	Eugen Baumann speaks German.	E	T229_mod_3	Eugen Baumann speaks German.	C
+0	IA1	T187	Haut-MŽdoc AOC was established late in the 20th century.	C	T187_mod_2	Haut-MŽdoc AOC was established late in the 20th century.	E
+0	IA0	T229	Eugen Baumann went to a university in the U.S.	C	T229_mod_4	Eugen Baumann went to a university in the U.S.	E
+0	IA0	T229	Eugen Baumann was born in the Winter of 1846.	E	T229_mod_5	Eugen Baumann was born in the Winter of 1846.	C
+0	IA1	T187	The wine region of France is over 10,000 acres in size.	E	T187_mod_3	The wine region of France is over 10,000 acres in size.	C
+0	IA0	T229	Eugen Baumann died in the Spring of 1896.	C	T229_mod_6	Eugen Baumann died in the Spring of 1896.	E
+0	IA2	T187	The wine region in France is known for being a dry, arid region.	C	T187_mod_4	The wine region in France is known for being a dry, arid region.	E
+0	IA2	T187	France produces more than 5 million gallons of wine every year from Haut-MŽdoc AOC alone	E	T187_mod_5	France produces more than 5 million gallons of wine every year from Haut-MŽdoc AOC alone	C
+0	IA0	T187	Haut-MŽdoc AOC is one of the oldest wine producing regions of France	C	T187_mod_6	Haut-MŽdoc AOC is one of the oldest wine producing regions of France	E
+0	IA0	T230	Evansville, Indiana is less than 50 square miles in size.	E	T230_mod_1	Evansville, Indiana is less than 50 square miles in size.	C
+0	IA2	T187	The climate was oceanic.	E	T187_mod_7	The climate was oceanic.	C
+0	IA2	T230	Evansville, Indiana has more water than dry land.	C	T230_mod_2	Evansville, Indiana has more water than dry land.	E
+0	IA0	T187	The area was small.	C	T187_mod_8	The area was small.	E
+0	IA1	T230	Evansville, Indiana's highest elevation is over 350 feet high.	E	T230_mod_3	Evansville, Indiana's highest elevation is over 350 feet high.	C
+0	IA2	T230	Evansville, Indiana has more than a square mile of water in it.	C	T230_mod_4	Evansville, Indiana has more than a square mile of water in it.	E
+0	IA0	T230	Evansville, Indiana is under 400 feet above sea level.	E	T230_mod_5	Evansville, Indiana is under 400 feet above sea level.	C
+0	IA1	T230	Evansville, Indiana has more land area than city.	C	T230_mod_6	Evansville, Indiana has more land area than city.	E
+0	IA1	T188	The film Insomnia made over 100 million dollars at the box office.	E	T188_mod_1	The film Insomnia made over 100 million dollars at the box office.	C
+0	IA0	T231	Bulleit Bourbon is produced in North America.	E	T231_mod_1	Bulleit Bourbon is produced in North America.	C
+0	IA0	T188	The film Insomnia came out in 2003.	C	T188_mod_2	The film Insomnia came out in 2003.	E
+0	IA1	T231	Bulleit Bourbon is less than 75 proof.	C	T231_mod_2	Bulleit Bourbon is less than 75 proof.	E
+0	IA0	T188	Multiple producers were involved in the production of Insomnia.	E	T188_mod_3	Multiple producers were involved in the production of Insomnia.	C
+0	IA0	T188	The budget for Insomnia was over $50 million.	C	T188_mod_4	The budget for Insomnia was over $50 million.	E
+0	IA2	T231	Bulleit Bourbon first appeared on the market at the end of the 20th century.	E	T231_mod_3	Bulleit Bourbon first appeared on the market at the end of the 20th century.	C
+0	IA2	T188	Insomnia was produced by at least one company.	E	T188_mod_5	Insomnia was produced by at least one company.	C
+0	IA1	T231	Bulleit Bourbon is over 50 percent alcohol by volume.	C	T231_mod_4	Bulleit Bourbon is over 50 percent alcohol by volume.	E
+0	IA2	T188	Insomnia's running time was less than 100 minutes.	C	T188_mod_6	Insomnia's running time was less than 100 minutes.	E
+0	IA0	T189	John Denver made music for about 35 years professionally.	E	T189_mod_1	John Denver made music for about 35 years professionally.	C
+0	IA0	T231	Bulleit Bourbon has been made since the late 1990s.	E	T231_mod_5	Bulleit Bourbon has been made since the late 1990s.	C
+0	IA0	T189	John Denver died in the Spring of 1997.	C	T189_mod_2	John Denver died in the Spring of 1997.	E
+0	IA0	T231	Bulleit Bourbon is known for having a proof of 120.	C	T231_mod_6	Bulleit Bourbon is known for having a proof of 120.	E
+0	IA2	T189	John Denver passed away when a plane crashed.	E	T189_mod_3	John Denver passed away when a plane crashed.	C
+0	IA2	T189	John Denver spent their time composing classical music.	C	T189_mod_4	John Denver spent their time composing classical music.	E
+0	IA2	T189	John Denver worked with many other singers over his career.	E	T189_mod_5	John Denver worked with many other singers over his career.	C
+0	IA1	T232	All told, James Gang was active in music for more than 20 years.	C	T232_mod_1	All told, James Gang was active in music for more than 20 years.	E
+0	IA0	T232	The James Gang was from the midwest.	E	T232_mod_2	The James Gang was from the midwest.	C
+0	IA0	T189	John Denver was active for less than 30 years.	C	T189_mod_6	John Denver was active for less than 30 years.	E
+0	IA1	T232	The James Gang was active in 2003.	C	T232_mod_3	The James Gang was active in 2003.	E
+0	IA1	T190	Chew was a comic that started being published in 2009.	E	T190_mod_1	Chew was a comic that started being published in 2009.	C
+0	IA2	T190	Chew has had only 20 issues released.	C	T190_mod_2	Chew has had only 20 issues released.	E
+0	IA0	T190	Chew is a comic series.	E	T190_mod_3	Chew is a comic series.	C
+0	IA0	T190	Chew has had over 100 issues.	C	T190_mod_4	Chew has had over 100 issues.	E
+0	IA0	T190	Chew was first published in the Summer of 2009.	E	T190_mod_5	Chew was first published in the Summer of 2009.	C
+0	IA0	T190	Chew was published for over 10 years.	C	T190_mod_6	Chew was published for over 10 years.	E
+0	IA0	T1769	In Rainbows was released over ten years ago.	E	T1769_mod_1	In Rainbows was released over ten years ago.	C
+0	IA2	T42	Everybody has a run time that is over an hour long.	E	T42_mod_1	Everybody has a run time that is over an hour long.	C
+0	IA2	T1769	In Rainbows is less than 40 minutes long.	C	T1769_mod_2	In Rainbows is less than 40 minutes long.	E
+0	IA0	T1769	It took over two years to record In Rainbows.	E	T1769_mod_3	It took over two years to record In Rainbows.	C
+0	IA0	T42	Everybody was released in the Fall of 2017.	C	T42_mod_2	Everybody was released in the Fall of 2017.	E
+0	IA0	T44	You can listen to the entire album in less than an hour.	E	T44_mod_1	You can listen to the entire album in less than an hour.	C
+0	IA0	T1769	The run time of In Rainbows is over an hour.	C	T1769_mod_4	The run time of In Rainbows is over an hour.	E
+0	IA0	T1769	In Rainbows was released a few weeks before Halloween.	E	T1769_mod_5	In Rainbows was released a few weeks before Halloween.	C
+0	IA1	T1769	In Rainbows was recorded in less than 60 days.	C	T1769_mod_6	In Rainbows was recorded in less than 60 days.	E
+0	IA0	T1769	In Rainbows was released in the same year it was recorded.	E	T1769_mod_7	In Rainbows was released in the same year it was recorded.	C
+0	IA0	T1769	Nigel Gorich didn't do work on the album In Rainbows.	C	T1769_mod_8	Nigel Gorich didn't do work on the album In Rainbows.	E
+0	IA2	T44	It took more than a year to record the album.	C	T44_mod_2	It took more than a year to record the album.	E
+0	IA1	T44	British Steel was released in the Spring of 1980.	E	T44_mod_3	British Steel was released in the Spring of 1980.	C
+0	IA0	T44	British Steel took over 6 months to record.	C	T44_mod_4	British Steel took over 6 months to record.	E
+0	IA2	T44	British Steel was released in spring of 1980.	E	T44_mod_5	British Steel was released in spring of 1980.	C
+0	IA0	T1769	In Rainbows is a rock/pop album produced by Nigel Godrich.	E	T1769_mod_9	In Rainbows is a rock/pop album produced by Nigel Godrich.	C
+0	IA0	T44	British Steel was recorded in the summer of 1980.	C	T44_mod_6	British Steel was recorded in the summer of 1980.	E
+0	IA1	T1769	In Rainbows was recorded in only four months.	C	T1769_mod_10	In Rainbows was recorded in only four months.	E
+0	IA2	T1769	In Rainbows was recorded for 2 years.	E	T1769_mod_11	In Rainbows was recorded for 2 years.	C
+0	IA0	T45	Jennette McCurdy was born in the Summer of 1992.	E	T45_mod_1	Jennette McCurdy was born in the Summer of 1992.	C
+0	IA2	T1769	In Rainbows was released in the summer of 2007.	C	T1769_mod_12	In Rainbows was released in the summer of 2007.	E
+0	IA2	T45	Jennette McCurdy has been active as a musician since she was 5 years old.	C	T45_mod_2	Jennette McCurdy has been active as a musician since she was 5 years old.	E
+0	IA1	T1	Brooklyn has a run time under two hours.	E	T1_mod_1	Brooklyn has a run time under two hours.	C
+0	IA0	T45	Jennette McCurdy plays a couple musical instruments and sings, as well.	E	T45_mod_3	Jennette McCurdy plays a couple musical instruments and sings, as well.	C
+0	IA0	T1	Brooklyn made less than 60 million dollars at the box office.	C	T1_mod_2	Brooklyn made less than 60 million dollars at the box office.	E
+0	IA2	T45	Jennette McCurdy was five years old when she began her musical career.	C	T45_mod_4	Jennette McCurdy was five years old when she began her musical career.	E
+0	IA0	T45	Jennette McCurdy was born on the west coast of the USA.	E	T45_mod_5	Jennette McCurdy was born on the west coast of the USA.	C
+0	IA0	T45	Jennette McCurdy is known for singing rap music.	C	T45_mod_6	Jennette McCurdy is known for singing rap music.	E
+0	IA0	T1	Brooklyn made about 50 million more at the box office than it's budget was.	E	T1_mod_3	Brooklyn made about 50 million more at the box office than it's budget was.	C
+0	IA2	T1	Brooklyn has a run time longer than two hours.	C	T1_mod_4	Brooklyn has a run time longer than two hours.	E
+0	IA2	T617	Christopher Polhem was born in Sweden.	E	T617_mod_1	Christopher Polhem was born in Sweden.	C
+0	IA0	T1	Brooklyn was an English film.	E	T1_mod_5	Brooklyn was an English film.	C
+0	IA1	T617	Christopher Polhem worked in the field of biology.	C	T617_mod_2	Christopher Polhem worked in the field of biology.	E
+0	IA0	T1	Brooklyn has a run-time of 120 minutes.	C	T1_mod_6	Brooklyn has a run-time of 120 minutes.	E
+0	IA2	T617	Christopher Polhem died in the middle of the 18th century.	E	T617_mod_3	Christopher Polhem died in the middle of the 18th century.	C
+0	IA2	T3	Raw hazelnuts contain fewer than 5 g of sugars per serving.	E	T3_mod_1	Raw hazelnuts contain fewer than 5 g of sugars per serving.	C
+0	IA0	T3	Raw hazelnuts contain more than 5 g of sugars per serving.	C	T3_mod_2	Raw hazelnuts contain more than 5 g of sugars per serving.	E
+0	IA0	T617	Christopher Polhem was born in the summer of 1661.	C	T617_mod_4	Christopher Polhem was born in the summer of 1661.	E
+0	IA0	T3	400 grams of filberts contain all the zinc a person needs in one day according to the USDA.	E	T3_mod_3	400 grams of filberts contain all the zinc a person needs in one day according to the USDA.	C
+0	IA0	T3	Hazelnuts are low in fat.	C	T3_mod_4	Hazelnuts are low in fat.	E
+0	IA0	T3	A bag of Hazelnuts has over 600 calories.	E	T3_mod_5	A bag of Hazelnuts has over 600 calories.	C
+0	IA0	T3	A bag of Hazelnuts is known for being very sweet.	C	T3_mod_6	A bag of Hazelnuts is known for being very sweet.	E
+0	IA0	T5	Charles Francis Jenkins has been awarded more than one medal.	E	T5_mod_1	Charles Francis Jenkins has been awarded more than one medal.	C
+0	IA2	T617	Christopher Polhem resides in Europe.	E	T617_mod_5	Christopher Polhem resides in Europe.	C
+0	IA2	T617	Christopher Polhem resides in the southern hemisphere.	C	T617_mod_6	Christopher Polhem resides in the southern hemisphere.	E
+0	IA0	T617	He was born in 1661	E	T617_mod_7	He was born in 1661	C
+0	IA0	T5	Charles Francis Jenkins was born in the 19th century.	E	T5_mod_2	Charles Francis Jenkins was born in the 19th century.	C
+0	IA1	T617	He is still alive	C	T617_mod_8	He is still alive	E
+0	IA0	T617	Christopher Polhem was a Swedish scientist.	E	T617_mod_9	Christopher Polhem was a Swedish scientist.	C
+0	IA0	T617	Polhem lived to be 100 years old and died in Denmark.	C	T617_mod_10	Polhem lived to be 100 years old and died in Denmark.	E
+0	IA1	T5	Charles Francis Jenkins never won any medals.	C	T5_mod_3	Charles Francis Jenkins never won any medals.	E
+0	IA0	T617	Christopher Polhem is born on 18 December 1661 at Tingst?de, Gotland, Sweden	E	T617_mod_11	Christopher Polhem is born on 18 December 1661 at Tingst?de, Gotland, Sweden	C
+0	IA2	T617	Christopher Polhem is born on 30 August 1751	C	T617_mod_12	Christopher Polhem is born on 30 August 1751	E
+0	IA0	T5	Charles Francis Jenkins received awards for his work in two different centuries.	E	T5_mod_4	Charles Francis Jenkins received awards for his work in two different centuries.	C
+0	IA0	T617	Christopher Polhem Died in the same country he was born in.	E	T617_mod_13	Christopher Polhem Died in the same country he was born in.	C
+0	IA0	T5	Charles Francis Jenkins died in the Fall of 1934.	C	T5_mod_5	Charles Francis Jenkins died in the Fall of 1934.	E
+0	IA0	T617	Christopher Polhem studied abroad in Sweden.	C	T617_mod_14	Christopher Polhem studied abroad in Sweden.	E
+0	IA0	T6	Kansas has been active as a band for over 45 years.	E	T6_mod_1	Kansas has been active as a band for over 45 years.	C
+0	IA0	T49	Channing Tatum was born in the spring of 1980.	E	T49_mod_1	Channing Tatum was born in the spring of 1980.	C
+0	IA0	T49	Channing Tatum was born outside of the US.	C	T49_mod_2	Channing Tatum was born outside of the US.	E
+0	IA0	T6	Kansas has made music on more than four record labels.	C	T6_mod_2	Kansas has made music on more than four record labels.	E
+0	IA0	T49	Channing Tatum grew up in Alabama.	E	T49_mod_3	Channing Tatum grew up in Alabama.	C
+0	IA0	T6	Kansas has been signed to multiple labels.	E	T6_mod_3	Kansas has been signed to multiple labels.	C
+0	IA0	T49	Channing Tatum has been acting for more than 30 years.	C	T49_mod_4	Channing Tatum has been acting for more than 30 years.	E
+0	IA1	T49	Channing Tatum has been acting for close to 20 years.	E	T49_mod_5	Channing Tatum has been acting for close to 20 years.	C
+0	IA2	T49	Channing Tatum was born in the Fall of 1980.	C	T49_mod_6	Channing Tatum was born in the Fall of 1980.	E
+0	IA2	T6	Kansas began activities before the seventies.	C	T6_mod_4	Kansas began activities before the seventies.	E
+0	IA0	T50	Jesse Plemons was born during the spring.	E	T50_mod_1	Jesse Plemons was born during the spring.	C
+0	IA0	T50	Jesse Plemons is engaged to a man.	C	T50_mod_2	Jesse Plemons is engaged to a man.	E
+0	IA0	T6	TheyÕre still together.	E	T6_mod_5	TheyÕre still together.	C
+0	IA0	T6	TheyÕre from Texas.	C	T6_mod_6	TheyÕre from Texas.	E
+0	IA1	T50	Jesse Plemons is planning to marry Kirsten Dunst.	E	T50_mod_3	Jesse Plemons is planning to marry Kirsten Dunst.	C
+0	IA2	T6	Kansas have been active for over thirty years.	E	T6_mod_7	Kansas have been active for over thirty years.	C
+0	IA0	T6	Kansas was formed on the west coast of the United States.	C	T6_mod_8	Kansas was formed on the west coast of the United States.	E
+0	IA2	T7	Flicker was released in the autumn of 2017	E	T7_mod_1	Flicker was released in the autumn of 2017	C
+0	IA2	T7	Flicker was a multi genre album with songs from rock, pop, Jazz, and another genres	C	T7_mod_2	Flicker was a multi genre album with songs from rock, pop, Jazz, and another genres	E
+0	IA2	T7	Flicker was released in the Fall of 2017.	E	T7_mod_3	Flicker was released in the Fall of 2017.	C
+0	IA2	T50	Jesse Plemons is over forty years old	C	T50_mod_4	Jesse Plemons is over forty years old	E
+0	IA2	T7	The time it takes to listen to Flicker is over an hour.	C	T7_mod_4	The time it takes to listen to Flicker is over an hour.	E
+0	IA0	T50	Jesse Plemons acted in comedy films.	E	T50_mod_5	Jesse Plemons acted in comedy films.	C
+0	IA0	T7	The Flicker album was recorded at multiple studios.	E	T7_mod_5	The Flicker album was recorded at multiple studios.	C
+0	IA2	T50	Jesse Plemons was a British actor.	C	T50_mod_6	Jesse Plemons was a British actor.	E
+0	IA0	T7	Flicker is less than a year old.	C	T7_mod_6	Flicker is less than a year old.	E
+0	IA0	T8	Jeffrey Dahmer was born in Wisconsin.	E	T8_mod_1	Jeffrey Dahmer was born in Wisconsin.	C
+0	IA0	T51	Jennifer Garner has been acting for more than 20 years.	E	T51_mod_1	Jennifer Garner has been acting for more than 20 years.	C
+0	IA2	T8	Jeffrey Dahmer was convicted of several crimes.	E	T8_mod_2	Jeffrey Dahmer was convicted of several crimes.	C
+0	IA1	T51	Jennifer Garner was born in the Fall of 1972.	C	T51_mod_2	Jennifer Garner was born in the Fall of 1972.	E
+0	IA0	T51	Jennifer Garner has been married twice.	E	T51_mod_3	Jennifer Garner has been married twice.	C
+0	IA2	T8	Jeffrey Dahmer was known for killing people.	E	T8_mod_3	Jeffrey Dahmer was known for killing people.	C
+0	IA0	T8	Jeffrey Dahmer was a person that died when they were forty.	C	T8_mod_4	Jeffrey Dahmer was a person that died when they were forty.	E
+0	IA0	T51	Jennifer Garner was born in the northwest area of the U.S.	C	T51_mod_4	Jennifer Garner was born in the northwest area of the U.S.	E
+0	IA0	T51	Jennifer Garner kept her given name when she became an actor.	E	T51_mod_5	Jennifer Garner kept her given name when she became an actor.	C
+0	IA0	T51	Jennifer Garner has a PhD in theater from UCLA.	C	T51_mod_6	Jennifer Garner has a PhD in theater from UCLA.	E
+0	IA0	T8	Jeffrey Dahmer was under two meters tall.	E	T8_mod_5	Jeffrey Dahmer was under two meters tall.	C
+0	IA0	T2024	Usually a hot dog is made of pork, beef, or chicken.	E	T2024_mod_1	Usually a hot dog is made of pork, beef, or chicken.	C
+0	IA0	T2024	A hot dog usually has fewer than 100 calories.	C	T2024_mod_2	A hot dog usually has fewer than 100 calories.	E
+0	IA0	T2024	Hot dogs are supposed to be cooked before eating.	E	T2024_mod_3	Hot dogs are supposed to be cooked before eating.	C
+0	IA1	T8	Jeffrey Dahmer was given the death penalty.	C	T8_mod_6	Jeffrey Dahmer was given the death penalty.	E
+0	IA0	T2024	A hot dog has less than 200 kcal per serving.	C	T2024_mod_4	A hot dog has less than 200 kcal per serving.	E
+0	IA2	T9	Since 1963, Jeffrey Lynne actively engaged in the profession of Musician, singer-songwriter and record producer.	E	T9_mod_1	Since 1963, Jeffrey Lynne actively engaged in the profession of Musician, singer-songwriter and record producer.	C
+0	IA0	T9	Jeffrey Lynne age is below 70.	C	T9_mod_2	Jeffrey Lynne age is below 70.	E
+0	IA0	T9	Jeffrey Lynne had multiple nicknames.	E	T9_mod_3	Jeffrey Lynne had multiple nicknames.	C
+0	IA0	T9	Jeffrey Lynne was signed to a single label throughout his career.	C	T9_mod_4	Jeffrey Lynne was signed to a single label throughout his career.	E
+0	IA2	T2024	Hot dogs contain more than 200 kcal.	E	T2024_mod_5	Hot dogs contain more than 200 kcal.	C
+0	IA2	T9	Jeff Lynne was born in the Winter of 1947.	E	T9_mod_5	Jeff Lynne was born in the Winter of 1947.	C
+0	IA0	T2024	Hot dogs contain less than 200 kcal.	C	T2024_mod_6	Hot dogs contain less than 200 kcal.	E
+0	IA0	T9	Jeff Lynne has been active in music for more than 60 years.	C	T9_mod_6	Jeff Lynne has been active in music for more than 60 years.	E
+0	IA2	T2024	Hot dogs usually have over 200 kcal.	E	T2024_mod_7	Hot dogs usually have over 200 kcal.	C
+0	IA0	T10	Born to Run was released in the summer of 1975.	E	T10_mod_1	Born to Run was released in the summer of 1975.	C
+0	IA2	T2024	Hot dogs have virtually no calories.	C	T2024_mod_8	Hot dogs have virtually no calories.	E
+0	IA1	T10	Born to Run was recorded in a single New York studio.	C	T10_mod_2	Born to Run was recorded in a single New York studio.	E
+0	IA0	T10	Born to Run was released in the second half of 1975.	E	T10_mod_3	Born to Run was released in the second half of 1975.	C
+0	IA0	T10	It took over a year to record the album Born to Run.	E	T10_mod_4	It took over a year to record the album Born to Run.	C
+0	IA0	T10	The Spring of 1975 is when Born to Run was released.	C	T10_mod_5	The Spring of 1975 is when Born to Run was released.	E
+0	IA2	T11	Jock Lewes likely died while serving in the military.	E	T11_mod_1	Jock Lewes likely died while serving in the military.	C
+0	IA0	T11	Jock Lewes was born in the Spring of 1913.	C	T11_mod_2	Jock Lewes was born in the Spring of 1913.	E
+0	IA0	T11	Jock Lewes fought when Hitler was in power in Germany.	E	T11_mod_3	Jock Lewes fought when Hitler was in power in Germany.	C
+0	IA0	T2024	There are multiple variations of hot dog.	E	T2024_mod_9	There are multiple variations of hot dog.	C
+0	IA2	T11	Jock Lewes fought in Operation Dessert Storm.	C	T11_mod_4	Jock Lewes fought in Operation Dessert Storm.	E
+0	IA2	T2024	Hot dogs provide about 500 kcal of energy.	C	T2024_mod_10	Hot dogs provide about 500 kcal of energy.	E
+0	IA0	T11	Jock Lewes was in the military for over five years.	E	T11_mod_5	Jock Lewes was in the military for over five years.	C
+0	IA0	T54	A minority of Burkina Faso's population identify as Tuareg.	E	T54_mod_1	A minority of Burkina Faso's population identify as Tuareg.	C
+0	IA0	T11	Jock Lewes died in his home country.	C	T11_mod_6	Jock Lewes died in his home country.	E
+0	IA0	T54	Burkina Faso has more than one official language.	C	T54_mod_2	Burkina Faso has more than one official language.	E
+0	IA0	T15	Peter Benchley worked on both the original story and the screenplay for Jaws.	E	T15_mod_1	Peter Benchley worked on both the original story and the screenplay for Jaws.	C
+0	IA0	T54	There are fewer Senufo people than Tuareg.	C	T54_mod_3	There are fewer Senufo people than Tuareg.	E
+0	IA0	T15	The film Jaws came out in the summer of 1975.	E	T15_mod_2	The film Jaws came out in the summer of 1975.	C
+0	IA0	T54	Most people in Burkina Faso speak French.	E	T54_mod_4	Most people in Burkina Faso speak French.	C
+0	IA2	T15	The film Jaws made only $10 million on release.	C	T15_mod_3	The film Jaws made only $10 million on release.	E
+0	IA0	T54	Burkina Faso is controlled by a monarchy.	C	T54_mod_5	Burkina Faso is controlled by a monarchy.	E
+0	IA0	T15	Jaws was released in the Summer of 1975.	E	T15_mod_4	Jaws was released in the Summer of 1975.	C
+0	IA0	T1867	The album Invincible was released in the fall of 2001.	E	T1867_mod_1	The album Invincible was released in the fall of 2001.	C
+0	IA0	T15	Jaws' run time is under two hours long.	C	T15_mod_5	Jaws' run time is under two hours long.	E
+0	IA0	T1867	The album Invincible was less than an hour in length.	C	T1867_mod_2	The album Invincible was less than an hour in length.	E
+0	IA1	T16	Ethiopian Empire had many different capitals in different time periods.	E	T16_mod_1	Ethiopian Empire had many different capitals in different time periods.	C
+0	IA0	T1867	Invincible was recorded at more than one record studio.	E	T1867_mod_3	Invincible was recorded at more than one record studio.	C
+0	IA0	T1867	Invincible was produced by two people.	C	T1867_mod_4	Invincible was produced by two people.	E
+0	IA2	T16	The Ethiopian Empire was admitted to the United Nations just after World War 2.	E	T16_mod_2	The Ethiopian Empire was admitted to the United Nations just after World War 2.	C
+0	IA1	T16	The Italo-Ethiopian War was late in the 18th century.	C	T16_mod_3	The Italo-Ethiopian War was late in the 18th century.	E
+0	IA0	T1867	Invincible took almost four years to record.	E	T1867_mod_5	Invincible took almost four years to record.	C
+0	IA0	T16	Gondar was the capital of Ethiopia for over two hundred years.	E	T16_mod_4	Gondar was the capital of Ethiopia for over two hundred years.	C
+0	IA2	T1867	There were over 15 producers on Invincible.	C	T1867_mod_6	There were over 15 producers on Invincible.	E
+0	IA0	T16	Mikael Imru was Prime Minister of Ethiopia after Habte Giyorgis	C	T16_mod_5	Mikael Imru was Prime Minister of Ethiopia after Habte Giyorgis	E
+0	IA2	T18	James Paul Marsden was born in the 20th century.	E	T18_mod_1	James Paul Marsden was born in the 20th century.	C
+0	IA2	T1867	Invincible was recorded over a more than a three year span	E	T1867_mod_7	Invincible was recorded over a more than a three year span	C
+0	IA1	T1867	Invincible is represented by more than one label	C	T1867_mod_8	Invincible is represented by more than one label	E
+0	IA2	T18	James Paul Marsden was born in the 19th century.	C	T18_mod_2	James Paul Marsden was born in the 19th century.	E
+0	IA0	T1867	Invincible took nearly 4 years to record.	E	T1867_mod_9	Invincible took nearly 4 years to record.	C
+0	IA2	T1867	Invincible was under an hour in length when it was released.	C	T1867_mod_10	Invincible was under an hour in length when it was released.	E
+0	IA2	T18	James Marsden was married more than five years.	E	T18_mod_3	James Marsden was married more than five years.	C
+0	IA0	T1867	Invincible was released in fall of 2001.	E	T1867_mod_11	Invincible was released in fall of 2001.	C
+0	IA0	T18	The middle name of James Marsden is Linde.	C	T18_mod_4	The middle name of James Marsden is Linde.	E
+0	IA2	T1867	Invincible has a playtime of less than one hour.	C	T1867_mod_12	Invincible has a playtime of less than one hour.	E
+0	IA0	T18	James Marsden has been acting and modeling for more than 25 years.	E	T18_mod_5	James Marsden has been acting and modeling for more than 25 years.	C
+0	IA0	T591	The Chromatics formed in the western U.S.	E	T591_mod_1	The Chromatics formed in the western U.S.	C
+0	IA1	T18	James Marsden was born in the Spring of 1973.	C	T18_mod_6	James Marsden was born in the Spring of 1973.	E
+0	IA0	T21	Christ in the Desert was painted in the latter half of the 19th century.	E	T21_mod_1	Christ in the Desert was painted in the latter half of the 19th century.	C
+0	IA0	T21	The longer side of the painting is less than 6 feet long.	C	T21_mod_2	The longer side of the painting is less than 6 feet long.	E
+0	IA0	T21	Christ in the Desert is located in Moscow.	E	T21_mod_3	Christ in the Desert is located in Moscow.	C
+0	IA1	T21	The art piece Christ in the Desert is over six feet tall.	C	T21_mod_4	The art piece Christ in the Desert is over six feet tall.	E
+0	IA2	T591	The Chromatics are known for playing heavy metal.	C	T591_mod_2	The Chromatics are known for playing heavy metal.	E
+0	IA2	T591	Chromatics was formed in the Northwest.	E	T591_mod_3	Chromatics was formed in the Northwest.	C
+0	IA0	T21	Christ in the Desert was painted by Ivan Kramskoi in the early 1870s.	E	T21_mod_5	Christ in the Desert was painted by Ivan Kramskoi in the early 1870s.	C
+0	IA0	T21	Christ in the Desert was sculpted in the 1900s.	C	T21_mod_6	Christ in the Desert was sculpted in the 1900s.	E
+0	IA2	T591	Chromatics has been a band for over 20 years.	C	T591_mod_4	Chromatics has been a band for over 20 years.	E
+0	IA0	T591	Chromatics was formed on the west coast of the United States.	E	T591_mod_5	Chromatics was formed on the west coast of the United States.	C
+0	IA0	T22	Everything, Everything made about 50 million dollars over it's budget.	E	T22_mod_1	Everything, Everything made about 50 million dollars over it's budget.	C
+0	IA0	T22	Everything, Everything has a run time over two hours long.	C	T22_mod_2	Everything, Everything has a run time over two hours long.	E
+0	IA2	T591	The band Chromatics is known for playing metal music.	C	T591_mod_6	The band Chromatics is known for playing metal music.	E
+0	IA0	T591	Chromatics from Portland, Oregon, US gives us Synth-pop, synth-rock, indie rock, dream pop songs.	E	T591_mod_7	Chromatics from Portland, Oregon, US gives us Synth-pop, synth-rock, indie rock, dream pop songs.	C
+0	IA2	T591	Chromatics has a own website	C	T591_mod_8	Chromatics has a own website	E
+0	IA0	T591	Chromatics originated from Portland, Oregon, US	E	T591_mod_9	Chromatics originated from Portland, Oregon, US	C
+0	IA0	T22	Everything, Everything made over six times its budget while in the box office.	E	T22_mod_3	Everything, Everything made over six times its budget while in the box office.	C
+0	IA1	T22	Everything, Everything was over two hours long.	C	T22_mod_4	Everything, Everything was over two hours long.	E
+0	IA2	T591	The Chromatics are an indie, synth-pop band from Portland, Oregon.	E	T591_mod_10	The Chromatics are an indie, synth-pop band from Portland, Oregon.	C
+0	IA1	T22	Everything, Everything was a movie that Stella Meghie directed.	E	T22_mod_5	Everything, Everything was a movie that Stella Meghie directed.	C
+0	IA0	T22	The film Everything, Everything wound up losing money at the box office.	C	T22_mod_6	The film Everything, Everything wound up losing money at the box office.	E
+0	IA0	T438	Children's Games is older than three hundred years.	E	T438_mod_1	Children's Games is older than three hundred years.	C
+0	IA1	T23	The run time of Jason Bourne is longer than two hours.	E	T23_mod_1	The run time of Jason Bourne is longer than two hours.	C
+0	IA2	T438	Children's Games was a painting that was done in the 16th century.	E	T438_mod_2	Children's Games was a painting that was done in the 16th century.	C
+0	IA0	T23	The box office of Jason Bourne was almost 400 million dollars more than the budget.	C	T23_mod_2	The box office of Jason Bourne was almost 400 million dollars more than the budget.	E
+0	IA0	T438	The Children's Games painting is held in Paris France.	C	T438_mod_3	The Children's Games painting is held in Paris France.	E
+0	IA2	T23	Jason Bourne is over two hours long in running time.	E	T23_mod_3	Jason Bourne is over two hours long in running time.	C
+0	IA0	T23	Jason Bourne premiered in the United States before Odeon Leicester Square.	C	T23_mod_4	Jason Bourne premiered in the United States before Odeon Leicester Square.	E
+0	IA0	T23	The movie Jason Bourne was released during the summer.	E	T23_mod_5	The movie Jason Bourne was released during the summer.	C
+0	IA2	T23	The movie Jason Bourne earned over half a million dollars at the box office.	C	T23_mod_6	The movie Jason Bourne earned over half a million dollars at the box office.	E
+0	IA1	T24	Jimmy Eat World was formed in the Southwestern United States.	E	T24_mod_1	Jimmy Eat World was formed in the Southwestern United States.	C
+0	IA0	T438	Children's Games was painted in the 16th century.	E	T438_mod_4	Children's Games was painted in the 16th century.	C
+0	IA1	T24	Jimmy Eat World has been a band for more than 30 years.	C	T24_mod_2	Jimmy Eat World has been a band for more than 30 years.	E
+0	IA0	T24	Jimmy Eat World were founded in the early 1990's.	E	T24_mod_3	Jimmy Eat World were founded in the early 1990's.	C
+0	IA2	T438	The wider side Children's Games measures over 7 feet long.	C	T438_mod_5	The wider side Children's Games measures over 7 feet long.	E
+0	IA0	T438	Children's Games is a painting located in Austria.	E	T438_mod_6	Children's Games is a painting located in Austria.	C
+0	IA2	T24	Jimmy Eat World are from Minnesota.	C	T24_mod_4	Jimmy Eat World are from Minnesota.	E
+0	IA0	T438	Children's Games is a 15th century masterpiece.	C	T438_mod_7	Children's Games is a 15th century masterpiece.	E
+0	IA0	T24	Jimmy eat world is a band from Arizona which place multiple genres.	E	T24_mod_5	Jimmy eat world is a band from Arizona which place multiple genres.	C
+0	IA0	T438	'Children's Games' was done by Pieter Bruegel the Elder in 1560.	E	T438_mod_8	'Children's Games' was done by Pieter Bruegel the Elder in 1560.	C
+0	IA2	T24	Jimmy eat world primarily plays classical music.	C	T24_mod_6	Jimmy eat world primarily plays classical music.	E
+0	IA0	T25	BTS is from the capital of South Korea.	E	T25_mod_1	BTS is from the capital of South Korea.	C
+0	IA2	T438	'Children's Games' by Pieter Bruegel is in private hands.	C	T438_mod_9	'Children's Games' by Pieter Bruegel is in private hands.	E
+0	IA0	T25	BTS are known for country music.	C	T25_mod_2	BTS are known for country music.	E
+0	IA2	T438	The painting Children's Games was published in the 16th century.	E	T438_mod_10	The painting Children's Games was published in the 16th century.	C
+0	IA1	T25	BTS has gone by at least a few different names in the past.	E	T25_mod_3	BTS has gone by at least a few different names in the past.	C
+0	IA0	T438	The painting Children's Games has been placed in a museum in Russia.	C	T438_mod_11	The painting Children's Games has been placed in a museum in Russia.	E
+0	IA0	T25	BTS has been a band since the early 2000s.	C	T25_mod_4	BTS has been a band since the early 2000s.	E
+0	IA0	T58	John Kay lived the final days of his life in France	E	T58_mod_1	John Kay lived the final days of his life in France	C
+0	IA0	T25	BTS originated in Asia.	E	T25_mod_5	BTS originated in Asia.	C
+0	IA2	T25	BTS has been active for 9 years.	C	T25_mod_6	BTS has been active for 9 years.	E
+0	IA0	T58	John Kay died in the second half of the 18th century.	E	T58_mod_2	John Kay died in the second half of the 18th century.	C
+0	IA0	T27	Charlie and the Chocolate Factory brought in close to half a billion dollars at the box office.	E	T27_mod_1	Charlie and the Chocolate Factory brought in close to half a billion dollars at the box office.	C
+0	IA0	T58	John Kay was born in the Fall of 1704.	C	T58_mod_3	John Kay was born in the Fall of 1704.	E
+0	IA0	T27	Charlie and the Chocolate Factory has a run time of more than 2 hours.	C	T27_mod_2	Charlie and the Chocolate Factory has a run time of more than 2 hours.	E
+0	IA1	T58	One of their children shares the name of John's father.	E	T58_mod_4	One of their children shares the name of John's father.	C
+0	IA0	T27	Charlie and the Chocolate Factory had more than 2 production companies.	E	T27_mod_3	Charlie and the Chocolate Factory had more than 2 production companies.	C
+0	IA2	T58	John Kay was conceived in early summer.	C	T58_mod_5	John Kay was conceived in early summer.	E
+0	IA0	T27	Charlie and the Chocolate Factory was released at Christmas.	C	T27_mod_4	Charlie and the Chocolate Factory was released at Christmas.	E
+0	IA0	T59	Ex Machina was published for over five years.	E	T59_mod_1	Ex Machina was published for over five years.	C
+0	IA1	T59	There is less than 40 issues of Ex Machina.	C	T59_mod_2	There is less than 40 issues of Ex Machina.	E
+0	IA2	T27	Charlie and the Chocolate Factory is not an original screenplay.	E	T27_mod_5	Charlie and the Chocolate Factory is not an original screenplay.	C
+0	IA0	T27	The Whole movie budget costed less than 100 million dollars to be made.	C	T27_mod_6	The Whole movie budget costed less than 100 million dollars to be made.	E
+0	IA2	T59	New editions of Ex Machina come out 12 times per year.	E	T59_mod_3	New editions of Ex Machina come out 12 times per year.	C
+0	IA0	T462	Chocolate Starfish and the Hot Dog Flavored Water is an album that came out in the fall of 2000.	E	T462_mod_1	Chocolate Starfish and the Hot Dog Flavored Water is an album that came out in the fall of 2000.	C
+0	IA2	T59	Ex Machina is only published in the summer months.	C	T59_mod_4	Ex Machina is only published in the summer months.	E
+0	IA1	T59	Ex Machina has more than 50 issues.	E	T59_mod_5	Ex Machina has more than 50 issues.	C
+0	IA0	T462	The album Chocolate Starfish and the Hot Dog Flavored Water is under an hour in length.	C	T462_mod_2	The album Chocolate Starfish and the Hot Dog Flavored Water is under an hour in length.	E
+0	IA2	T462	It took about 3 months to record Chocolate Starfish and the Hot Dog Flavored Water.	E	T462_mod_3	It took about 3 months to record Chocolate Starfish and the Hot Dog Flavored Water.	C
+0	IA2	T59	The theme of Ex Machina is futuristic.	C	T59_mod_6	The theme of Ex Machina is futuristic.	E
+0	IA2	T462	The total run time of all the tracks on Chocolate Starfish and the Hot Dog Flavored Water is less than one hour.	C	T462_mod_4	The total run time of all the tracks on Chocolate Starfish and the Hot Dog Flavored Water is less than one hour.	E
+0	IA0	T60	Joe Walsh was born in the Fall of 1947.	E	T60_mod_1	Joe Walsh was born in the Fall of 1947.	C
+0	IA0	T60	Joe Walsh was born in the Spring of 1947.	C	T60_mod_2	Joe Walsh was born in the Spring of 1947.	E
+0	IA0	T462	Chocolate Starfish and the Hot Dog Flavored Water was recorded in California.	E	T462_mod_5	Chocolate Starfish and the Hot Dog Flavored Water was recorded in California.	C
+0	IA0	T60	Joe Walsh has been in the music business for decades.	E	T60_mod_3	Joe Walsh has been in the music business for decades.	C
+0	IA0	T462	Chocolate Starfish and the Hot Dog Flavored Water is over eighty minutes long.	C	T462_mod_6	Chocolate Starfish and the Hot Dog Flavored Water is over eighty minutes long.	E
+0	IA0	T462	Chocolate Starfish and the Hot Dog Flavored Water is a rap metal album released in the year 2000.	E	T462_mod_7	Chocolate Starfish and the Hot Dog Flavored Water is a rap metal album released in the year 2000.	C
+0	IA0	T60	Joe Walsh has been active for over fifty years.	E	T60_mod_4	Joe Walsh has been active for over fifty years.	C
+0	IA0	T462	"The recording of ""Chocolate Starfish and the Hot Dog Flavored Water"" began in late 1999 in New York."	C	T462_mod_8	"The recording of ""Chocolate Starfish and the Hot Dog Flavored Water"" began in late 1999 in New York."	E
+0	IA0	T60	Joe Walsh is from the east coast of U.S.	C	T60_mod_5	Joe Walsh is from the east coast of U.S.	E
+0	IA0	T462	Chocolate Starfish and the Hot Dog Flavored Water is an album recorded and released within one year.	E	T462_mod_9	Chocolate Starfish and the Hot Dog Flavored Water is an album recorded and released within one year.	C
+0	IA0	T61	Hostiles has a run time over 2 hours long.	E	T61_mod_1	Hostiles has a run time over 2 hours long.	C
+0	IA0	T462	Chocolate Starfish and the Hot Dog Flavored Water was released over two decades ago.	C	T462_mod_10	Chocolate Starfish and the Hot Dog Flavored Water was released over two decades ago.	E
+0	IA0	T61	Hostiles made more money at the box office than the budget was.	C	T61_mod_2	Hostiles made more money at the box office than the budget was.	E
+0	IA2	T462	Chocolate Starfish and the Hot Dog Flavored Water was recorded in Los Angeles in the spring.	E	T462_mod_11	Chocolate Starfish and the Hot Dog Flavored Water was recorded in Los Angeles in the spring.	C
+0	IA0	T61	Hostiles was written and directed by the same person.	E	T61_mod_3	Hostiles was written and directed by the same person.	C
+0	IA0	T462	The length of Chocolate Starfish and the Hot Dog Flavored Water is over 100 minutes.	C	T462_mod_12	The length of Chocolate Starfish and the Hot Dog Flavored Water is over 100 minutes.	E
+0	IA2	T61	The box office receipts for Holstiles were twice the budget.	C	T61_mod_4	The box office receipts for Holstiles were twice the budget.	E
+0	IA0	T32	John Frusciante was born in the spring.	E	T32_mod_1	John Frusciante was born in the spring.	C
+0	IA2	T32	John Frusciante is a Baby Boomer.	C	T32_mod_2	John Frusciante is a Baby Boomer.	E
+0	IA1	T61	The film Hostiles is over two hours long.	E	T61_mod_5	The film Hostiles is over two hours long.	C
+0	IA1	T32	John Frusciante has been performing for over twenty years.	E	T32_mod_3	John Frusciante has been performing for over twenty years.	C
+0	IA0	T61	The film Hostiles made $50 million in the box office.	C	T61_mod_6	The film Hostiles made $50 million in the box office.	E
+0	IA0	T32	John Frusciante plays only one instrument.	C	T32_mod_4	John Frusciante plays only one instrument.	E
+0	IA0	T62	Kate Mara lives in California.	E	T62_mod_1	Kate Mara lives in California.	C
+0	IA2	T32	John Frusciante has made music for more than 30 years.	E	T32_mod_5	John Frusciante has made music for more than 30 years.	C
+0	IA0	T32	John Frusciante was born in the Summer of 1970.	C	T32_mod_6	John Frusciante was born in the Summer of 1970.	E
+0	IA0	T62	Kate Mara was born in the Fall of 1983.	E	T62_mod_2	Kate Mara was born in the Fall of 1983.	C
+0	IA0	T33	K2-21c has a temperature of at least 3000K.	E	T33_mod_1	K2-21c has a temperature of at least 3000K.	C
+0	IA0	T62	Kate Mara has been active in her career for less than 20 years.	C	T62_mod_3	Kate Mara has been active in her career for less than 20 years.	E
+0	IA0	T62	Kate Rooney Mara was born in Bedford, New York.	E	T62_mod_4	Kate Rooney Mara was born in Bedford, New York.	C
+0	IA0	T33	The size of K2-21c is unknown, but estimated at greater than 1R_.	C	T33_mod_2	The size of K2-21c is unknown, but estimated at greater than 1R_.	E
+0	IA0	T33	The star K2-21c is located in the Aquarius constellation.	E	T33_mod_3	The star K2-21c is located in the Aquarius constellation.	C
+0	IA0	T62	Kate Rooney Mara currently resides in  Bedford, New York.	C	T62_mod_5	Kate Rooney Mara currently resides in  Bedford, New York.	E
+0	IA0	T33	K2-21c is over 5000 degrees K.	C	T33_mod_4	K2-21c is over 5000 degrees K.	E
+0	IA2	T66	Jeffrey Bruce Atkins was born in the 20th century.	E	T66_mod_1	Jeffrey Bruce Atkins was born in the 20th century.	C
+0	IA2	T33	K2-21c is greater than 1 Gyr old.	E	T33_mod_5	K2-21c is greater than 1 Gyr old.	C
+0	IA0	T66	Jeffrey Bruce Atkins was signed to Def Jam after leaving Fontana.	C	T66_mod_2	Jeffrey Bruce Atkins was signed to Def Jam after leaving Fontana.	E
+0	IA2	T66	Ja Rule has been active in his career since he was 17.	E	T66_mod_3	Ja Rule has been active in his career since he was 17.	C
+0	IA0	T33	K2-21 is not 1 Gyr old yet.	C	T33_mod_6	K2-21 is not 1 Gyr old yet.	E
+0	IA1	T66	Ja Rule was born in the western US.	C	T66_mod_4	Ja Rule was born in the western US.	E
+0	IA0	T34	One of John Paul Getty III's parents had been knighted.	E	T34_mod_1	One of John Paul Getty III's parents had been knighted.	C
+0	IA0	T66	Ja Rule has been active in music for over 25 years.	E	T66_mod_5	Ja Rule has been active in music for over 25 years.	C
+0	IA0	T34	John Paul Getty III died in the Fall of 2011.	C	T34_mod_2	John Paul Getty III died in the Fall of 2011.	E
+0	IA0	T34	John Paul Getty III died in a different country than he was born.	E	T34_mod_3	John Paul Getty III died in a different country than he was born.	C
+0	IA1	T66	Ja Rule was born in the Summer of 1976.	C	T66_mod_6	Ja Rule was born in the Summer of 1976.	E
+0	IA0	T2021	Horrie was a small, male canine.	E	T2021_mod_1	Horrie was a small, male canine.	C
+0	IA0	T34	John Paul Getty III has only one sibling.	C	T34_mod_4	John Paul Getty III has only one sibling.	E
+0	IA0	T2021	Horrie had an active career as a mascot for about five years.	C	T2021_mod_2	Horrie had an active career as a mascot for about five years.	E
+0	IA0	T2021	Horrie was born in the 2nd quarter century of the 20th century.	E	T2021_mod_3	Horrie was born in the 2nd quarter century of the 20th century.	C
+0	IA0	T34	John Paul Getty III was born in Minnesota.	E	T34_mod_5	John Paul Getty III was born in Minnesota.	C
+0	IA0	T2021	Horrie was active in the military for three years.	C	T2021_mod_4	Horrie was active in the military for three years.	E
+0	IA2	T34	John Paul Getty III died on February 5, 2011 (aged 54)	C	T34_mod_6	John Paul Getty III died on February 5, 2011 (aged 54)	E
+0	IA0	T2021	He was active for a year	E	T2021_mod_5	He was active for a year	C
+0	IA2	T1909	Sir Hiram Stevens Maxim was born in the northeast part on the United States.	E	T1909_mod_1	Sir Hiram Stevens Maxim was born in the northeast part on the United States.	C
+0	IA0	T2021	He was never employed	C	T2021_mod_6	He was never employed	E
+0	IA0	T1909	Sir Hiram Stevens Maxim married Jane Budden after Sarah Haynes.	C	T1909_mod_2	Sir Hiram Stevens Maxim married Jane Budden after Sarah Haynes.	E
+0	IA2	T1909	Sir Hiram Stevens Maxim had 2 daughters and 1 son.	E	T1909_mod_3	Sir Hiram Stevens Maxim had 2 daughters and 1 son.	C
+0	IA0	T2021	Horrie the dog was originally born in Africa.	E	T2021_mod_7	Horrie the dog was originally born in Africa.	C
+0	IA0	T2021	The dog Horrie was the mascot for an air force.	C	T2021_mod_8	The dog Horrie was the mascot for an air force.	E
+0	IA0	T1909	Sir Hiram Stevens Maxim was born in the springtime.	C	T1909_mod_4	Sir Hiram Stevens Maxim was born in the springtime.	E
+0	IA2	T2021	Horrie originates from Egypt.	E	T2021_mod_9	Horrie originates from Egypt.	C
+0	IA0	T1909	Sir Hiram Stevens Maxim died in the Spring of 1916.	E	T1909_mod_5	Sir Hiram Stevens Maxim died in the Spring of 1916.	C
+0	IA0	T2021	Horrie died in 1950.	C	T2021_mod_10	Horrie died in 1950.	E
+0	IA0	T2021	Horrie was a military mascot.	E	T2021_mod_11	Horrie was a military mascot.	C
+0	IA0	T1909	Sir Hiram Stevens Maxim was born in and died in two different countries.	E	T1909_mod_6	Sir Hiram Stevens Maxim was born in and died in two different countries.	C
+0	IA0	T2021	The army was the owner of Horrie.	C	T2021_mod_12	The army was the owner of Horrie.	E
+0	IA2	T1909	Sir Hiram Stevens Maxim was an only child.	C	T1909_mod_7	Sir Hiram Stevens Maxim was an only child.	E
+0	IA0	T1909	Sir Hiram Stevens Maxim invented Maxim gun and he claimed he is the one who invented light bulb.	E	T1909_mod_8	Sir Hiram Stevens Maxim invented Maxim gun and he claimed he is the one who invented light bulb.	C
+0	IA2	T2021	Horrie's birth, and death, occurred in two different countries.	E	T2021_mod_13	Horrie's birth, and death, occurred in two different countries.	C
+0	IA2	T1909	He and his brother together made the inventions.	C	T1909_mod_9	He and his brother together made the inventions.	E
+0	IA1	T1909	Sir Hiram Stevens Maxim died at a young age.	C	T1909_mod_10	Sir Hiram Stevens Maxim died at a young age.	E
+0	IA0	T69	Flying Microtonal Banana was under 45 minutes in length.	E	T69_mod_1	Flying Microtonal Banana was under 45 minutes in length.	C
+0	IA0	T69	Flying Microtonal Banana is an album of classical music.	C	T69_mod_2	Flying Microtonal Banana is an album of classical music.	E
+0	IA2	T36	Joe Budden has been active for 20 years or more.	E	T36_mod_1	Joe Budden has been active for 20 years or more.	C
+0	IA0	T36	Joe Budden was born in the Spring of 1980.	C	T36_mod_2	Joe Budden was born in the Spring of 1980.	E
+0	IA0	T69	Flying Microtonal Banana was released on February 24, 2017	E	T69_mod_3	Flying Microtonal Banana was released on February 24, 2017	C
+0	IA0	T36	Joe Budden was born in New York	E	T36_mod_3	Joe Budden was born in New York	C
+0	IA2	T69	Flying Microtonal Banana is 1 hour long	C	T69_mod_4	Flying Microtonal Banana is 1 hour long	E
+0	IA0	T69	It took less than a year to record the album.	E	T69_mod_5	It took less than a year to record the album.	C
+0	IA0	T36	Joe Budden was born in New Jersey	C	T36_mod_4	Joe Budden was born in New Jersey	E
+0	IA0	T36	Joe Budden was born in the summer of 1980.	E	T36_mod_5	Joe Budden was born in the summer of 1980.	C
+0	IA0	T69	It will take you the entirety of a 2 hour drive to listen to the whole album.	C	T69_mod_6	It will take you the entirety of a 2 hour drive to listen to the whole album.	E
+0	IA2	T36	Joe Budden was born in the western United States.	C	T36_mod_6	Joe Budden was born in the western United States.	E
+0	IA0	T70	It snowed just under 2 feet in places in the February 2009 storm that hit Great Britain and Ireland.	E	T70_mod_1	It snowed just under 2 feet in places in the February 2009 storm that hit Great Britain and Ireland.	C
+0	IA0	T37	Chris Cornell died in the United States.	E	T37_mod_1	Chris Cornell died in the United States.	C
+0	IA2	T37	Chris Cornell was active for less than thirty years.	C	T37_mod_2	Chris Cornell was active for less than thirty years.	E
+0	IA0	T70	A mid-winter storm hit the British Isles and Western Europe in 2009.	E	T70_mod_2	A mid-winter storm hit the British Isles and Western Europe in 2009.	C
+0	IA0	T37	Chris Cornell was born on the west coast of the US.	E	T37_mod_3	Chris Cornell was born on the west coast of the US.	C
+0	IA0	T70	During the mid-winter storm of 2009, Dublin saw the greatest snow accumulations.	C	T70_mod_3	During the mid-winter storm of 2009, Dublin saw the greatest snow accumulations.	E
+0	IA0	T70	The February 2009 Great Britain and Ireland snowfall wound up being just shy of two feet tall.	E	T70_mod_4	The February 2009 Great Britain and Ireland snowfall wound up being just shy of two feet tall.	C
+0	IA0	T37	Chris Cornell was known for playing pop music.	C	T37_mod_4	Chris Cornell was known for playing pop music.	E
+0	IA0	T70	The February 2009 Great Britain and Ireland snowfall cost more than 5 billion pounds.	C	T70_mod_5	The February 2009 Great Britain and Ireland snowfall cost more than 5 billion pounds.	E
+0	IA0	T245	Chris Hardwick has been active in his career for over 25 years.	E	T245_mod_1	Chris Hardwick has been active in his career for over 25 years.	C
+0	IA0	T37	Chris Cornell died from a heart attack.	C	T37_mod_5	Chris Cornell died from a heart attack.	E
+0	IA1	T245	Chris Hardwick was born in the Northwest.	C	T245_mod_2	Chris Hardwick was born in the Northwest.	E
+0	IA0	T38	Chess was created in 500-600 AD.	E	T38_mod_1	Chess was created in 500-600 AD.	C
+0	IA0	T38	Chess is played with four people.	C	T38_mod_2	Chess is played with four people.	E
+0	IA1	T245	Chris Hardwick is over 40 years old.	E	T245_mod_3	Chris Hardwick is over 40 years old.	C
+0	IA0	T38	The game of chess requires more than one player.	E	T38_mod_3	The game of chess requires more than one player.	C
+0	IA2	T245	Lydia Hearst is Chris Hardwick's mother.	C	T245_mod_4	Lydia Hearst is Chris Hardwick's mother.	E
+0	IA0	T38	Chess was invented in the eighteenth century.	C	T38_mod_4	Chess was invented in the eighteenth century.	E
+0	IA0	T38	Chess was invented well before the year 1000CE.	E	T38_mod_5	Chess was invented well before the year 1000CE.	C
+0	IA2	T38	Chess is a game with little mental involvement.	C	T38_mod_6	Chess is a game with little mental involvement.	E
+0	IA0	T39	Ernesto Zedillo went to more than one school for college.	E	T39_mod_1	Ernesto Zedillo went to more than one school for college.	C
+0	IA0	T245	Chris Hardwick started working in the early 1990s.	E	T245_mod_5	Chris Hardwick started working in the early 1990s.	C
+0	IA0	T39	Ernesto Zedillo was born in the Spring of 1951.	C	T39_mod_2	Ernesto Zedillo was born in the Spring of 1951.	E
+0	IA0	T39	Ernesto Zedillo is a Mexican politician who is affiliated with the Institutional Revolutionary party	E	T39_mod_3	Ernesto Zedillo is a Mexican politician who is affiliated with the Institutional Revolutionary party	C
+0	IA0	T245	Chris Hardwick got married in 2002 to their wife.	C	T245_mod_6	Chris Hardwick got married in 2002 to their wife.	E
+0	IA0	T39	Ernesto Zedillo was born in the peak summer of 1951	C	T39_mod_4	Ernesto Zedillo was born in the peak summer of 1951	E
+0	IA0	T245	Christopher Ryan Hardwick is forth seven years old and  if the date of birth is 1971 it is correct.	E	T245_mod_7	Christopher Ryan Hardwick is forth seven years old and  if the date of birth is 1971 it is correct.	C
+0	IA1	T39	Ernesto Zedillo attended a university in California.	C	T39_mod_5	Ernesto Zedillo attended a university in California.	E
+0	IA0	T245	Chris Hardwick is an American entertainer.	E	T245_mod_8	Chris Hardwick is an American entertainer.	C
+0	IA0	T41	Kaitlin Olson is a female Californian comedian.	E	T41_mod_1	Kaitlin Olson is a female Californian comedian.	C
+0	IA1	T245	Chris Hardwick has been active since he was a teenager.	C	T245_mod_9	Chris Hardwick has been active since he was a teenager.	E
+0	IA2	T245	Christopher Ryan Hardwick was born in Kentucky.	E	T245_mod_10	Christopher Ryan Hardwick was born in Kentucky.	C
+0	IA0	T41	Kaitlin Olson retired in 2010.	C	T41_mod_2	Kaitlin Olson retired in 2010.	E
+0	IA0	T41	Kaitlin Olson was born in the Spring of 1975.	E	T41_mod_3	Kaitlin Olson was born in the Spring of 1975.	C
+0	IA0	T245	Christopher Ryan Hardwick was married before getting into comedy.	C	T245_mod_11	Christopher Ryan Hardwick was married before getting into comedy.	E
+0	IA0	T41	Kaitlin Olson has been acting or performing comedy for over 20 years.	C	T41_mod_4	Kaitlin Olson has been acting or performing comedy for over 20 years.	E
+0	IA0	T245	Chris Hardwick began doing comedy when they were 20.	E	T245_mod_12	Chris Hardwick began doing comedy when they were 20.	C
+0	IA1	T41	Kaitlin Olson started acting before 2005.	E	T41_mod_5	Kaitlin Olson started acting before 2005.	C
+0	IA1	T1747	I See You took over two years to record.	E	T1747_mod_1	I See You took over two years to record.	C
+0	IA0	T41	Kaitlin Olson has been married for over twenty years.	C	T41_mod_6	Kaitlin Olson has been married for over twenty years.	E
+0	IA0	T1747	I See You was released in the Summer of 2017.	C	T1747_mod_2	I See You was released in the Summer of 2017.	E
+0	IA0	T42	The album Everybody is more than an hour long.	E	T42_mod_3	The album Everybody is more than an hour long.	C
+0	IA0	T1747	I See You is an album that came out in the winter of 2017.	E	T1747_mod_3	I See You is an album that came out in the winter of 2017.	C
+0	IA0	T42	The album Everybody contains exactly 10 tracks.	C	T42_mod_4	The album Everybody contains exactly 10 tracks.	E
+0	IA0	T1747	The album I See You was over an hour long.	C	T1747_mod_4	The album I See You was over an hour long.	E
+0	IA0	T42	Everybody is over an hour and 10 minutes long.	E	T42_mod_5	Everybody is over an hour and 10 minutes long.	C
+0	IA0	T42	Everybody was released in late 2017.	C	T42_mod_6	Everybody was released in late 2017.	E
+0	IA1	T1747	I See You was released in 2017.	E	T1747_mod_5	I See You was released in 2017.	C
+0	IA0	T1747	I See You was released before Donald Trumps Presidency started.	C	T1747_mod_6	I See You was released before Donald Trumps Presidency started.	E
+0	IA0	T1747	I See You was released in 2017.	E	T1747_mod_7	I See You was released in 2017.	C
+0	IA1	T1747	I See You has a running time of over an hour.	C	T1747_mod_8	I See You has a running time of over an hour.	E
+0	IA0	T1747	I See You is an indie rock film	E	T1747_mod_9	I See You is an indie rock film	C
+0	IA2	T1747	I See You took over two years to record	E	T1747_mod_10	I See You took over two years to record	C
+0	IA2	T1747	I See You was released the same year that it finished recording	C	T1747_mod_11	I See You was released the same year that it finished recording	E
+0	IA0	T453	Chiswick Bitter is a type of Beer.	E	T453_mod_1	Chiswick Bitter is a type of Beer.	C
+0	IA0	T453	Chiswick Bitter has 8% Alcohol by volume.	C	T453_mod_2	Chiswick Bitter has 8% Alcohol by volume.	E
+0	IA2	T453	Chiswick Bitter has an alcohol content over two percent.	E	T453_mod_3	Chiswick Bitter has an alcohol content over two percent.	C
+0	IA0	T453	Chiswick Bitter has been around for over one hundred years.	C	T453_mod_4	Chiswick Bitter has been around for over one hundred years.	E
+0	IA1	T453	Chiswick Bitter was first made in the first half of the 20th century.	E	T453_mod_5	Chiswick Bitter was first made in the first half of the 20th century.	C
+0	IA0	T453	Chiswick Bitter has a very high ABV compared to other beers.	C	T453_mod_6	Chiswick Bitter has a very high ABV compared to other beers.	E
+0	IA2	T77	Jeon So-mi was born early in the 21st century.	E	T77_mod_1	Jeon So-mi was born early in the 21st century.	C
+0	IA0	T77	Jeon So-mi has been active in music for over 5 years.	C	T77_mod_2	Jeon So-mi has been active in music for over 5 years.	E
+0	IA0	T77	Jeon So-mi was born in the 21st century.	E	T77_mod_3	Jeon So-mi was born in the 21st century.	C
+0	IA2	T77	Jeon So-mi's stage name and birth name are the same.	C	T77_mod_4	Jeon So-mi's stage name and birth name are the same.	E
+0	IA0	T77	Jeon So-mi sings a style of music that is from Korea.	E	T77_mod_5	Jeon So-mi sings a style of music that is from Korea.	C
+0	IA0	T77	Jeon So-mi is from Aisa.	C	T77_mod_6	Jeon So-mi is from Aisa.	E
+0	IA0	T80	Channel Orange was recorded in 7 studios.	E	T80_mod_6	Channel Orange was recorded in 7 studios.	C
